@@ -36,9 +36,9 @@ Je to kopletní produkt pro připojení a řízení pristupu do Internetu a zabe
 Cenově přijatelná alternativa k Microsoft Exchange určená pro malé a střední firmy. Jedná se o multiplatformní e-mailový server s podporou mobilních zařízení. Kombinuje funkce e-mailového a groupwarového serveru s antivirovou kontrolou, účinnou antispamovou ochranou, archivací, automatickým zálohováním a vyniká lehce použitelným webovým rozhraním pro správu, dostupným ze všech běžných webových prohlížečů. Tento produkt je velmi flexibilní, umožňuje malým a středním podnikům využívat platformy a mobilní zařízení dle vlastního výběru. Pro tento produkt, jak již bylo zmíněno, je nově od roku 2016 poskytováno i Cloudové řešení.
 **Kerio Operator**
 Jednoduše konfigurovatelný podnikový telefonni systém, založený na přenosu telefonních horovů přes internet (VoIP). Produkt je navržen tak, aby usnadnil hlasovou komunikaci a přitom poskytl pokročilé funkce telefonních systému jako - konferenční hovory, dynamické hlasové konference, integrace s podnikovým CRM systémem, směrování hovorů, záznam hovorů, hlasovou poštu do e-mailu, podporu faxu, automatické hlasové menu a fronty hovorů.
-Kerio Operator Softphone je telefonní aplikace, která umožňuje přijímat hovory na mobilních zařízeních se systémy iOS nebo Android přímo z firemního telef
-
+Kerio Operator Softphone je telefonní aplikace, která umožňuje přijímat hovory na mobilních zařízeních se systémy iOS nebo Android přímo z firemního telefonního systému.
 **Cloudová služba Samepage**
+Je privátni cloud a platforma pro týmovou spolupráci. Tento produkt umožňuje vytvářet, organizovat a sdílet širokou škálu obsahu a pristupovat k němu prostřednictvím jediného intuitivního rozhraní. Slouží jako centrální bod pro spolupráci a informace, které jsou nutné pro týmovou spolupráci,vždy k dispozici. 
 (poznámka pod čarou: vyčlenění Samepage v době napsání této práce, ještě nebyl dokončen, proto je uvedena mezi produkty společnosti Kerio)
  
 
