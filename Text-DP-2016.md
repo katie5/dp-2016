@@ -88,6 +88,31 @@ Lze říci, že hlavním zdrojem informací o zákaznících je Marketo, ze kter
 Dlalším důležitým propojením je synchorizace z KISS do SFDC. Dříve se importovaly do SFDC pouze čísla licencí. Záznamy v KISS a SFDC jsou propojeny ID*. Mohlo docházet k tomu, že mohly vznikat duplicitní záznamy. Dlouhodobou snahou je, aby SFDC byl primární systém, ve kterém jsou drženy všechny záznamy o zákaznících a ty byly zanášeny do KISS.
 (poznámka pod čarou: Identifikační číslo)
 
+Po stručné definici jednotlivých systémů a jejich propojení můžeme přistoupit k charakteristice popisu procesů pro Sales team.
+
+#Stávající stav procesní dokumentace#
+V této kapitole bude nadefinován pojem proces, dále pak bude přiblížena organizační struktura Sales Týmu a nadefinované jednotlivé role tohoto týmu.
+Členové Sales Týmu nejčastěji pracují se systémem SFDC, který byl již charakterizován. Vybrané role v týmu pak pracují se systémem KISS.
+Dále je potřeba uvést, že jak již bylo zmíněno, společnost Kerio působí celosvětově, proto jsou procesní postupy uváděny v angličtině.
+
+##Definice Procesu##
+
+Proces je obecný pojem pro postupný tok aktivit, stavů, dějů nebo práce. V praxi se pojem proces používá v různých významech, v reálném světě existuje více typů procesů. Je proto důležité znát kontext v jakém se o procesu hovoří, aby nedocházelo k nedorozumění.
+
+**Business proces** - je chápán jako tok činností a práce
+**Produční proces** - je chápán jako tvorba hodnoty, produktu
+**Systémový proces** - je chápán jako běh softwaru
+**Výrobní process** - je chápán jako tvorba produktu
+**Technologický process** -  je chápán jako postup výroby nebo tvorby něčeho
+**Chemický process** - je chápán jako chemický děj
+
+V této diplomové práci bude označení process uživáno pro Business procesy, tedy pro popis toku činností a práce.
+
+**Bližší definece procesu**
+Řepa,V., 2006 definuje proces jako: _"Souhrn činností transformujících souhrn vstupů na sohrn výstupů(zboží nebo služeb) pro jiné lidi nebo procesy, používajíce k tomu lidi nebo nástroje"_
+
+Basl, J., 2002
+
 
 
 
