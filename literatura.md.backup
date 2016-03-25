@@ -23,3 +23,6 @@ http://www.crmsearch.com/marketing-automation.php
 
 **KISS**
 Interní zdroj: KISS_3.0- User Manual
+
+**Definice Procesů**
+https://managementmania.com/cs/proces

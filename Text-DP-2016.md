@@ -96,8 +96,18 @@ V této kapitole bude nadefinován pojem proces, dále pak bude přiblížena or
 Dále je potřeba uvést, že jak již bylo zmíněno, společnost Kerio působí celosvětově, proto jsou procesní postupy uváděny v angličtině.
 
 ##Definice Procesu##
+Procesy existují uvnitř každé organizace i mezi nimi. Procesy existují bez ohledu na to, jak dobře jsou řízeny.
+Každá organizace je v podstatě organizovaná soustava procesů a činností, které na sebe vzájemně navazují, vzájemně interagují, pobíhají napříč organizačními jednotkami, reagují na různé podněty z vnitřního i vnějšího prostředí. V procese se transformují st 
 
-Proces je obecný pojem pro postupný tok aktivit, stavů, dějů nebo práce. V praxi se pojem proces používá v různých významech, v reálném světě existuje více typů procesů. Je proto důležité znát kontext v jakém se o procesu hovoří, aby nedocházelo k nedorozumění.
+
+**Definece procesu dle literatury**
+Řepa,V., 2006 definuje proces jako: _„Souhrn činností transformujících souhrn vstupů na souhrn výstupů (zboží nebo služeb) pro jiné lidi nebo procesy, používajíce k tomu lidi nebo nástroje“._
+
+Basl, J., 2002: _„Proces je tok práce, postupující od jednoho člověka k druhému a v případě větších procesů pravděpodobně z jednoho útvaru do druhého“._
+
+Grasserová, M., 2008: _„Proces chápeme jako strukturovaný sled navazujících činností popisujících tok práce – postup tvorby přidané hodnoty – postupující od jednoho pracovníka ke druhému (v případě složitých procesů z jednoho útvaru do druhého), poskytující měřitelnou službu / výrobek internímu nebo externímu zákazníkovi za předpokladu přeměny vstupů na výstupy a využívání zdrojů.“_
+
+Proces je tedy možno obecně chápat jako pojem pro postupný tok aktivit, stavů, dějů nebo práce. V praxi se pojem proces používá v různých významech, v reálném světě existuje více typů procesů. Je proto důležité znát kontext v jakém se o procesu hovoří, aby nedocházelo k nedorozumění.
 
 **Business proces** - je chápán jako tok činností a práce
 **Produční proces** - je chápán jako tvorba hodnoty, produktu
@@ -106,12 +116,10 @@ Proces je obecný pojem pro postupný tok aktivit, stavů, dějů nebo práce. V
 **Technologický process** -  je chápán jako postup výroby nebo tvorby něčeho
 **Chemický process** - je chápán jako chemický děj
 
-V této diplomové práci bude označení process uživáno pro Business procesy, tedy pro popis toku činností a práce.
+V této diplomové práci bude označení proces uživáno pro Business procesy(taktéž podnikový proces či obchodní proces), tedy pro popis toku činností a práce.
 
-**Bližší definece procesu**
-Řepa,V., 2006 definuje proces jako: _"Souhrn činností transformujících souhrn vstupů na sohrn výstupů(zboží nebo služeb) pro jiné lidi nebo procesy, používajíce k tomu lidi nebo nástroje"_
 
-Basl, J., 2002
+
 
 
 

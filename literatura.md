@@ -26,3 +26,4 @@ Interní zdroj: KISS_3.0- User Manual
 
 **Definice Procesů**
 https://managementmania.com/cs/proces
+Petráčková, Krause, 1995, s. 620 jde o „zákonité, postupně na sebe navazující a vnitřně spojené, vzájemně spojené změny jevů, věcí a systémů“. (Zdroj: Akademický slovník cizích slov)
