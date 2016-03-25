@@ -54,16 +54,15 @@ Dále budou zmíněny i vazby mezi jednotlivými systémy, na které mělo vliv 
 
 ##Externí systémy##
 ###Salesforce###
-Salesforce (Dále jen SFDC) je CRM systém, který umožňuje shromažďovat, třídit a zpracovávat údaje o zákaznících, především jejich kontakty, prohíhající obchodní procesy.
+Salesforce (Dále jen SFDC) je CRM systém, který umožňuje shromažďovat, třídit a zpracovávat údaje o zákaznících, především jejich kontakty, probíhající obchodní procesy.
 CRM systémy obecně pak pomáhají sledovat a vyhodnocovat veškeré obchodní aktivity v rámci celé společnosti. Cílem je především zlepšit cílení služeb, lépe porozumět zákazníkům a identifikovat jejich konkrétní potřeby, umožňují budovat dlouhodobé vztahy se zákazníky.
 Společnost Kerio tento systém začala používat ke správě informací o svých zákaznících na přelomu let 2012 a 2013. V tomto období začalo vznikat i množství procesů, resp. pracovních postupů, jak používat tento systém správně. Těmto procesům bude věnována hlavní část práce.
 V této souvislosti je potřeba nadefinovat základní objekty, které jsou v SFDC používány a často se vyskytují v procesních popise.
-**Lead**
-**Account**
-**Contact**
-**Case**
-**Opportunity**
-**Lead**
+**Lead**- kontakt na potencionálního zákazníka, který projeví zájem o koupi produktu či služby
+**Account**- zde se jsou zobrazeny informace o společnosti, se kterou Kerio obchoduje,  nebo se chystá obchodovat. Lze zde najít informace jako: adresu společnosti, počet zaměstnanců, informace o prodejích a další podrobnosti. Je zde možné dohledat Opportunity, Case a list všech Contactů ve společnosti.
+**Contact**- Informace o konkrétní osobě z určité společnosti.
+**Case** - jsou většinou generovány na základě různých požadavků partnerů, či koncových uživatelů. Case negenerují přímo příjmy pro společnost.
+**Opportunity** - příležitosti, které společnosti vznikají. Mohou být nové, nebo generované automaticky pro obnovu stávající licence pro partnera (tzv. SWM). Hlavní zdroj příjmů pro společnost. 
 Salesforce je propojen s dalšími systému společnosti, jako jsou Marketo a KISS.
 (vysvětlivka pod čarou: CRM system -CRM je zkratka z anglického Customer Relationship Managament a označuje se tak systém pro řízení vztahů se zákazníky.
 ###Marketo###
@@ -73,9 +72,12 @@ V Marketu se tvoří e-mailové kampaně pro partnery, sledují se aktivity pote
 Zuora byla přidána, do souboru externích systému kvůli produktu Samepage. Jedná se o fakturační nástroj, který funguje na základě subscription business model- zákazník musí zaplatit "předplatné" (u SIO měsíční) aby mohl službu používat na plno. Platby byly prováděny přes tento systém a záznam o platbě propagován do SFDC.
 Zuora byla dále napojena na SIO, kde se subscripce vytvářely, i tato informace, vytvoření nového účtu ve službě SIO, byl propagován do SFDC.
 Tento systém v současnosti již není využíván společností Kerio, je zde uveden pouze pro úplnost.
+###WHMCS###
+Tento systém je nejnovějším přírůstkem mezi externími systémy. Firma ho začala využívat v souvislosti s nabízenou službou Kerio Cloud. Jedná se o platformu pro hostování a správu webů, fakturaci klientů s vysokou mírou automatizace(WHMCS - Web Hosting billing and Automation Platform). Tento systém je taktéž navázán na SFDC.
+
 ##Interní systém##
 ###KISS###
-Kerio Information and Sales System - zkráceně KISS - je informační systém, který umoňuje prodej Kerio produktů a to jak koncovým zákazníkům, tak partnerům. Zahruje objednávkový a fakturační systém, správu licencí a reporty. 
+Kerio Information and Sales System - zkráceně KISS - je interní informační systém, který byl vyvinut pro prodej Kerio produktů a to jak koncovým zákazníkům, tak partnerům. Zahruje objednávkový a fakturační systém, správu licencí a reporty. 
 Tento systém je napojen na SFDC, do SFDC se přenáší hlavně informace o licencích zákazníků, ale né jenom to.
 
 [Obrázek propojení systému - staré]
@@ -83,8 +85,12 @@ Na obrázku je zobrazeno propojení jednotlivých systému v době, kdy Samepage
 [Obrázek propojení systému - nové]
 Na dalším obrázku je již vyobrazen současný stav.
 Lze říci, že hlavním zdrojem informací o zákaznících je Marketo, ze kterého se tyto informace automaticky přeposílají do SFDC, kde se s nimi dále pracuje. Synchronizace mezi těmito systémy probíhá několikrát denně.
-Dlalším důležitým propojením je synchorizace z KISS do SFDC. Dříve se importovaly do SFDC pouze čísla licencí. Záznamy v KISS a SFDC jsou propojeny ID*. Mohlo docházet k tomu, že mohly vznikat duplicitní záznamy. Dlouhodobou snahou je, aby SFDC 
+Dlalším důležitým propojením je synchorizace z KISS do SFDC. Dříve se importovaly do SFDC pouze čísla licencí. Záznamy v KISS a SFDC jsou propojeny ID*. Mohlo docházet k tomu, že mohly vznikat duplicitní záznamy. Dlouhodobou snahou je, aby SFDC byl primární systém, ve kterém jsou drženy všechny záznamy o zákaznících a ty byly zanášeny do KISS.
 (poznámka pod čarou: Identifikační číslo)
+
+
+
+
                                                                                                                                                                                 
                                                                                                                                                                                 
                                                                                                                                                                                  ▲ 
