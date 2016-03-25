@@ -42,13 +42,14 @@ Kerio Operator Softphone je telefonní aplikace, která umožňuje přijímat ho
 Nejnovější přírustek v rodině Kerio produktů. Jedná se o hostování e-mailu, instat messagingu či hlasových služeb v Cloudu. Jedná se o alternativu k "on-premise" produktům. Produkt umožňuje synchronizovat všechna data aplikací, které uživatel denně používá. Díky technologii Direct Push jsou synchronizována i data s počítače uživatele a zobrazují se na jeho chytrém zařízení.
 **Cloudová služba Samepage**
 Je privátni cloud a platforma pro týmovou spolupráci. Tento produkt umožňuje vytvářet, organizovat a sdílet širokou škálu obsahu a pristupovat k němu prostřednictvím jediného intuitivního rozhraní. Slouží jako centrální bod pro spolupráci a informace, které jsou nutné pro týmovou spolupráci,vždy k dispozici. 
-(poznámka pod čarou: vyčlenění Samepage v době napsání této práce, ještě nebyl dokončen, proto je uvedena mezi produkty společnosti Kerio)
+(poznámka pod čarou: vyčlenění Samepage (dále jen SIO) v době napsání této práce, ještě nebyl dokončen, proto je uvedena mezi produkty společnosti Kerio)
 Své produkty společnost rozšiřuje po celém světe, jejich jednoduchá řešení pomáhají zvyšovat produktivitu milionům uživatelů po celém světě ve více než 60 000 firmách. Všechny výše uvedené produkty jsou nabízeny prostřednictvím sítě než 6 000 obchodních partnerů.
 
 #Charakteristika interních systémů#
 Z výše uvedené charakteristiky vyplývá, že společnost Kerio disponuje širokou zákaznickou i partnerskou základnou. K tomu aby mohla tyto základy rozšiřovat a dále rozvíjet, potřebuje k fungování soustavu interních a externích systémů.
 Tato diplomová práce je zaměřena především na unifikaci procesů pro Sales oddělení společnosti. Proto se především zaměříme na systémy, které primárně podporují fungování tohoto oddělení.
-Předtím než bude přistoupeno k charakteristice processní dokumentace, je nutné si charakterizovat jednotlivé systémy, kterých se procesy týkají.
+Předtím než bude přistoupeno k charakteristice procesní dokumentace, je nutné si charakterizovat jednotlivé systémy, kterých se procesy týkají.
+Dále budou zmíněny i vazby mezi jednotlivými systémy, na které mělo vliv rozhodnutí o rozdělení společností.
 {Dále pak bude potřeba také nadefinovat jednotlivé role v Sales týmu a jejich odpovědnosti.}
 
 ##Externí systémy##
@@ -66,6 +67,12 @@ V této souvislosti je potřeba nadefinovat základní objekty, které jsou v SF
 Salesforce je propojen s dalšími systému společnosti, jako jsou Marketo a KISS.
 (vysvětlivka pod čarou: CRM system -CRM je zkratka z anglického Customer Relationship Managament a označuje se tak systém pro řízení vztahů se zákazníky.
 ###Marketo###
+Jak už název napovídá, tento nástroj je především využíván Marketingovým oddělením společnosti. Tento systém využíva Marketing Automation, což je kategorie technologie, která umožňuje společnostem zjednodušit, automatizovat a měřit marketingové aktivity a tím zvýšit provozní efektivitu a tím i růst tržeb podniku.
+V Marketu se tvoří e-mailové kampaně pro partnery, sledují se aktivity potencionálních zákazníků/partnerů na webu firmy atd. Tyto informace se pak propagují v podobě Leadu do SFDC, kde sním posléze pracuje určený pracovník Sales.
+###Zuora###
+Zuora byla přidána, do souboru externích systému kvůli produktu Samepage. Jedná se o fakturační nástroj, který funguje na základě subscription business model- zákazník musí zaplatit "předplatné" (u SIO měsíční) aby mohl službu používat na plno. Platby byly prováděny přes tento systém a záznam o platbě propagován do SFDC.
+Zuora byla dále napojena na SIO, kde se subscripce vytvářely, i tato informace, vytvoření nového účtu ve službě SIO, byl propagován do SFDC.
+Tento systém v současnosti již není využíván společností Kerio, je zde uveden pouze pro úplnost.
 
 
 

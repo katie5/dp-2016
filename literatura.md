@@ -14,3 +14,7 @@ http://connect.zive.cz/clanky/cloudovy-fenomen-salesforcecom-chysta-expanzi-v-ce
 http://www.enxoo.cz/salesforce-crm
 
 **Marketo**
+https://www.marketo.com/marketing-automation/
+https://www.marketo.com/
+http://www.marketingovenoviny.cz/marketing_1297/
+http://www.crmsearch.com/marketing-automation.php
