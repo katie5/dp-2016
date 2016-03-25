@@ -18,3 +18,6 @@ https://www.marketo.com/marketing-automation/
 https://www.marketo.com/
 http://www.marketingovenoviny.cz/marketing_1297/
 http://www.crmsearch.com/marketing-automation.php
+
+**KISS**
+Interní zdroj: KISS_3.0- User Manual

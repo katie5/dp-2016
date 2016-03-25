@@ -73,6 +73,21 @@ V Marketu se tvoří e-mailové kampaně pro partnery, sledují se aktivity pote
 Zuora byla přidána, do souboru externích systému kvůli produktu Samepage. Jedná se o fakturační nástroj, který funguje na základě subscription business model- zákazník musí zaplatit "předplatné" (u SIO měsíční) aby mohl službu používat na plno. Platby byly prováděny přes tento systém a záznam o platbě propagován do SFDC.
 Zuora byla dále napojena na SIO, kde se subscripce vytvářely, i tato informace, vytvoření nového účtu ve službě SIO, byl propagován do SFDC.
 Tento systém v současnosti již není využíván společností Kerio, je zde uveden pouze pro úplnost.
+##Interní systém##
+###KISS###
+Kerio Information and Sales System - zkráceně KISS - je informační systém, který umoňuje prodej Kerio produktů a to jak koncovým zákazníkům, tak partnerům. Zahruje objednávkový a fakturační systém, správu licencí a reporty. 
+Tento systém je napojen na SFDC, do SFDC se přenáší hlavně informace o licencích zákazníků, ale né jenom to.
 
+[Obrázek propojení systému - staré]
+Na obrázku je zobrazeno propojení jednotlivých systému v době, kdy Samepage fungovala jako produkt Keria a nebylo zahájeno její vyčlenění do samostatné firmy. 	Vyčlenění SIO nemělo vliv jen na systémovou strukturu, ale také na procesy, proto je zde tento stav uveden.
+[Obrázek propojení systému - nové]
+Na dalším obrázku je již vyobrazen současný stav.
+Lze říci, že hlavním zdrojem informací o zákaznících je Marketo, ze kterého se tyto informace automaticky přeposílají do SFDC, kde se s nimi dále pracuje. Synchronizace mezi těmito systémy probíhá několikrát denně.
+Dlalším důležitým propojením je synchorizace z KISS do SFDC. Dříve se importovaly do SFDC pouze čísla licencí. Záznamy v KISS a SFDC jsou propojeny ID*. Mohlo docházet k tomu, že mohly vznikat duplicitní záznamy. Dlouhodobou snahou je, aby SFDC byl primární systém, ve kterém jsou drženy všechny záznamy o zákaznících a ty byly zanášeny do KISS.
+(poznámka pod čarou: Identifikační číslo)
+
+                                                                                                                                                                                
+                                                                                                                                                                                
+                                                                                                                                                                                 ▲ 
 
 
