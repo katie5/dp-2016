@@ -1,4 +1,5 @@
 zdroje:
+**Charakteristika podniku**
 http://www.kerio.cz/products/kerio-connect
 http://www.kerio.cz/products/kerio-control
 http://www.kerio.cz/products/kerio-connect/server
@@ -7,3 +8,9 @@ https://or.justice.cz/ias/ui/vypis-sl-detail?dokument=41304787&subjektId=148192&
 
 https://otik.uk.zcu.cz/bitstream/handle/11025/9516/Lucie%20Matejovska,%202013.pdf?sequence=1
 
+**Salesforce**
+http://www.adaptic.cz/znalosti/slovnicek/crm/
+http://connect.zive.cz/clanky/cloudovy-fenomen-salesforcecom-chysta-expanzi-v-cesku/sc-320-a-171592
+http://www.enxoo.cz/salesforce-crm
+
+**Marketo**

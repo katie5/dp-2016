@@ -46,8 +46,26 @@ Je privátni cloud a platforma pro týmovou spolupráci. Tento produkt umožňuj
 Své produkty společnost rozšiřuje po celém světe, jejich jednoduchá řešení pomáhají zvyšovat produktivitu milionům uživatelů po celém světě ve více než 60 000 firmách. Všechny výše uvedené produkty jsou nabízeny prostřednictvím sítě než 6 000 obchodních partnerů.
 
 #Charakteristika interních systémů#
-Z výše uvedené charakteristiky vyplývá, že společnost Kerio disponuje širokou zákaznickou i partnerskou základnou. K tomu aby mohla tyto základy rozšiřovat a dále rozvíjet, potřebuje k fungování externí systémy.
+Z výše uvedené charakteristiky vyplývá, že společnost Kerio disponuje širokou zákaznickou i partnerskou základnou. K tomu aby mohla tyto základy rozšiřovat a dále rozvíjet, potřebuje k fungování soustavu interních a externích systémů.
 Tato diplomová práce je zaměřena především na unifikaci procesů pro Sales oddělení společnosti. Proto se především zaměříme na systémy, které primárně podporují fungování tohoto oddělení.
 Předtím než bude přistoupeno k charakteristice processní dokumentace, je nutné si charakterizovat jednotlivé systémy, kterých se procesy týkají.
 {Dále pak bude potřeba také nadefinovat jednotlivé role v Sales týmu a jejich odpovědnosti.}
+
+##Externí systémy##
+###Salesforce###
+Salesforce (Dále jen SFDC) je CRM systém, který umožňuje shromažďovat, třídit a zpracovávat údaje o zákaznících, především jejich kontakty, prohíhající obchodní procesy.
+CRM systémy obecně pak pomáhají sledovat a vyhodnocovat veškeré obchodní aktivity v rámci celé společnosti. Cílem je především zlepšit cílení služeb, lépe porozumět zákazníkům a identifikovat jejich konkrétní potřeby, umožňují budovat dlouhodobé vztahy se zákazníky.
+Společnost Kerio tento systém začala používat ke správě informací o svých zákaznících na přelomu let 2012 a 2013. V tomto období začalo vznikat i množství procesů, resp. pracovních postupů, jak používat tento systém správně. Těmto procesům bude věnována hlavní část práce. V průběhu let se tento systém stal hlavním, ve kterém se uchovávají informace o zákaznících.
+V této souvislosti je potřeba nadefinovat základní objekty, které jsou v SFDC používány a často se vyskytují v procesních popise.
+**Lead**
+**Account**
+**Contact**
+**Case**
+**Opportunity**
+**Lead**
+Salesforce je propojen s dalšími systému společnosti, jako jsou Marketo a KISS.
+(vysvětlivka pod čarou: CRM system -CRM je zkratka z anglického Customer Relationship Managament a označuje se tak systém pro řízení vztahů se zákazníky.
+###Marketo###
+
+
 

@@ -51,3 +51,21 @@ Tato diplomová práce je zaměřena především na unifikaci procesů pro Sale
 Předtím než bude přistoupeno k charakteristice processní dokumentace, je nutné si charakterizovat jednotlivé systémy, kterých se procesy týkají.
 {Dále pak bude potřeba také nadefinovat jednotlivé role v Sales týmu a jejich odpovědnosti.}
 
+##Externí systémy##
+###Salesforce###
+Salesforce (Dále jen SFDC) je CRM systém, který umožňuje shromažďovat, třídit a zpracovávat údaje o zákaznících, především jejich kontakty, prohíhající obchodní procesy.
+CRM systémy obecně pak pomáhají sledovat a vyhodnocovat veškeré obchodní aktivity v rámci celé společnosti. Cílem je především zlepšit cílení služeb, lépe porozumět zákazníkům a identifikovat jejich konkrétní potřeby, umožňují budovat dlouhodobé vztahy se zákazníky.
+Společnost Kerio tento systém začala používat ke správě informací o svých zákaznících na přelomu let 2012 a 2013. V tomto období začalo vznikat i množství procesů, resp. pracovních postupů, jak používat tento systém správně. Těmto procesům bude věnována hlavní část práce.
+V této souvislosti je potřeba nadefinovat základní objekty, které jsou v SFDC používány a často se vyskytují v procesních popise.
+**Lead**
+**Account**
+**Contact**
+**Case**
+**Opportunity**
+**Lead**
+Salesforce je propojen s dalšími systému společnosti, jako jsou Marketo a KISS.
+(vysvětlivka pod čarou: CRM system -CRM je zkratka z anglického Customer Relationship Managament a označuje se tak systém pro řízení vztahů se zákazníky.
+###Marketo###
+
+
+
