@@ -162,6 +162,7 @@ V této diplomové práci bude označení proces užíváno pro Business procesy
 ##Organizační struktura Sales týmu##
 Výchozí situace: Celý Sales tým spadá pro víceprezidenta globálních prodejů (VP of Global Sales). Pod ním stojí ředitelé (Directors), kteří mají na starost jednotlivé týmy, respektive jednotlivé trhy.
 Na začátku zpracování této práce fungovali v Sales týmu 4 Directors, v průběhu roku 2015 se jejich počet zredukoval na 2. Proto budou uvedeny jenom definice odpovědností těchto dvou Directors, a to z důvodu pochopení jejich odpovědností. Odpovědnosti jednotilivých directors jsou nadefinovány na Samepage a jsou odtud převzaty.
+[Obrázek organizační struktury]
 
 Nyní tedy fungují dva Global Directrosr a to:
 **Global Director Renewals and Sales Ops**
@@ -188,6 +189,8 @@ Jejich odpovědností jsou:
 
 Pro účely této práce je důležité si povšimnout bodu 1, kokrétně toho, že Directror je odpovědný na definici procesů pro svůj tým.
 
+###jednotlivé pracovní skupiny uvnitř sales týmu###
+
 ###První problém###
 V původních procesech nebyl jasně nadifinován vlastník procesu, což v mnohém stěžovalo situaci v průběhu přepisu. Nové verze bylo potřebovat prokonzultovat s tím daným directorem, který je za ni odpovědný.
 Zde je nutno podotknout, že jednotlivé definice a odpovědnosti jednotlivých rolí byly nalezeny až později, paradoxně i ti, kteří je vytvořili, už zapomněli, že něco takového existuje.
@@ -202,23 +205,28 @@ Nevýhody:
 ##Role v Sales týmu##
  Je důležité mít nadefinováno jednotlivé role - co která vykonává a za co je odpovědná. V současné chvíli v Sales týmu fungují tyto role:
  
-
-
-
-
+- Sales Operation Specialist (Sales Ops)
+- Parnter Account/Senior Account Manager (Pam)
+- Inside Sales Channel Manager (Sm)
+- Distribution manager (Sm)
+- Inside Sales Representative (Isr)
+- Sales/Senior Sales/ Manager (SM)
+- Inside Sales Manager (Ism)
+- Sales/Senior Sales/ Engineer (Se)
 
 Je opět nutno podotknout, že charakteristiky jednotlivých Sales rolí, nalezeny na SIO v průbehu přepisu procesů do nového tvaru. 
-Na začátku tedy vznikal často problém, určit člověka odpovědného člověka za process a poté roli, která má proces vykonávat.
+Na začátku tedy vznikal často problém, určit člověka odpovědného za proces a poté roli, která má proces vykonávat.
 
- 
+Pro uplnost tedy budou uvedeny charakteristisky jednotlivých rolí. Opět vycházejí z interní dokumentace a bude u nich tedy zachován anglický jazyk.
+
+
 ###Problém čtyři###
 V původních procesních popisech nebylo jasně definováno, kdo mám proces vykonávat.
 ###Problém pět###
 Každý proces byl jiný, jinak napsaný, měl jiné náležitosti, podle toho, kdo ho vytvořil (napsal)
 
 
-
-
+Dále je potřeba uvést, že 
 
 
 
