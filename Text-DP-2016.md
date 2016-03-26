@@ -2,11 +2,17 @@
 # Charakteristika podnikatelského subjektu
 ## Charakteristika podniku
 **Název**: Kerio Technologies, s. r. o.
+
 **IČO**: 25212974
+
 **Datum vzniku**: 18. srpna 1997
+
 **Sídlo**: Anglické nábřeží 1, PSČ 301 49 Plzeň
-Společnost Kerio Technologies, s. r. p. (dále jen Kerio) má hlavní sídlo ve městě San Jose ve státě California ve Spojených státech amerických (USA). Pobočky se pak dále nacházejí ve Velké Británii, České republice, Austrálii a Brazílii.
+
+Společnost Kerio Technologies, s. r. o. (dále jen Kerio) má hlavní sídlo ve městě San Jose ve státě California ve Spojených státech amerických (USA). Pobočky se pak dále nacházejí ve Velké Británii, České republice, Austrálii a Brazílii.
+
 **Základní kaptiál**: 100 000 Kč
+
 **Předmět podnikání**:
 - poskytování software a poradenství v oblasti hardware a software,
 - koupě zboží za účelem jeho dalšího prodeje a prodej,
@@ -14,7 +20,9 @@ Společnost Kerio Technologies, s. r. p. (dále jen Kerio) má hlavní sídlo ve
 - zprostředkování obchodu a služeb,
 - reklamní činnost a marketing.
 (citace- výsledovka 2014)
+
 Společnost Kerio je jedním z hlavních výrobců zabezpečovacího internetového softwaru pro malé a střední organizace na celém světě. Zaměřuje se na síťové firewally, bezpečnost interní firemní komunikace a poskytuje řešení pro přenos zpráv.
+
 **Průměrný přepočtený počet zaměstnanců** (k 31. 12. 2015): 110
 **Organizační struktura společnosti**
 V čele společnosti stojí výkonný ředitel spolu s představenstvem společnosti. V čele jednotlivých oddělení pak stojí viceprezidenti, kteří spadají přímo pod výkonného ředitele. Společnost Kerio má celkem osm oddělení z čehož největší je Engeneering, pod který spadají jednotlivé týmy vyvíjející prudukty společnosti.
@@ -122,7 +130,13 @@ Proces je tedy možno obecně chápat jako pojem pro postupný tok aktivit, stav
 V této diplomové práci bude označení proces užíváno pro Business procesy(taktéž podnikový proces či obchodní proces), tedy pro popis toku činností a práce.
 
 ##Organizační struktura Sales týmu##
-Výchozí situace: Celý Sales tým spadá pro víceprezidenta globálních prodejů (VP of Global Sales).
+Výchozí situace: Celý Sales tým spadá pro víceprezidenta globálních prodejů (VP of Global Sales). Pod ním stojí ředitelé (Directors), kteří mají na starost jednotlivé týmy, respektive jednotlivé trhy.
+
+Na začátku zpracování této práce fungovali v Sales týmu 3 Directors, v průběhu roku 2015 se jejich počet zredukoval na 2.
+
+**Global Director Renewals and Sales Ops**
+
+
 
 
 
