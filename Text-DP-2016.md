@@ -164,10 +164,10 @@ V této diplomové práci bude označení proces užíváno pro Business procesy
 
 ##Organizační struktura Sales týmu##
 Výchozí situace: Celý Sales tým spadá pro víceprezidenta globálních prodejů (VP of Global Sales). Pod ním stojí ředitelé (Directors), kteří mají na starost jednotlivé týmy, respektive jednotlivé trhy.
-
 Na začátku zpracování této práce fungovali v Sales týmu 3 Directors, v průběhu roku 2015 se jejich počet zredukoval na 2.
 
 **Global Director Renewals and Sales Ops**
+
 
 
 
