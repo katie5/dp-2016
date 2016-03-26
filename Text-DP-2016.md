@@ -161,9 +161,65 @@ V této diplomové práci bude označení proces užíváno pro Business procesy
 
 ##Organizační struktura Sales týmu##
 Výchozí situace: Celý Sales tým spadá pro víceprezidenta globálních prodejů (VP of Global Sales). Pod ním stojí ředitelé (Directors), kteří mají na starost jednotlivé týmy, respektive jednotlivé trhy.
-Na začátku zpracování této práce fungovali v Sales týmu 3 Directors, v průběhu roku 2015 se jejich počet zredukoval na 2.
+Na začátku zpracování této práce fungovali v Sales týmu 4 Directors, v průběhu roku 2015 se jejich počet zredukoval na 2. Proto budou uvedeny jenom definice odpovědností těchto dvou Directors, a to z důvodu pochopení jejich odpovědností. Odpovědnosti jednotilivých directors jsou nadefinovány na Samepage a jsou odtud převzaty.
 
+Nyní tedy fungují dva Global Directrosr a to:
 **Global Director Renewals and Sales Ops**
+**Global Director Distribution Sales**
+
+Jejich odpovědností jsou:
+
+1. Global responsibilities on the sales management team
+- Devise Go-to-Market strategy for Direct Markets
+- Define processes and best practices for the Direct sales team
+- Manage sales systems, i.e., SFDC, SalesVue, Partner Portal, etc.
+- Manage Samepage Reseller Program & integration w/Samepage team
+1. Implement Go-to-Market strategy for the region
+- Focus Accounts
+- Partner Recruitment Activities
+1. Manage all Sales team members in the region
+- Field visits
+- Coaching
+- Regular budget reviews
+1. Quota responsibilities
+- All territories reporting into Sales Director
+1. Oversee regional sales office(s)
+1. Budgeting and forecasting for entire region
+
+Pro účely této práce je důležité si povšimnout bodu 1, kokrétně toho, že Directror je odpovědný na definici procesů pro svůj tým.
+
+###První problém###
+V původních procesech nebyl jasně nadifinován vlastník procesu, což v mnohém stěžovalo situaci v průběhu přepisu. Nové verze bylo potřebovat prokonzultovat s tím daným directorem, který je za ni odpovědný.
+Zde je nutno podotknout, že jednotlivé definice a odpovědnosti jednotlivých rolí byly nalezeny až později, paradoxně i ti, kteří je vytvořili, už zapomněli, že něco takového existuje.
+
+###Problém dva###
+Dalším možným problémem a zároveň omezením je, že všechny procesní descripce se nacházejí v produktu Samepage, který společnost Kerio využívá pro spolupráci.
+Nevýhody:
+ -  produkt SIO se pořád vyvíjí a mění
+ -  vyhledávání v SIO má ještě mouchy
+ -  sposty vytvořených dokumentů, ve kterých se těžko hledá, pokud není klíčové slovo velmi výstižné
+ 
+##Role v Sales týmu##
+ Je důležité mít nadefinováno jednotlivé role - co která vykonává a za co je odpovědná. V současné chvíli v Sales týmu fungují tyto role:
+ 
+
+
+
+
+
+Je opět nutno podotknout, že charakteristiky jednotlivých Sales rolí, nalezeny na SIO v průbehu přepisu procesů do nového tvaru. 
+Na začátku tedy vznikal často problém, určit člověka odpovědného člověka za process a poté roli, která má proces vykonávat.
+
+ 
+###Problém čtyři###
+V původních procesních popisech nebylo jasně definováno, kdo mám proces vykonávat.
+###Problém pět###
+Každý proces byl jiný, jinak napsaný, měl jiné náležitosti, podle toho, kdo ho vytvořil (napsal)
+
+
+
+
+
 
 
 
