@@ -16,6 +16,10 @@ Společnost Kerio Technologies, s. r. p. (dále jen Kerio) má hlavní sídlo ve
 (citace- výsledovka 2014)
 Společnost Kerio je jedním z hlavních výrobců zabezpečovacího internetového softwaru pro malé a střední organizace na celém světě. Zaměřuje se na síťové firewally, bezpečnost interní firemní komunikace a poskytuje řešení pro přenos zpráv.
 **Průměrný přepočtený počet zaměstnanců** (k 31. 12. 2015): 110
+**Organizační struktura společnosti**
+V čele společnosti stojí výkonný ředitel spolu s představenstvem společnosti. V čele jednotlivých oddělení pak stojí viceprezidenti, kteří spadají přímo pod výkonného ředitele. Společnost Kerio má celkem osm oddělení z čehož největší je Engeneering, pod který spadají jednotlivé týmy vyvíjející prudukty společnosti.
+[Obrázek organizační struktury společnosti]
+Pro tuto diplomovou práci je klíčový Sales tým, jeho organizační struktura a jednotlivé týmové role budou rozebrány později.
 **Historie společnosti**:
 **1997**
 V tomto roce firma poprvé vstoupila na trh s internetovými zabezpečovacími technologiemi - produkty WinRoute. Tato řada byla velmi oblíbená a úspěšná, zejména pak produkt WinRoute Pro. Ten si získal velkou přízeň uživatelů především díky jednoduchosti použití, spolehlivosti a výkonu. Také kvůli své cenové dostupnosti se stal lákavou alternativou mnohem dražších firewallů a routerů. Jeho široké využití ho zařadilo mezi využívané produkty mezi síťovými odborníky a administrátory.
@@ -39,7 +43,7 @@ Cenově přijatelná alternativa k Microsoft Exchange určená pro malé a stře
 Jednoduše konfigurovatelný podnikový telefonni systém, založený na přenosu telefonních horovů přes internet (VoIP). Produkt je navržen tak, aby usnadnil hlasovou komunikaci a přitom poskytl pokročilé funkce telefonních systému jako - konferenční hovory, dynamické hlasové konference, integrace s podnikovým CRM systémem, směrování hovorů, záznam hovorů, hlasovou poštu do e-mailu, podporu faxu, automatické hlasové menu a fronty hovorů.
 Kerio Operator Softphone je telefonní aplikace, která umožňuje přijímat hovory na mobilních zařízeních se systémy iOS nebo Android přímo z firemního telefonního systému.
 **Kerio Cloud**
-Nejnovější přírustek v rodině Kerio produktů. Jedná se o hostování e-mailu, instat messagingu či hlasových služeb v Cloudu. Jedná se o alternativu k "on-premise" produktům. Produkt umožňuje synchronizovat všechna data aplikací, které uživatel denně používá. Díky technologii Direct Push jsou synchronizována i data s počítače uživatele a zobrazují se na jeho chytrém zařízení.
+Nejnovější přírustek v rodině Kerio produktů. Jedná se o hostování e-mailu, instant messagingu či hlasových služeb v Cloudu. Jedná se o alternativu k "on-premise" produktům. Produkt umožňuje synchronizovat všechna data aplikací, které uživatel denně používá. Díky technologii Direct Push jsou synchronizována i data s počítače uživatele a zobrazují se na jeho chytrém zařízení.
 **Cloudová služba Samepage**
 Je privátni cloud a platforma pro týmovou spolupráci. Tento produkt umožňuje vytvářet, organizovat a sdílet širokou škálu obsahu a pristupovat k němu prostřednictvím jediného intuitivního rozhraní. Slouží jako centrální bod pro spolupráci a informace, které jsou nutné pro týmovou spolupráci,vždy k dispozici. 
 (poznámka pod čarou: vyčlenění Samepage (dále jen SIO) v době napsání této práce, ještě nebyl dokončen, proto je uvedena mezi produkty společnosti Kerio)
@@ -90,10 +94,10 @@ Dlalším důležitým propojením je synchorizace z KISS do SFDC. Dříve se im
 
 Po stručné definici jednotlivých systémů a jejich propojení můžeme přistoupit k charakteristice popisu procesů pro Sales team.
 
-#Stávající stav procesní dokumentace#
-V této kapitole bude nadefinován pojem proces, dále pak bude přiblížena organizační struktura Sales Týmu a nadefinované jednotlivé role tohoto týmu.
-Členové Sales Týmu nejčastěji pracují se systémem SFDC, který byl již charakterizován. Vybrané role v týmu pak pracují se systémem KISS.
-Dále je potřeba uvést, že jak již bylo zmíněno, společnost Kerio působí celosvětově, proto jsou procesní postupy uváděny v angličtině.
+#Výchozí stav procesní dokumentace#
+V této kapitole bude nadefinován pojem proces, dále pak bude přiblížena organizační struktura Sales týmu a nadefinované jednotlivé role tohoto týmu.
+Členové Sales týmu nejčastěji pracují se systémem SFDC, který byl již charakterizován. Vybrané role v týmu pak pracují se systémem KISS.
+Dále je potřeba uvést, že společnost Kerio působí celosvětově, proto jsou procesní postupy uváděny v angličtině.
 
 ##Definice Procesu##
 Procesy existují uvnitř každé organizace i mezi nimi. Procesy existují bez ohledu na to, jak dobře jsou řízeny.
@@ -111,11 +115,15 @@ Proces je tedy možno obecně chápat jako pojem pro postupný tok aktivit, stav
 **Business proces** - je chápán jako tok činností a práce
 **Produční proces** - je chápán jako tvorba hodnoty, produktu
 **Systémový proces** - je chápán jako běh softwaru
-**Výrobní process** - je chápán jako tvorba produktu
-**Technologický process** -  je chápán jako postup výroby nebo tvorby něčeho
-**Chemický process** - je chápán jako chemický děj
+**Výrobní proces** - je chápán jako tvorba produktu
+**Technologický proces** -  je chápán jako postup výroby nebo tvorby něčeho
+**Chemický proces** - je chápán jako chemický děj
 
-V této diplomové práci bude označení proces uživáno pro Business procesy(taktéž podnikový proces či obchodní proces), tedy pro popis toku činností a práce.
+V této diplomové práci bude označení proces užíváno pro Business procesy(taktéž podnikový proces či obchodní proces), tedy pro popis toku činností a práce.
+
+##Oraganizační struktura Sales týmu##
+
+
 
 
 
