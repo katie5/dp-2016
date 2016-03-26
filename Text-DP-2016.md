@@ -121,7 +121,8 @@ Proces je tedy možno obecně chápat jako pojem pro postupný tok aktivit, stav
 
 V této diplomové práci bude označení proces užíváno pro Business procesy(taktéž podnikový proces či obchodní proces), tedy pro popis toku činností a práce.
 
-##Oraganizační struktura Sales týmu##
+##Organizační struktura Sales týmu##
+Výchozí situace: Celý Sales tým spadá pro víceprezidenta globálních prodejů (VP of Global Sales).
 
 
 
