@@ -34,40 +34,52 @@ Pro tuto diplomovou práci je klíčový Sales tým, jeho organizační struktur
 **Historie společnosti**:
 
 **1997**
+
 V tomto roce firma poprvé vstoupila na trh s internetovými zabezpečovacími technologiemi - produkty WinRoute. Tato řada byla velmi oblíbená a úspěšná, zejména pak produkt WinRoute Pro. Ten si získal velkou přízeň uživatelů především díky jednoduchosti použití, spolehlivosti a výkonu. Také kvůli své cenové dostupnosti se stal lákavou alternativou mnohem dražších firewallů a routerů. Jeho široké využití ho zařadilo mezi využívané produkty mezi síťovými odborníky a administrátory.
 
 **2000 - 2009**
+
 Produkt WinRoute začali používat i zákaznící s nejvyššími bezpečnostmíni nároky jako US Air Naval Systems nebo fifanti v oblasti cestovních rezervací v USA - společnost Amadeus. V těchto letech WinRoute Pro získal certifikaci od společnosti ICSA Labs a také se objevil jako softwarové a virtuální zařízení. I toto přispělo ke skutečnosti že se WinRoute Firewall stal jedním z nejpopulárnějších softwarových firewallů ve své cenové kategorii.
 
 **2010**
+
 V tomto roce byl vydán produkt Kerio Connect 7 s distribuovanou doménou a CardDAV.
 
 **2011**
+
 V tomto roce vznikldy další dva nové produkty a to Kerio Workspace a Kerio Operator.
 
 **2013 - 2014**
+
 Firma představila nový produkt, kladouvé řešení pro spolupráci v týmech Samepage.io. Toto řešení nahradilo původní řešení Workspace.
 
 **2015 - 2016**
+
 Firma se rozhodla pro vyčlenění produktu Samepage.io a přetransformovat tento produkt v samostatnou firmu. Kerio na přelomu let 15/16 začalo nabízet Cloudové řešení svého produktu Connect.
 
 **Produkty společnosti Kerio**
+
 Společnost Kerio je zaměřuje na malé a střední podniky a jejím cílem je umožnit těmto společnostem komunikovat, spolupracovat a být neusátle ve spojení. Kerio se soustřeďuje na vývoj flexibilních, dostupných a snadno použitelných technologíi.
 
 **Kerio Control**
+
 Je to kopletní produkt pro připojení a řízení pristupu do Internetu a zabezpečení sítě. Mezi jeho nejdůležitější fukce lze zařadit ochranu sítě před viry, malwarem a zákeřnými aktivitami. Tento produkt v sobě spojuje mnoho vlastností jako - síťový firewall a směrovač, detekci a prevenci útoků (IPS), antivirovou ochranu, VPN a filtrování obsahu. Tento produkt je mnohem flexibilnější než klasické hadrwarové firewally. Dále umožňuje sledovat aktivity jednotlivých uživatelů do nejmenšího detailu. Zákazníci mají možnost zakoupit také produkt Control Box, což je hardwarové zařízejí s optimalizovaným výkonem spojující v sobě veškeré zabezpečovací prvky softwarové aplikace a uzpůsobený hardware.
 
 **Kerio Connect**
+
 Cenově přijatelná alternativa k Microsoft Exchange určená pro malé a střední firmy. Jedná se o multiplatformní e-mailový server s podporou mobilních zařízení. Kombinuje funkce e-mailového a groupwarového serveru s antivirovou kontrolou, účinnou antispamovou ochranou, archivací, automatickým zálohováním a vyniká lehce použitelným webovým rozhraním pro správu, dostupným ze všech běžných webových prohlížečů. Tento produkt je velmi flexibilní, umožňuje malým a středním podnikům využívat platformy a mobilní zařízení dle vlastního výběru.
 
 **Kerio Operator**
+
 Jednoduše konfigurovatelný podnikový telefonni systém, založený na přenosu telefonních horovů přes internet (VoIP). Produkt je navržen tak, aby usnadnil hlasovou komunikaci a přitom poskytl pokročilé funkce telefonních systému jako - konferenční hovory, dynamické hlasové konference, integrace s podnikovým CRM systémem, směrování hovorů, záznam hovorů, hlasovou poštu do e-mailu, podporu faxu, automatické hlasové menu a fronty hovorů.
 Kerio Operator Softphone je telefonní aplikace, která umožňuje přijímat hovory na mobilních zařízeních se systémy iOS nebo Android přímo z firemního telefonního systému.
 
 **Kerio Cloud**
+
 Nejnovější přírustek v rodině Kerio produktů. Jedná se o hostování e-mailu, instant messagingu či hlasových služeb v Cloudu. Jedná se o alternativu k "on-premise" produktům. Produkt umožňuje synchronizovat všechna data aplikací, které uživatel denně používá. Díky technologii Direct Push jsou synchronizována i data s počítače uživatele a zobrazují se na jeho chytrém zařízení.
 
 **Cloudová služba Samepage**
+
 Je privátni cloud a platforma pro týmovou spolupráci. Tento produkt umožňuje vytvářet, organizovat a sdílet širokou škálu obsahu a pristupovat k němu prostřednictvím jediného intuitivního rozhraní. Slouží jako centrální bod pro spolupráci a informace, které jsou nutné pro týmovou spolupráci,vždy k dispozici. 
 (poznámka pod čarou: vyčlenění Samepage (dále jen SIO) v době napsání této práce, ještě nebyl dokončen, proto je uvedena mezi produkty společnosti Kerio)
 Své produkty společnost rozšiřuje po celém světe, jejich jednoduchá řešení pomáhají zvyšovat produktivitu milionům uživatelů po celém světě ve více než 60 000 firmách. Všechny výše uvedené produkty jsou nabízeny prostřednictvím sítě než 6 000 obchodních partnerů.
@@ -86,15 +98,15 @@ CRM systémy obecně pak pomáhají sledovat a vyhodnocovat veškeré obchodní 
 Společnost Kerio tento systém začala používat ke správě informací o svých zákaznících na přelomu let 2012 a 2013. V tomto období začalo vznikat i množství procesů, resp. pracovních postupů, jak používat tento systém správně. Těmto procesům bude věnována hlavní část práce.
 V této souvislosti je potřeba nadefinovat základní objekty, které jsou v SFDC používány a často se vyskytují v procesních popise.
 
-***Lead**- kontakt na potencionálního zákazníka, který projeví zájem o koupi produktu či služby
+-**Lead**- kontakt na potencionálního zákazníka, který projeví zájem o koupi produktu či služby
 
-***Account**- zde se jsou zobrazeny informace o společnosti, se kterou Kerio obchoduje,  nebo se chystá obchodovat. Lze zde najít informace jako: adresu společnosti, počet zaměstnanců, informace o prodejích a další podrobnosti. Je zde možné dohledat Opportunity, Case a list všech Contactů ve společnosti.
+-**Account**- zde se jsou zobrazeny informace o společnosti, se kterou Kerio obchoduje,  nebo se chystá obchodovat. Lze zde najít informace jako: adresu společnosti, počet zaměstnanců, informace o prodejích a další podrobnosti. Je zde možné dohledat Opportunity, Case a list všech Contactů ve společnosti.
 
-***Contact**- Informace o konkrétní osobě z určité společnosti.
+-**Contact**- Informace o konkrétní osobě z určité společnosti.
 
-***Case** - jsou většinou generovány na základě různých požadavků partnerů, či koncových uživatelů. Case negenerují přímo příjmy pro společnost.
+-**Case** - jsou většinou generovány na základě různých požadavků partnerů, či koncových uživatelů. Case negenerují přímo příjmy pro společnost.
 
-***Opportunity** - příležitosti, které společnosti vznikají. Mohou být nové, nebo generované automaticky pro obnovu stávající licence pro partnera (tzv. SWM). Hlavní zdroj příjmů pro společnost. 
+-**Opportunity** - příležitosti, které společnosti vznikají. Mohou být nové, nebo generované automaticky pro obnovu stávající licence pro partnera (tzv. SWM). Hlavní zdroj příjmů pro společnost. 
 Salesforce je propojen s dalšími systému společnosti, jako jsou Marketo a KISS.
 (vysvětlivka pod čarou: CRM system -CRM je zkratka z anglického Customer Relationship Managament a označuje se tak systém pro řízení vztahů se zákazníky.
 ###Marketo###
@@ -141,12 +153,12 @@ Grasserová, M., 2008: _„Proces chápeme jako strukturovaný sled navazující
 
 Proces je tedy možno obecně chápat jako pojem pro postupný tok aktivit, stavů, dějů nebo práce. V praxi se pojem proces používá v různých významech, v reálném světě existuje více typů procesů. Je proto důležité znát kontext v jakém se o procesu hovoří, aby nedocházelo k nedorozumění.
 
-**Business proces** - je chápán jako tok činností a práce
-**Produční proces** - je chápán jako tvorba hodnoty, produktu
-**Systémový proces** - je chápán jako běh softwaru
-**Výrobní proces** - je chápán jako tvorba produktu
-**Technologický proces** -  je chápán jako postup výroby nebo tvorby něčeho
-**Chemický proces** - je chápán jako chemický děj
+-**Business proces** - je chápán jako tok činností a práce
+-**Produční proces** - je chápán jako tvorba hodnoty, produktu
+-**Systémový proces** - je chápán jako běh softwaru
+-**Výrobní proces** - je chápán jako tvorba produktu
+-**Technologický proces** -  je chápán jako postup výroby nebo tvorby něčeho
+-**Chemický proces** - je chápán jako chemický děj
 
 V této diplomové práci bude označení proces užíváno pro Business procesy(taktéž podnikový proces či obchodní proces), tedy pro popis toku činností a práce.
 
