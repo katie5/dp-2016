@@ -98,15 +98,15 @@ CRM systémy obecně pak pomáhají sledovat a vyhodnocovat veškeré obchodní 
 Společnost Kerio tento systém začala používat ke správě informací o svých zákaznících na přelomu let 2012 a 2013. V tomto období začalo vznikat i množství procesů, resp. pracovních postupů, jak používat tento systém správně. Těmto procesům bude věnována hlavní část práce.
 V této souvislosti je potřeba nadefinovat základní objekty, které jsou v SFDC používány a často se vyskytují v procesních popise.
 
--**Lead**- kontakt na potencionálního zákazníka, který projeví zájem o koupi produktu či služby
+* **Lead**- kontakt na potencionálního zákazníka, který projeví zájem o koupi produktu či služby
 
--**Account**- zde se jsou zobrazeny informace o společnosti, se kterou Kerio obchoduje,  nebo se chystá obchodovat. Lze zde najít informace jako: adresu společnosti, počet zaměstnanců, informace o prodejích a další podrobnosti. Je zde možné dohledat Opportunity, Case a list všech Contactů ve společnosti.
+* **Account**- zde se jsou zobrazeny informace o společnosti, se kterou Kerio obchoduje,  nebo se chystá obchodovat. Lze zde najít informace jako: adresu společnosti, počet zaměstnanců, informace o prodejích a další podrobnosti. Je zde možné dohledat Opportunity, Case a list všech Contactů ve společnosti.
 
--**Contact**- Informace o konkrétní osobě z určité společnosti.
+* **Contact**- Informace o konkrétní osobě z určité společnosti.
 
--**Case** - jsou většinou generovány na základě různých požadavků partnerů, či koncových uživatelů. Case negenerují přímo příjmy pro společnost.
+* **Case** - jsou většinou generovány na základě různých požadavků partnerů, či koncových uživatelů. Case negenerují přímo příjmy pro společnost.
 
--**Opportunity** - příležitosti, které společnosti vznikají. Mohou být nové, nebo generované automaticky pro obnovu stávající licence pro partnera (tzv. SWM). Hlavní zdroj příjmů pro společnost. 
+* **Opportunity** - příležitosti, které společnosti vznikají. Mohou být nové, nebo generované automaticky pro obnovu stávající licence pro partnera (tzv. SWM). Hlavní zdroj příjmů pro společnost. 
 Salesforce je propojen s dalšími systému společnosti, jako jsou Marketo a KISS.
 (vysvětlivka pod čarou: CRM system -CRM je zkratka z anglického Customer Relationship Managament a označuje se tak systém pro řízení vztahů se zákazníky.
 ###Marketo###
@@ -145,6 +145,7 @@ Procesy existují uvnitř každé organizace i mezi nimi. Procesy existují bez 
 Každá organizace je v podstatě organizovaná soustava procesů a činností, které na sebe vzájemně navazují, vzájemně interagují, pobíhají napříč organizačními jednotkami, reagují na různé podněty z vnitřního i vnějšího prostředí. V procesech se transformují stupy a zdroje na výstupy, které zhodnocuje zákazník procesu. 
 
 **Definece procesu dle literatury**
+
 Řepa,V., 2006 definuje proces jako: _„Souhrn činností transformujících souhrn vstupů na souhrn výstupů (zboží nebo služeb) pro jiné lidi nebo procesy, používajíce k tomu lidi nebo nástroje“._
 
 Basl, J., 2002: _„Proces je tok práce, postupující od jednoho člověka k druhému a v případě větších procesů pravděpodobně z jednoho útvaru do druhého“._
@@ -153,21 +154,21 @@ Grasserová, M., 2008: _„Proces chápeme jako strukturovaný sled navazující
 
 Proces je tedy možno obecně chápat jako pojem pro postupný tok aktivit, stavů, dějů nebo práce. V praxi se pojem proces používá v různých významech, v reálném světě existuje více typů procesů. Je proto důležité znát kontext v jakém se o procesu hovoří, aby nedocházelo k nedorozumění.
 
--**Business proces** - je chápán jako tok činností a práce
--**Produční proces** - je chápán jako tvorba hodnoty, produktu
--**Systémový proces** - je chápán jako běh softwaru
--**Výrobní proces** - je chápán jako tvorba produktu
--**Technologický proces** -  je chápán jako postup výroby nebo tvorby něčeho
--**Chemický proces** - je chápán jako chemický děj
+* **Business proces** - je chápán jako tok činností a práce
+* **Produční proces** - je chápán jako tvorba hodnoty, produktu
+* **Systémový proces** - je chápán jako běh softwaru
+ **Výrobní proces** - je chápán jako tvorba produktu
+- **Technologický proces** -  je chápán jako postup výroby nebo tvorby něčeho
+- **Chemický proces** - je chápán jako chemický děj
 
 V této diplomové práci bude označení proces užíváno pro Business procesy(taktéž podnikový proces či obchodní proces), tedy pro popis toku činností a práce.
 
 ##Organizační struktura Sales týmu##
 Výchozí situace: Celý Sales tým spadá pro víceprezidenta globálních prodejů (VP of Global Sales). Pod ním stojí ředitelé (Directors), kteří mají na starost jednotlivé týmy, respektive jednotlivé trhy.
-
 Na začátku zpracování této práce fungovali v Sales týmu 3 Directors, v průběhu roku 2015 se jejich počet zredukoval na 2.
 
 **Global Director Renewals and Sales Ops**
+
 
 
 
