@@ -31,3 +31,6 @@ Petráčková, Krause, 1995, s. 620 jde o „zákonité, postupně na sebe navaz
 **Sales tým**
 Definice jednotlivých rolí: interní zdroj: 
 https://samepage.io/app/#!/72f3728084841d1a9db65c44335a41d27bfa96c2/page-84466-sales-team-job-descriptions
+
+NFR
+**http://www.kramekuslona.cz/downloads/NFR_Software.pdf**

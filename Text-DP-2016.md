@@ -161,38 +161,33 @@ V této diplomové práci bude označení proces užíváno pro Business procesy
 
 ##Organizační struktura Sales týmu##
 Výchozí situace: Celý Sales tým spadá pro víceprezidenta globálních prodejů (VP of Global Sales). Pod ním stojí ředitelé (Directors), kteří mají na starost jednotlivé týmy, respektive jednotlivé trhy.
-Na začátku zpracování této práce fungovali v Sales týmu 4 Directors, v průběhu roku 2015 se jejich počet zredukoval na 2. Proto budou uvedeny jenom definice odpovědností těchto dvou Directors, a to z důvodu pochopení jejich odpovědností. Odpovědnosti jednotilivých directors jsou nadefinovány na Samepage a jsou odtud převzaty.
+Na začátku zpracování této práce fungovali v Sales týmu 3  Global Directors a jeden Sales Director. V průběhu roku 2015 došlo v týmu k určitým změnám, které vyustíly v to, že Sales tým nyní vedou dva Global Directors. 
+Proto bude uvedena jenom definice odpovědností Global Directora a to z důvodu pochopení jejho odpovědností. 
+Odpovědnosti Directors, i členů týmu, jsou nadefinovány na Samepage a jsou odtud převzaty.
 [Obrázek organizační struktury]
 
 Nyní tedy fungují dva Global Directrosr a to:
 **Global Director Renewals and Sales Ops**
+Director je zodpovědný za tým, který má na starosti veškeré operace z obnovováním běžícího businesu (SWM licence atd.), ale také Direct Chanel jehož hlavním cílem je získávát nové zákazníky a partnery. 
 **Global Director Distribution Sales**
+Director je zodpovědný za tým který, který má na starosti Distributory.
 
-Jejich odpovědností jsou:
+Vybranými odpovědnostmi directora:
 
-1. Global responsibilities on the sales management team
-- Devise Go-to-Market strategy for Direct Markets
-- Define processes and best practices for the Direct sales team
-- Manage sales systems, i.e., SFDC, SalesVue, Partner Portal, etc.
-- Manage Samepage Reseller Program & integration w/Samepage team
-1. Implement Go-to-Market strategy for the region
-- Focus Accounts
-- Partner Recruitment Activities
-1. Manage all Sales team members in the region
-- Field visits
-- Coaching
-- Regular budget reviews
-1. Quota responsibilities
-- All territories reporting into Sales Director
-1. Oversee regional sales office(s)
-1. Budgeting and forecasting for entire region
+1. Globálni odpovědnosti:
+- Určování strategie pro přímé i nepřímé trhy
+- Definovat procesy a osvědčené postupy (best practice) pro Sales tým
+- Správa prodejních systémů
+1. Implementace strategine pro přímé i nepřímé trhy
+- oslovování potencionálních partnerů
+1. Vedení Sales týmu v daném regionu
 
-Pro účely této práce je důležité si povšimnout bodu 1, kokrétně toho, že Directror je odpovědný na definici procesů pro svůj tým.
+Pro účely této práce je důležité si povšimnout bodu 1, konkrétně toho, že Directror je odpovědný na definici procesů pro svůj tým.
 
 ###jednotlivé pracovní skupiny uvnitř sales týmu###
 
 ###První problém###
-V původních procesech nebyl jasně nadifinován vlastník procesu, což v mnohém stěžovalo situaci v průběhu přepisu. Nové verze bylo potřebovat prokonzultovat s tím daným directorem, který je za ni odpovědný.
+V původních procesech nebyl jasně nadefinován vlastník procesu, což v mnohém stěžovalo situaci v průběhu přepisu. Nové verze bylo potřebovat prokonzultovat s tím daným directorem, který je za ni odpovědný.
 Zde je nutno podotknout, že jednotlivé definice a odpovědnosti jednotlivých rolí byly nalezeny až později, paradoxně i ti, kteří je vytvořili, už zapomněli, že něco takového existuje.
 
 ###Problém dva###
@@ -206,27 +201,52 @@ Nevýhody:
  Je důležité mít nadefinováno jednotlivé role - co která vykonává a za co je odpovědná. V současné chvíli v Sales týmu fungují tyto role:
  
 - Sales Operation Specialist (Sales Ops)
-- Parnter Account/Senior Account Manager (Pam)
-- Inside Sales Channel Manager (Sm)
-- Distribution manager (Sm)
-- Inside Sales Representative (Isr)
+
+Povětšinou jsou odpovědné za veškeré operace, které je nutné provést v KISSu, povětšinou manuálně, a týkají se zejména licencí  či fakturace. (změny na licenci, objednávky - zrušení, refundace, NFR requesty*). Tato role spadá do týmu Renewals and Sales Operations
+*vysvětlivka - NFR - Not for Resale. Tyto licence jsou jednou z výhod partnerského systému Kerio. Kromě využití v každodenním provozu má parnter možnost produkty Kerio otestovat, použít je k demoverzi u zákazníků nebo ke školením.
+
+- Partner Account/Senior Account Manager (Pam)
+Reaguje na všechny požadavky, které příjdou ze strany partnerů či SM. Proaktivně spravuje renewal opportunity (obnova licence) a dále je odpovědná za partnerské certifikace. Spadá do týmu Renewals and Sales Operations
+ 
+(poznámka pod čaru: na základně dosažených certifikací se měni Partner Level a od něj se odvíjí Parnterská sleva.)
+
+- Inside Sales Channel Manager (SM)
+
+Má nastarosti nabírání nových partnerů a jejich menežování v určeném regionu, tréningy, interní kvartální reporting.
+Tato role spadá do týmu Distribution
+
+- Distribution manager (SM)
+
+Je v úzkém kontaktu s Distributory. Realizuje prodejní strategii v daném regionu, koordinuje akce Distributorů a jejich kampaně. Získává nové partnery a navštěvuje akce Distributorů. Spadá do týmu Distribution
+
+- Inside Sales Representative (ISR) 
+
+Získává nové reselery ve specifických oblastech, zpracování partnerských požadavků a registrací z těchto oblastí, Lead managament. Spadá do týmu Distribution
+
 - Sales/Senior Sales/ Manager (SM)
-- Inside Sales Manager (Ism)
-- Sales/Senior Sales/ Engineer (Se)
+- 
+Úzce spolupracuje s partnery, hlavně přímými. Pravidelně je navštevuje, je odpovědný za plánování pro partnery a určování dlouhodobých cílů. Spadá do týmu Direch and Channel
 
-Je opět nutno podotknout, že charakteristiky jednotlivých Sales rolí, nalezeny na SIO v průbehu přepisu procesů do nového tvaru. 
+
+- Inside Sales Manager (ISM)
+
+Zpracovává zejména Leady, tedy informace o potencionálních zákaznících - ty vyhodnocuje a dále s nimi pracuje dle procesu. Ism zpracovává i řadu Casu - spojených zejména s provozními požadavky. Spadá do týmu Direch and Channel
+
+- Sales/Senior Sales/ Engineer (SE)
+
+Má na starosti všechny pre- sales technické činnosti s partnery a koncovými zákazníky. Také poskytuje produktová školení partnerům na přiřazeném území. SE je přítomen ve všech týmech
+
+
+Je opět nutno podotknout, že charakteristiky jednotlivých Sales rolí, byly nalezeny na SIO v průběhu přepisu procesů do nového tvaru. 
 Na začátku tedy vznikal často problém, určit člověka odpovědného za proces a poté roli, která má proces vykonávat.
-
-Pro uplnost tedy budou uvedeny charakteristisky jednotlivých rolí. Opět vycházejí z interní dokumentace a bude u nich tedy zachován anglický jazyk.
-
 
 ###Problém čtyři###
 V původních procesních popisech nebylo jasně definováno, kdo mám proces vykonávat.
+
 ###Problém pět###
 Každý proces byl jiný, jinak napsaný, měl jiné náležitosti, podle toho, kdo ho vytvořil (napsal)
 
 
-Dále je potřeba uvést, že 
 
 
 
