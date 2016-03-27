@@ -259,13 +259,40 @@ Prostřednictvím tohoto procesu je úspěšně založen v SFDC nový partner a 
 
 Proces je docela komplikovaný sám o sobě - proběhne zde několik rozhodnutí a ty přesměřují proces někam jinam, dál. Další komplikací je, že procesu se učástní hned několik členů týmu.
 
-Rozhodnutí, které je potřeba v průběhu procesu učinit:
-Je partner Direct/indirect?
-Má už přístup do KPP?
+**Rozhodnutí, které je potřeba v průběhu procesu učinit:**
+- Je partner Direct/indirect?
+- Má už přístup do KPP? *vysvětlivka pod čárou-KPP je Kerio Partner Portal
+
+Původní proces je rozdělen takto:
+- 1 rozhodnutí - Existing Parnter / New partner
+- Existing partner je pak rozdělen do podsekcí:
+1. Direct / indirect - No Previous Partner Portal Acces
+1. Direct - Approved for Partner Portal
+1. Indirect - Approved for Partner Portal
+- New Partner je pak dále rozdělen do podsekcí:
+1.Direct
+1.Indirect
+
+Už z výše uvedeného je patrné, že samotná struktura procesu je poněkud komplikovaná.
+
+Na části procesu která se věnuje Novým partnerům, konkrétně Direct partnerům (viz. příloha), je vidět hned několik problémů, které už byly pojmenovány:
+1. proces je dlouhý - jsou v něm promíchány kroky pro více rolí.
+2. došlo zde k promíchání kroků, které je potřeba provést, vysvětlujících informací a také nejsou vyčleněny spouštěcí události
+
+Na dalším příkladu je patrné, že se některé části procesu zbytečně opakují. Pak je pro čtenáře / vykonavatele procesu mnohem těžší najít, v čem se proces liší.
+
+###Problém sedm###
+Přehlednost procesu, tím že se často opakují, často se může stát, že pracovník nemůže rychle najít, jak pokračovat. Rozhodující informace se v tu chvíli ztratí v přehršli textu.
+**Možné řešení**
+Je potřeba rozhodnout, jestli mají proces sloužit jako pomocný dokument, když se pracovník tzv. ztratí, nebo i jako případná příručka pro nového zaměstnance. Pro obě varianty je potřeba zajistit snadnou a rychlou orientaci v procesní deskripci.
+
+[Obrázek porovnání dvou vedle sebe obrázku Partne P singup..tam kde se opakuji, zvýraznit kde se liší]
 
 
 
 
+###Problém osm###
+Tím, že se procesy hodně opakují a nepoužívají se odkazy. Dochází k tomu, že jejich údržba a udržení aktuálnosti je velmi obtížná. Pokud změním krok na jednom místě, měla by se tato změna promítnout i do ostatních procesů.
 
 
 
