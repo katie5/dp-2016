@@ -174,13 +174,13 @@ Director je zodpovědný za tým který, který má na starosti Distributory.
 
 Vybranými odpovědnostmi directora:
 
-1. Globálni odpovědnosti:
+- Globálni odpovědnosti:
 - Určování strategie pro přímé i nepřímé trhy
 - Definovat procesy a osvědčené postupy (best practice) pro Sales tým
 - Správa prodejních systémů
-1. Implementace strategine pro přímé i nepřímé trhy
+- Implementace strategine pro přímé i nepřímé trhy
 - oslovování potencionálních partnerů
-1. Vedení Sales týmu v daném regionu
+- Vedení Sales týmu v daném regionu
 
 Pro účely této práce je důležité si povšimnout bodu 1, konkrétně toho, že Directror je odpovědný na definici procesů pro svůj tým.
 
@@ -200,42 +200,26 @@ Nevýhody:
 ##Role v Sales týmu##
  Je důležité mít nadefinováno jednotlivé role - co která vykonává a za co je odpovědná. V současné chvíli v Sales týmu fungují tyto role:
  
-- Sales Operation Specialist (Sales Ops)
-
-Povětšinou jsou odpovědné za veškeré operace, které je nutné provést v KISSu, povětšinou manuálně, a týkají se zejména licencí  či fakturace. (změny na licenci, objednávky - zrušení, refundace, NFR requesty*). Tato role spadá do týmu Renewals and Sales Operations
+- **Sales Operation Specialist (Sales Ops)** - Povětšinou jsou odpovědné za veškeré operace, které je nutné provést v KISSu, povětšinou manuálně, a týkají se zejména licencí  či fakturace. (změny na licenci, objednávky - zrušení, refundace, NFR requesty*). Tato role spadá do týmu Renewals and Sales Operations
 *vysvětlivka - NFR - Not for Resale. Tyto licence jsou jednou z výhod partnerského systému Kerio. Kromě využití v každodenním provozu má parnter možnost produkty Kerio otestovat, použít je k demoverzi u zákazníků nebo ke školením.
 
-- Partner Account/Senior Account Manager (Pam)
-Reaguje na všechny požadavky, které příjdou ze strany partnerů či SM. Proaktivně spravuje renewal opportunity (obnova licence) a dále je odpovědná za partnerské certifikace. Spadá do týmu Renewals and Sales Operations
+- **Partner Account/Senior Account Manager (Pam)** - Reaguje na všechny požadavky, které příjdou ze strany partnerů či SM. Proaktivně spravuje renewal opportunity (obnova licence) a dále je odpovědná za partnerské certifikace. Spadá do týmu Renewals and Sales Operations
  
 (poznámka pod čaru: na základně dosažených certifikací se měni Partner Level a od něj se odvíjí Parnterská sleva.)
 
-- Inside Sales Channel Manager (SM)
-
-Má nastarosti nabírání nových partnerů a jejich menežování v určeném regionu, tréningy, interní kvartální reporting.
+- **Inside Sales Channel Manager (SM)** - Má nastarosti nabírání nových partnerů a jejich menežování v určeném regionu, tréningy, interní kvartální reporting.
 Tato role spadá do týmu Distribution
 
-- Distribution manager (SM)
+- **Distribution manager (SM)** - Je v úzkém kontaktu s Distributory. Realizuje prodejní strategii v daném regionu, koordinuje akce Distributorů a jejich kampaně. Získává nové partnery a navštěvuje akce Distributorů. Spadá do týmu Distribution
 
-Je v úzkém kontaktu s Distributory. Realizuje prodejní strategii v daném regionu, koordinuje akce Distributorů a jejich kampaně. Získává nové partnery a navštěvuje akce Distributorů. Spadá do týmu Distribution
+- **Inside Sales Representative (ISR)** - Získává nové reselery ve specifických oblastech, zpracování partnerských požadavků a registrací z těchto oblastí, Lead managament. Spadá do týmu Distribution
 
-- Inside Sales Representative (ISR) 
-
-Získává nové reselery ve specifických oblastech, zpracování partnerských požadavků a registrací z těchto oblastí, Lead managament. Spadá do týmu Distribution
-
-- Sales/Senior Sales/ Manager (SM)
-- 
-Úzce spolupracuje s partnery, hlavně přímými. Pravidelně je navštevuje, je odpovědný za plánování pro partnery a určování dlouhodobých cílů. Spadá do týmu Direch and Channel
+- **Sales/Senior Sales/ Manager (SM)** - Úzce spolupracuje s partnery, hlavně přímými. Pravidelně je navštevuje, je odpovědný za plánování pro partnery a určování dlouhodobých cílů. Spadá do týmu Direch and Channel
 
 
-- Inside Sales Manager (ISM)
+- **Inside Sales Manager (ISM)** - Zpracovává zejména Leady, tedy informace o potencionálních zákaznících - ty vyhodnocuje a dále s nimi pracuje dle procesu. Ism zpracovává i řadu Casu - spojených zejména s provozními požadavky. Spadá do týmu Direch and Channel.
 
-Zpracovává zejména Leady, tedy informace o potencionálních zákaznících - ty vyhodnocuje a dále s nimi pracuje dle procesu. Ism zpracovává i řadu Casu - spojených zejména s provozními požadavky. Spadá do týmu Direch and Channel
-
-- Sales/Senior Sales/ Engineer (SE)
-
-Má na starosti všechny pre- sales technické činnosti s partnery a koncovými zákazníky. Také poskytuje produktová školení partnerům na přiřazeném území. SE je přítomen ve všech týmech
-
+- **Sales/Senior Sales/ Engineer (SE)** - Má na starosti všechny pre-sales technické činnosti s partnery a koncovými zákazníky. Také poskytuje produktová školení partnerům na přiřazeném území. SE je přítomen ve všech týmech
 
 Je opět nutno podotknout, že charakteristiky jednotlivých Sales rolí, byly nalezeny na SIO v průběhu přepisu procesů do nového tvaru. 
 Na začátku tedy vznikal často problém, určit člověka odpovědného za proces a poté roli, která má proces vykonávat.
