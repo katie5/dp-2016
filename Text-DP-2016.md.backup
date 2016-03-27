@@ -184,18 +184,15 @@ Vybranými odpovědnostmi directora:
 
 Pro účely této práce je důležité si povšimnout bodu 1, konkrétně toho, že Directror je odpovědný na definici procesů pro svůj tým.
 
-###jednotlivé pracovní skupiny uvnitř sales týmu###
-
 ###První problém###
 V původních procesech nebyl jasně nadefinován vlastník procesu, což v mnohém stěžovalo situaci v průběhu přepisu. Nové verze bylo potřebovat prokonzultovat s tím daným directorem, který je za ni odpovědný.
 Zde je nutno podotknout, že jednotlivé definice a odpovědnosti jednotlivých rolí byly nalezeny až později, paradoxně i ti, kteří je vytvořili, už zapomněli, že něco takového existuje.
 
 ###Problém dva###
-Dalším možným problémem a zároveň omezením je, že všechny procesní descripce se nacházejí v produktu Samepage, který společnost Kerio využívá pro spolupráci.
+Dalším možným problémem a zároveň omezením je, že všechny procesní deskripce se nacházejí v produktu Samepage, který společnost Kerio využívá pro spolupráci.
 Nevýhody:
  -  produkt SIO se pořád vyvíjí a mění
- -  vyhledávání v SIO má ještě mouchy
- -  sposty vytvořených dokumentů, ve kterých se těžko hledá, pokud není klíčové slovo velmi výstižné
+ -  vyhledávání v SIO není dokonalé - existují zde spousty vytvořených dokumentů, ve kterých se těžko hledá, pokud není klíčové slovo velmi výstižné
  
 ##Role v Sales týmu##
  Je důležité mít nadefinováno jednotlivé role - co která vykonává a za co je odpovědná. V současné chvíli v Sales týmu fungují tyto role:
@@ -217,27 +214,54 @@ Tato role spadá do týmu Distribution
 - **Sales/Senior Sales/ Manager (SM)** - Úzce spolupracuje s partnery, hlavně přímými. Pravidelně je navštevuje, je odpovědný za plánování pro partnery a určování dlouhodobých cílů. Spadá do týmu Direch and Channel
 
 
-- **Inside Sales Manager (ISM)
+- **Inside Sales Manager (ISM)** - Zpracovává zejména Leady, tedy informace o potencionálních zákaznících - ty vyhodnocuje a dále s nimi pracuje dle procesu. Ism zpracovává i řadu Casu - spojených zejména s provozními požadavky. Spadá do týmu Direch and Channel.
 
-Zpracovává zejména Leady, tedy informace o potencionálních zákaznících - ty vyhodnocuje a dále s nimi pracuje dle procesu. Ism zpracovává i řadu Casu - spojených zejména s provozními požadavky. Spadá do týmu Direch and Channel.
-
-- Sales/Senior Sales/ Engineer (SE)
-
-Má na starosti všechny pre- sales technické činnosti s partnery a koncovými zákazníky. Také poskytuje produktová školení partnerům na přiřazeném území. SE je přítomen ve všech týmech
-
+- **Sales/Senior Sales/ Engineer (SE)** - Má na starosti všechny pre-sales technické činnosti s partnery a koncovými zákazníky. Také poskytuje produktová školení partnerům na přiřazeném území. SE je přítomen ve všech týmech
 
 Je opět nutno podotknout, že charakteristiky jednotlivých Sales rolí, byly nalezeny na SIO v průběhu přepisu procesů do nového tvaru. 
 Na začátku tedy vznikal často problém, určit člověka odpovědného za proces a poté roli, která má proces vykonávat.
 
-###Problém čtyři###
+###Problém tři###
 V původních procesních popisech nebylo jasně definováno, kdo mám proces vykonávat.
 
-###Problém pět###
+###Problém čtyři###
 Každý proces byl jiný, jinak napsaný, měl jiné náležitosti, podle toho, kdo ho vytvořil (napsal)
 
+#Původní procesy#
+V této části bude charakterizována původní dokumentace a uvedeny příklady, shrnuty identifikované problémy spolu s možnými řešeními.
+Důležité je zmínit, že veškerá dokumentace je psaná v anglickém jazyce - tento jazyk bude pro všechny procesy v této práci zachován.
 
+Předtím, než byly zahájeny práce na unifikaci procesů, bylo potřeba provést následující operace:
+- seznámit se se systémem SFDC, KISS a pochopit jejich propojenost s dalšími systémy
+- projít, přečíst a pochopit stávající procesy
+- ujasnit si formát, do jakého budou procesy unifikovány
+- odstranit či minimalizovat identifikované problémy
 
+Po přečtení původní dokumentace byl vyhodnocen ještě další problém, který se později ukázal jako jeden s klíčových.
 
+###problém pět###
+Procesy jsou dlouhé, mnohdy nesrozumitelné, proto většina členů Sales týmu nečte, i přesto, že zadávání informací do systému, či zpracování jednotlivých úkonů v určitém pořadí je pro správnost dat v systému klíčové.
+
+Jak již bylo zmíněno v úvodu, procesy začaly vznikat v době, kdy se Kerio rozhodlo používat pro správu svých zákazníků další systém a to SFDC.
+
+##Procesní struktura na SIO##
+[obrázek jaká byla struktura procesů]
+Jak je možno vidět na obrázku, proces vznikaly velmi genericky, byla zde snahe je roztřídit do skupin, nicméně po čase skupiny přestaly odpovídat a postupným vnořováním jednoho procesu do druhého, respektive jedné stránky do druhé, vznikaly zmatky.
+
+Lze vidět že Sales procesy byly promíchány s procesy, které jsou čístě pro systém KISS, dále pak jsou promíchány i speciální procesy pro Samepage.
+**Řešení**
+Procesy je potřeba setřídit do srozumitelných skupin a zajistit, aby jednotlivé noření procesů do sebe, či odkazy mezi procesy dávaly smysl.
+
+Pokud nyní rozebere stránku popisu jako takovou, docházelo zde k častým duplicitám a opakování textu - tím docházelo k neúměrnému protahování textu deskripce a také k tomu, že rozdíly v popisu nebyly patrné na první pohled.
+Skvělým příkladem je proces Partner Portal Singup.
+
+Prostřednictvím tohoto procesu je úspěšně založen v SFDC nový partner a je mu umožněn přístup do partnerského portálu.
+
+Proces je docela komplikovaný sám o sobě - proběhne zde několik rozhodnutí a ty přesměřují proces někam jinam, dál. Další komplikací je, že procesu se učástní hned několik členů týmu.
+
+Rozhodnutí, které je potřeba v průběhu procesu učinit:
+Je partner Direct/indirect?
+Má už přístup do KPP?
 
 
 
