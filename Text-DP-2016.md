@@ -287,6 +287,7 @@ Je potřeba rozhodnout, jestli mají proces sloužit jako pomocný dokument, kdy
 
 [Obrázek porovnání dvou vedle sebe obrázku Partne P singup..tam kde se opakuji, zvýraznit kde se liší]
 
+
 ###Problém osm###
 Tím, že se procesy hodně opakují a nepoužívají se odkazy. Dochází k tomu, že jejich údržba a udržení aktuálnosti je velmi obtížná. Pokud změním krok na jednom místě, měla by se tato změna promítnout i do ostatních procesů.
  
