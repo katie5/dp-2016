@@ -234,25 +234,24 @@ Důležité je zmínit, že veškerá dokumentace je psaná v anglickém jazyce 
 Předtím, než byly zahájeny práce na unifikaci procesů, bylo potřeba provést následující operace:
 - seznámit se se systémem SFDC, KISS a pochopit jejich propojenost s dalšími systémy
 - projít, přečíst a pochopit stávající procesy
-- ujasnit si formát, do jakého budou procesy unifikovány
-- odstranit či minimalizovat identifikované problémy
+- ujasnit si formát, do jakého budou procesy unifikovány a zároveň s tím odstranit či minimalizovat identifikované problémy
 
 Po přečtení původní dokumentace byl vyhodnocen ještě další problém, který se později ukázal jako jeden s klíčových.
 
 ###problém pět###
-Procesy jsou dlouhé, mnohdy nesrozumitelné, proto většina členů Sales týmu nečte, i přesto, že zadávání informací do systému, či zpracování jednotlivých úkonů v určitém pořadí je pro správnost dat v systému klíčové.
+Procesy jsou dlouhé, mnohdy nesrozumitelné, proto je většina členů Sales týmu nečte, i přesto, že zadávání informací do systému, či zpracování jednotlivých úkonů v určitém pořadí je pro správnost dat v systému klíčové.
 
-Jak již bylo zmíněno v úvodu, procesy začaly vznikat v době, kdy se Kerio rozhodlo používat pro správu svých zákazníků další systém a to SFDC.
+Jak již bylo zmíněno v úvodu, procesy začaly vznikat v době, kdy se Kerio rozhodlo používat pro správu svých zákazníků další systém a to SFDC. 
 
 ##Procesní struktura na SIO##
 [obrázek jaká byla struktura procesů]
-Jak je možno vidět na obrázku, proces vznikaly velmi genericky, byla zde snahe je roztřídit do skupin, nicméně po čase skupiny přestaly odpovídat a postupným vnořováním jednoho procesu do druhého, respektive jedné stránky do druhé, vznikaly zmatky.
+Jak je možno vidět na obrázku, proces vznikaly velmi genericky, byla zde snaha je roztřídit do skupin, nicméně po čase skupiny přestaly odpovídat a postupným vnořováním jednoho procesu do druhého, respektive jedné stránky do druhé, vznikaly zmatky.
 
 Lze vidět že Sales procesy byly promíchány s procesy, které jsou čístě pro systém KISS, dále pak jsou promíchány i speciální procesy pro Samepage.
 **Řešení**
 Procesy je potřeba setřídit do srozumitelných skupin a zajistit, aby jednotlivé noření procesů do sebe, či odkazy mezi procesy dávaly smysl.
 
-Pokud nyní rozebere stránku popisu jako takovou, docházelo zde k častým duplicitám a opakování textu - tím docházelo k neúměrnému protahování textu deskripce a také k tomu, že rozdíly v popisu nebyly patrné na první pohled.
+Pokud nyní rozebereme stránku popisu jako takovou, docházelo zde k častým duplicitám a opakování textu - tím docházelo k neúměrnému protahování textu deskripce a také k tomu, že rozdíly v popisu nebyly patrné na první pohled.
 Skvělým příkladem je proces Partner Portal Singup.
 
 Prostřednictvím tohoto procesu je úspěšně založen v SFDC nový partner a je mu umožněn přístup do partnerského portálu.
@@ -272,14 +271,14 @@ Původní proces je rozdělen takto:
 - New Partner je pak dále rozdělen do podsekcí:
 1.Direct
 1.Indirect
-
+ [obrázek jednotlivých zanoření]
 Už z výše uvedeného je patrné, že samotná struktura procesu je poněkud komplikovaná.
 
 Na části procesu která se věnuje Novým partnerům, konkrétně Direct partnerům (viz. příloha), je vidět hned několik problémů, které už byly pojmenovány:
 1. proces je dlouhý - jsou v něm promíchány kroky pro více rolí.
 2. došlo zde k promíchání kroků, které je potřeba provést, vysvětlujících informací a také nejsou vyčleněny spouštěcí události
 
-Na dalším příkladu je patrné, že se některé části procesu zbytečně opakují. Pak je pro čtenáře / vykonavatele procesu mnohem těžší najít, v čem se proces liší.
+Na dalším příkladu je patrné, že se některé části procesu zbytečně opakují. Pak je pro čtenáře / vykonavatele procesu mnohem těžší najít, v čem se proces liší od jiného.
 
 ###Problém sedm###
 Přehlednost procesu, tím že se často opakují, často se může stát, že pracovník nemůže rychle najít, jak pokračovat. Rozhodující informace se v tu chvíli ztratí v přehršli textu.
@@ -288,12 +287,9 @@ Je potřeba rozhodnout, jestli mají proces sloužit jako pomocný dokument, kdy
 
 [Obrázek porovnání dvou vedle sebe obrázku Partne P singup..tam kde se opakuji, zvýraznit kde se liší]
 
-
-
-
 ###Problém osm###
 Tím, že se procesy hodně opakují a nepoužívají se odkazy. Dochází k tomu, že jejich údržba a udržení aktuálnosti je velmi obtížná. Pokud změním krok na jednom místě, měla by se tato změna promítnout i do ostatních procesů.
-
+ 
 
 
 
