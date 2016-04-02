@@ -174,12 +174,13 @@ Další otázky už byly zaměřené na identifikaci člena týmu. Dotazník byl
 
 **18.add your working position (Sales team role)**
 **19. choose your office:**
-- AU
-- US
-- CZ
-- UK
-- PL
-- RU
+- AU, US, CZ, UK, PL, RU
+
+Na závěr bylo všem účastníkům poděkováno za účast a prokázáno, že zmíněné triko opravdu existuje, jako vtip byla přídána fotka trička. Byla to jakási odměna za účast.
+
+
+
+
 
 
 
