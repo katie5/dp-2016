@@ -65,7 +65,7 @@ Pokud předchozí otázka jenom směřovala na GG, tato už se otevřeně ptá n
 
 Dá se říci, že otázky 1 až 4 jsou úvodní a obecné, čím dále se dostáváme v otázkách, tím víc už jednotlivé otázky míří na konkrétní věci.
 
-**7. Do you read process descriptions?**
+**7. otázka: Do you read process descriptions?**
 
 **Možnosti odpvoědí:**
 - yes, when I got stuck
@@ -73,6 +73,122 @@ Dá se říci, že otázky 1 až 4 jsou úvodní a obecné, čím dále se dost�
 - every time I use the process
 - not at all
 
-Tato otázka se opět přímo ptá, za procesy čtou či nečtou. Oklikou se dostáváme opět k otázce číslo jedna, která se ptala na, dá se říci stejnou věc, akorát z jiné strany. Tato otázka má opět i kontrolní účel, zda jsou odpovědi "pra"
+Tato otázka se opět přímo ptá, za procesy čtou či nečtou. Oklikou se dostáváme opět k otázce číslo jedna, která se ptala na, dá se říci stejnou věc, akorát z jiné strany. Tato otázka má opět i kontrolní účel, zda jsou odpovědi "pravdivé"
+či spíše "hádané"
+
+**8. otázka: Where do you get the information about new / updated processes from?**
+
+**Možnosti odpvoědí:**
+- Salesforce announcement
+- Notification from SIO Processes page
+- My boss
+- My colleague
+- Other
+
+Zde opět vzniká vazba na otázku, která již byla položena. Pokud sledují procesní stránku, dostanou notifikaci. Pokud nesledují, odkud tedy dostávají notifikaci o změnách v procesu.
+
+**9. otázka: What's your preferred way of getting information about new / updated processes?**
+
+**Možnosti odpvoědí:**
+- Process page with announcement only
+- Recording ("offline" webinar, Q&A on the webinar page)
+- Webinar (video conference with Q&A at the end)
+- Other suggestions
+
+V souvislosti s předchozí otázkou, byly vzneseny návrhy, jak případně zlepšit komunikaci o změnách v procesech, které většinou provádí IS tým směrem k Sales týmu. Vyhodnocení této otázky bude klíčové pro IS tým a zlepšení komunikace.
+
+**10. otázka: What will you make to use the processes?**
+
+**Možnosti odpvoědí:**
+- funny pictures in the processes
+- making them shorter
+- making them longer (more descriptive)
+- my boss pushing them onto me
+- personal meeting with Katka
+- seeing Katka in the "Read the f**cking processes" t-shirt
+- having link to the process available on SFDC record I work with (task / case / opportunity)
+- Other suggestions
+
+U této otázky měli možnost respondenti vybrat více, než jednu odpověď. Zajímavé je, že v možnostech odpovědí byly zakomponované jak nové možnosti, tak i věci, které již provedeny byly. Odpovědi zde byly velmi zajímavé, budou blíže rozebrány v rozboru odpovědí.
+
+Pro odlehčení a ozvláštnění celého dotazníku byly vsunuty vtipné odpovědi, či odkazy na člověka odpovědného za procesy - čili mně. Tyto vtipné vsuvky byly účelné, bylo potřeba Sales zaujmout natolik, aby došli v průběhu dotazování až do konce.
+
+**11. otázka: Who is Katka (Katerina)?**
+
+Tato otázka byla vsunuta pro pobavení, ale také pro malé ověření, jestli Sales tým ví, kdo je za procesy odpovědný na straně IS týmu.
+
+
+**12. otázka: On which SFDC object you can find link to process?**
+
+ **Možnosti odpvoědí:**
+- Account
+- Opportunity
+- Case
+- Task - all types
+- Some tasks only
+- none
+
+Opět otázka, která má vázabu na jednu z předchozích otázek. V otázce č. 10 byly poskytnuty možnosti na zlepšení. Z této otázky je jasné, že některé z návrhu na zlepšení již byly zavedeny do praxe, byly komunikovány na Sales tým. Touto otázkou jsme se snažili přijít na to, zda komunikace byla efektivní a také, zda si tohoto vylepšení členové Sales týmu vůbec všimli.
+
+**13. otázka: Please rate how much you agree with the following statements:**
+
+U této otázky nemuseli vybírat konkrétní otázky, ale měli známkami 1 až 5 ohodnotit jednotlivá tvrzení. Jednotlivé hodnocení vyjadřují:
+- 1 - strongly agree
+- 2 - agree
+- 3 - neutral
+- 4 - disagree
+- 5 - strongly disagree
+
+Jednotlivá tvrzení se pak zaměřovaly zejména na srozumitelnost a přehlednost procesů.
+
+**Tvrzení:**
+- Processes are up to date
+- Processes are easy to read
+- Processes are easy to understand
+- Processes could be more useful
+- Processes are easy to find
+- I'm informed about new / updated processes well
+- I want to read new / updated processes
+- I have time to read new / updated processes
+
+**14. otázka: If you face issue while using SFDC, you:**
+
+**Možnosti odpvoědí:**
+- report it to ES team
+- try to find help on Process pages
+- stop using the feature, because it "doesn't work"
+
+Tato otázka vyloženě míří na to, jak postupují při své práci. ES team má na starosti podporu Sales týmu. Tudíž když nastane nějaké kritický problém, měli by ho reportovat. Bohužel sme ně několik a případech viděli i to, že některou novou funkcionalitu systému přestali používat na základě toho, že jim nefungovala. A nefungovala jim proto, že nepostupovali podle procesu. 
+
+**15. otázka: Example of good process (easy to read / understand), add the link to particular page**
+
+**16. otázka: Example of bad process, please add the link to particular page**
+
+Tyto dvě otázky byly položeny ze ze dovou důvodů: zaprvé sem dostala zpětnou vazbu o tom, která deskripce vyhovuje týmu víc, která méně, za druhé - na Samepage se nachází spousta stránek, a spousta procesů. v průběhu zpracování diplomové práce, byly objeveny i "neoficíální" procesní stránky, kde se procesy zbytečně duplikovaly. Když to tedy shrneme, bylo důležité získat jak zpětnou vazbu, tak případně objevit další stránky na kterých se vyskytují duplicitní procesy a odstranit je, respektive nahradit linkem na oficiální stránku.
+
+**17. otázka:Any suggestions how to improve the process descriptions?**
+
+Ve své podstatě poslední otázka, na nějaký návrh na zlepšení, který by přímo vzešel ze Sales týmu.
+
+Další otázky už byly zaměřené na identifikaci člena týmu. Dotazník byl anonymní, ale vzhledem k tomu, že Sales tým je rozprostřen takřka po všech pobočkách společnosti Kerio a zahrnuje více pracovních rolí, byli požádání aby:
+
+**18.add your working position (Sales team role)**
+**19. choose your office:**
+- AU
+- US
+-
+-
+-
+-
+
+
+
+
+
+
+
+
+
+
 
 
