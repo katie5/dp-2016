@@ -40,4 +40,43 @@ Tato otázka už více míří k jádru pudla. Všechny procesy, jsou umístěny
 Další otázka byla doplňující k této.
 
 **4. otázka: Explain why you do/don't follow the main process page?**
-Tato otázka byla jako jedna z mála položena jako otevřená otázka.
+
+Tato otázka byla jako jedna z mála položena jako otevřená otázka. Účelem bylo zjistit, do je důvodem sledování, či nesledování hlavní procesní stránky. 
+
+Po prvních čtyřech odpovědích bylo možné vyhodnotit, za odpovědi hádají, či odpovídají popravdě. Mohlo by být namítnuto, že počet těchto otázek, které směřují k jedomu bodu, by mohl být zredukován. Zde bych nesouhlasila, všechny otázky měly mezi sebou nějakou vazbu, které budou blíže přiblíženy ve vyhodnocení.
+
+**5. otázka: Why do the process block titles have different colors?**
+
+ **Možnosti odpvoědí:**
+- to specify role to perform the set of steps
+- Katka likes colors
+- to separate automatic and manual steps
+- to separate steps done in different systems (SFDC, KISS etc.)
+
+Tato otázka již šla více po podstatě věci. V předchozí kapitole této práce byla představená Global Gudiance (GG), která obecně upravuje pravidla psaní pro procesy. GG byla představena i Sales týmu, tato otázka míří na to, zda se s ní nějakým způsobem seznámili, či ne.
+
+**6. otázka: Do you know about Global Guidance page (how to read / write processes)?**
+
+**Možnosti odpvoědí:**
+- yes, and I have read it
+- yes, but I didn't have chance to read it yet
+- no
+Pokud předchozí otázka jenom směřovala na GG, tato už se otevřeně ptá na její existenci.
+
+Dá se říci, že otázky 1 až 4 jsou úvodní a obecné, čím dále se dostáváme v otázkách, tím víc už jednotlivé otázky míří na konkrétní věci.
+
+**7. Do you read process descriptions?**
+
+**Možnosti odpvoědí:**
+- yes, when I got stuck
+- yes, when I get the announcement about the change
+- every time I use the process
+- not at all
+
+Tato otázka se opět přímo ptá, za procesy čtou či nečtou. Oklikou se dostáváme opět k otázce číslo jedna, která se ptala na, dá se říci stejnou věc, akorát z jiné strany. Tato otázka má opět i kontrolní účel, zda jsou odpovědi "pravdivé"
+či spíše "hádané"
+
+**8. Where do you get the information about new / updated processes from?**
+
+**Možnosti odpvoědí:**
+
