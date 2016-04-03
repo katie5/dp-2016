@@ -1,6 +1,6 @@
 #Dotazníkové šetření#
 Po dokončení prací na přepisu a úpravách procesů bylo potřeba zjisti, jak jsou s ní spokojení hlavní uživatelé, tedy členové Sales týmu.
-Byl tedy vytvořen dotazník a ten byl rozeslán všem příslušníkům Sales týmu, včetně VP a Directorů, celkově 31 lidem. Dotazník byl odeslán na přelomu ledna a února 2016, po dohodě z VP v období, kdy mají Sales trošku volnější období. Dotazník byl zaměřen na spokojenost s procesními popisy.
+Byl tedy vytvořen dotazník a ten byl rozeslán všem příslušníkům Sales týmu, včetně VP a Directorů, celkově 31 lidem. Dotazník byl odeslán na přelomu ledna a února 2016, po dohodě z VP v období, kdy mají Sales trošku volnější období. Účelem dotazníků bylo zjistit, zda Sales tým používá procesy, pokud je nepoužívá tak proč.
 Na účast v dotazníkovém šetření byla určena časová lhůta, cca jeden týden. Tato lhůta se několikrát posouvala z důvodu, že bylo potřeba dosáhnout minimálně 50% účasti členů Sales týmu. Výsledky by jinak nebyly vypovídající.
 Tento cíl, dosáhnout minimálně 50% účastni byl splněn.
 [Tabulka podle účastníků, (tu co sem už tvořila)]
@@ -19,12 +19,19 @@ Otázek bylo celkem 19, zodpovězení otázek v průměru zabralo 12 minut. U v�
 
 **1. otázka: Imagine situation: you can't continue with work in SFDC, because you don't know how. What would you do?**
 
-**Možnosti odpvoědí:**
+**Možnosti odpovědí:**
 - ask colleague for help
 - find solution on Samepage
 - use your creativity
 
-Tato otázka mířila na samou podstatu existence procesních deskripcí. Na základě odpovědí na tuto otázku zle posoudit, zda procesní deskripce Sales tým používá nebo ne. Další otázka, na tuto problematiku navazuje.
+Tato otázka mířila na samou podstatu existence procesních deskripcí. Na základě odpovědí na tuto otázku zle posoudit, zda zde jsou tendence procesní deskripce používat, nebo spíše ne. 
+
+**Výsledky:**
+74% respondentů zvolilo první možnost, čili zeptat se svého kolegy. Pohých 13% se pokusí najít řešení svého problému v interním systému SIO. A vyskytlo se i pár případů, kteří jsou buď kreativní, nebo zkoušení jiné možnosti. Jeden z respondentů, zde také podotkl, že hledání věcí na SIO není vůbec jednoduché. 
+
+Tato otázka byla zvolena jako předvoj pro otázku, jestli procesy čtou či ne. Pokud ano, pak je v pořádku že požádají o pomoc kolegu, pokud ovšem ani jejich kolega nečte procesy a neví jak úkon správně vykonat. Ptát se kolegy není nejlepším řešením.
+
+Další otázka, na tuto problematiku hledáni na SIO, konkrétně procesy navazuje.
 
 **2. otázka: Have you ever try to find answer to your SFDC problem on SIO?**
 
@@ -32,32 +39,64 @@ Tato otázka mířila na samou podstatu existence procesních deskripcí. Na zá
 - Yes
 - No
 
-Tato otázka byla položena za předpokladu, že odpovědi na otázku číslo jedna budou jiné než to, že se snaží najít odpovědi na SIO.
+Tato otázka byla položena za předpokladu, že odpovědi na otázku číslo jedna budou jiné než to, že se snaží najít odpovědi na SIO. Z výsledků odpovědí na první otázku je patrné, že tento předpoklad byl správný.
+
+**Výsledky:**
+Z výsledků odpovědí na první otázku je patrné, že tento předpoklad byl správný. Nicméně výsledky této otázky, výsledkům odpovědí na první otázku trošku odporují.
+U 2. otázky totiž 83% respondentů odpovědělo, že se někdy pokusili najít řešení svého problému na SIO. Zbylých 17% se o to nikdy nepokusilo.
  
 **3. otázka: Are you following the Process page?**
 
-**Možnosti odpvoědí:**
+**Možnosti odpovědí:**
 - Yes
 - No
 
 Tato otázka už více míří k jádru pudla. Všechny procesy, jsou umístěny na jedné stránce na SIO, Process page. Všichni ze Sales týmu by tuto stránku měli sledovat a to z toho důvodu, že pokud se v procesu něco změní, SIO odešle notifikaci o změně všem, kteří tuto stránku sledují. 
-Další otázka byla doplňující k této.
+
+**Výsledky:**
+83% respondentů ano, 17% ne. Tento výsledek lze považovat za uspokojivý. Další otázkou byli vyzvání, aby svou odpověď zdůvodnili
 
 **4. otázka: Explain why you do/don't follow the main process page?**
 
-Tato otázka byla jako jedna z mála položena jako otevřená otázka. Účelem bylo zjistit, do je důvodem sledování, či nesledování hlavní procesní stránky. 
+Tato otázka byla jako jedna z mála položena jako otevřená. Účelem bylo zjistit, co je důvodem sledování, či nesledování hlavní procesní stránky.
 
-Po prvních čtyřech odpovědích bylo možné vyhodnotit, za odpovědi hádají, či odpovídají popravdě. Mohlo by být namítnuto, že počet těchto otázek, které směřují k jedomu bodu, by mohl být zredukován. Zde bych nesouhlasila, všechny otázky měly mezi sebou nějakou vazbu, které budou blíže přiblíženy ve vyhodnocení.
+**Výsledky:**
+Důvody proč sledují tuto stránku:
+- povědomí o změnách v procesech, zveřejnění nových procesů
+- protože je na to upozornil jejich šéf, nebo já
+- sledují, ale myslí že by bylo potřeba je aktualizovat
+- sledují, aby nemuseli dělat některé věci dvakrát, ale rovnou je udělali správně
+- sledují, ale některé informace jsou dle jejich názoru zavádějící a matoucí
+-Dává jim smysl je sledovat jako centrální zdroj procesů
+-jsou užitečné
+- aby byli konzistentní se svými kolegy a vyhnuli se zmatení
+
+ Důvody proč nesledují hlavní stránku:
+ - příliš mnoho stránek ke sledování
+ - nevěděli, co odpovědět
+ - nemají čas
+ - velmi špatné vyhledávání na SIO
+
+Z výsledků je patrné, že někteří sice hlavní procesní stránku sledují, ale nezaznamenali změnu v tom, že procesy byly aktualizovány a zkráceny.
+
+Důvody proč nesledovat stránku mi připadají jako velmi neopodstatněné.
+
+Po prvních čtyřech položených otázkách bylo možné zběžně  vyhodnotit, zda odpovědi hádají, či odpovídají popravdě. Mohlo by být namítnuto, že počet těchto otázek, které směřují k jednomu bodu, by mohl být zredukován. Všechny otázky měly mezi sebou nějakou vazbu.
+Další otázky už více směřují ke konkrétním věcem, které by měli členové Sales týmu znát. Významné změny, či vylepšení systému SFDC jsou jim oznámeny pomocí notifikace, která obsahuje i případný odkaz na příslušný proces.
 
 **5. otázka: Why do the process block titles have different colors?**
 
- **Možnosti odpvoědí:**
+ **Možnosti odpovědí:**
 - to specify role to perform the set of steps
 - Katka likes colors
 - to separate automatic and manual steps
 - to separate steps done in different systems (SFDC, KISS etc.)
 
 Tato otázka již šla více po podstatě věci. V předchozí kapitole této práce byla představená Global Gudiance (GG), která obecně upravuje pravidla psaní pro procesy. GG byla představena i Sales týmu, tato otázka míří na to, zda se s ní nějakým způsobem seznámili, či ne.
+
+**Výsledky:**
+U této otázky je možná jenom jedna správná odpověď a to ta první, aby se oddělily role, které mají vykonat příslušné kroky procesu. Správnou odpověď zvolilo 61% respondentů. 22% respondentů si myslelo, že účelem je oddělit systému, ve kterých se proces odehrává. Tato odpoveď byla zařazena schválně, jako mírně zavádějicí, aby bylo případně možné rozpoznat, zda Sales ví, nebo typují. Dalších 13% respondentů si myslelo, že barevné nadpisy jsou můj rozmar.
+Může být konstatováno, že Sales na tuto otázku odpověděli správně, což je uspokojivé.
 
 **6. otázka: Do you know about Global Guidance page (how to read / write processes)?**
 
@@ -67,7 +106,9 @@ Tato otázka již šla více po podstatě věci. V předchozí kapitole této pr
 - no
 Pokud předchozí otázka jenom směřovala na GG, tato už se otevřeně ptá na její existenci.
 
-Dá se říci, že otázky 1 až 4 jsou úvodní a obecné, čím dále se dostáváme v otázkách, tím víc už jednotlivé otázky míří na konkrétní věci.
+**Výsledky:**
+U této otázky jsou výsledky, v souvislosti s předchozí otázkou, již méně uspokojivé.
+78% respondentů odpovědělo, že o Global Guidance nikdy neslyšeli. Potom je s podivem, že nadpoloviční většina odpověděla na předchozí otázku správně.
 
 **7. otázka: Do you read process descriptions?**
 
@@ -77,8 +118,14 @@ Dá se říci, že otázky 1 až 4 jsou úvodní a obecné, čím dále se dost�
 - every time I use the process
 - not at all
 
-Tato otázka se opět přímo ptá, za procesy čtou či nečtou. Oklikou se dostáváme opět k otázce číslo jedna, která se ptala na, dá se říci stejnou věc, akorát z jiné strany. Tato otázka má opět i kontrolní účel, zda jsou odpovědi "pravdivé"
-či spíše "hádané"
+Tato otázka se opět přímo ptá, za procesy čtou či nečtou. Oklikou se dostáváme opět k otázce číslo jedna, která se ptala na dá se říci stejnou věc, akorát z jiné strany. Tato otázka má opět i kontrolní účel, zda jsou odpovědi "pravdivé"
+či spíše "hádané".
+
+**Výsledky:**
+43% respondentů odpovědělo, že procesy čtou v momentě, kdy se zaseknou. To je poněkud v rosporu s otázkou číslo jedna, kdy většina respondentů odpověděla, že se zeptá kolegy a nehledá přímo odpověď na SIO.
+Druhou nejfrekventovanější odpovědí pak bylo, že procesy nečtou vůbec - 26%.
+Což pro mně není uspokojivý výsledek, spolu s poznatky z odpovědí respondentů na otázku číslo 4, lze identifikovat další  náměty ke zlepšování.
+Další 22% odpovědělo, že procesy čtou když dostanou notifikaci. Což pokud nesledují příslušnou stránku, nikdy nedostanou, tudíž nečtou.
 
 **8. otázka: Where do you get the information about new / updated processes from?**
 
@@ -91,6 +138,11 @@ Tato otázka se opět přímo ptá, za procesy čtou či nečtou. Oklikou se dos
 
 Zde opět vzniká vazba na otázku, která již byla položena. Pokud sledují procesní stránku, dostanou notifikaci. Pokud nesledují, odkud tedy dostávají notifikaci o změnách v procesu.
 
+**Výsledky:**
+65% respondentů odpovědělo, že nejčastěji dostávají notifikace ze SIO. Vzhledem k tomu že už v předchozí otázce, vyšlo že 83% dotázaných sleduje procesní stránku, je to možné.
+Další cestou je nejčastěji upozornění od kolegy či nadřízeného (35% a 30%).
+
+
 **9. otázka: What's your preferred way of getting information about new / updated processes?**
 
 **Možnosti odpvoědí:**
@@ -100,6 +152,9 @@ Zde opět vzniká vazba na otázku, která již byla položena. Pokud sledují p
 - Other suggestions
 
 V souvislosti s předchozí otázkou, byly vzneseny návrhy, jak případně zlepšit komunikaci o změnách v procesech, které většinou provádí IS tým směrem k Sales týmu. Vyhodnocení této otázky bude klíčové pro IS tým a zlepšení komunikace.
+
+**Výsledky:**
+
 
 **10. otázka: What will you make to use the processes?**
 
