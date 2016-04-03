@@ -1,9 +1,11 @@
 #Dotazníkové šetření#
-Po dokončení prací na přepisu a úpravách procesů bylo potřeba zjisti, jak jsou s ní spokojení hlavní uživatelé, tedy členové sales týmu.
-Byl tedy vytvořen dotazník a ten byl rozeslán všem příslušníkům Sales týmu, včetně VP a Directorů. Dotazník byl odeslán na přelomu ledna a února 2016, po dohodě z VP v období, kdy mají Sales trošku volnější období. Dotazník byl zaměřen na spokojenost s procesními popisy.
+Po dokončení prací na přepisu a úpravách procesů bylo potřeba zjisti, jak jsou s ní spokojení hlavní uživatelé, tedy členové Sales týmu.
+Byl tedy vytvořen dotazník a ten byl rozeslán všem příslušníkům Sales týmu, včetně VP a Directorů, celkově 31 lidem. Dotazník byl odeslán na přelomu ledna a února 2016, po dohodě z VP v období, kdy mají Sales trošku volnější období. Dotazník byl zaměřen na spokojenost s procesními popisy.
 Na účast v dotazníkovém šetření byla určena časová lhůta, cca jeden týden. Tato lhůta se několikrát posouvala z důvodu, že bylo potřeba dosáhnout minimálně 50% účasti členů Sales týmu. Výsledky by jinak nebyly vypovídající.
 Tento cíl, dosáhnout minimálně 50% účastni byl splněn.
-[obrázek tabulky s účastníky]
+[Tabulka podle účastníků, (tu co sem už tvořila)]
+
+V tabulce jsou uvedeny počty pracovníků v jednotlivých kancelářích a dále pak počet účastníků z těchto kanceláří
 
 Dotazník byl zpracován ve webové aplikaci Typeform.com, která nabízí i nástroje pro vyhodnocení jednotlivých otázek a odpovědí účastníků.
 
@@ -182,14 +184,7 @@ Na závěr bylo všem účastníkům poděkováno za účast a prokázáno, že 
 
 [obrázek trička? jako for?]
 
-##Výsledky šetření##
 
-Nyní budou rozebrány výsledky dotazníkového šetření uvnit Sales týmu, jak odpovídali, co jsme předpokládali že odpoví. Již ve výčtu jednotlivých otázek bylo zmíněno, že některé otázky na sebe buď nepřímo navazují, nebo mezi sebou mají nějaký vztah. To uvidíme teď.
-
-Dotazník byl zaslán všem členům Sales týmu, 31 lidem. Cílem bylo dosáhnout minimálně 50% účasti. Tento cíl byl splněn. 
-[Tabulka podle účastníků, (tu co sem už tvořila)]
-
-V tabulce jsou uvedeny počty pracovníků v jednotlivých kancelářích a dále pak počet účastníků z těchto kanceláří.
 
 
 
