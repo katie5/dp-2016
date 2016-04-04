@@ -238,8 +238,9 @@ U druhého tvrzení bylo průměrné hodnocení na hodnotě 2,65, s tím že 39%
 Třetí tvrzení bylo průměrně hodnoceno známkou 2,73. Srozumitelnost procesů byla ohodnocena jako uspokojivá, více než 45% respondentů s tímto trvzením souhlasila.
 Další tvrzení mělo průměrné hodnocení na hodnotě 3,13 - tedy neutrální. 
 Páte tvrzení mělo opět neutrální hodnocení na známce 3,17. Zde je zajímavé, že 43% respondentů souhlasilo plně s tvrzením, že procesy jsou snadno k nalezení. Přitom v předchozích odpovědích si naopak stěžují, že procesy často nemohou najít.
-Šesté tvrzení bylo opět neutárlně ohodnoceno - známkou 3. Už z předchozích odpovědí je patrné, že,komunikace zmně je potřeba vylepšit. Toto hodnocení tvrzení to jenom potvrzuje.
-
+Šesté tvrzení bylo opět neutrálně ohodnoceno - známkou 3. Už z předchozích odpovědí je patrné, že komunikaci je potřeba vylepšit. Toto hodnocení tvrzení to jenom potvrzuje.
+Sedmé tvrzení bylo v průměru hodnoceno známkou 2, 74. Toto hodnocení nazančuje, že potřeba číst nové procesy tu je. Jen je potřeba najít tu správnou cestu.
+Poslední tvrzení bylo zaměřene na časovou náročnost, v průměru bylo hodnoceno známkou 2,78. S čehoz lze usuzovat, že Sales tým má čas na to, číst aktualizované vezre procesu. Toto hodnoceni tvzení lze považovat za uspokojivé.
 
 
 **14. otázka: If you face issue while using SFDC, you:**
@@ -249,7 +250,11 @@ Páte tvrzení mělo opět neutrální hodnocení na známce 3,17. Zde je zajím
 - try to find help on Process pages
 - stop using the feature, because it "doesn't work"
 
-Tato otázka vyloženě míří na to, jak postupují při své práci. ES team má na starosti podporu Sales týmu. Tudíž když nastane nějaké kritický problém, měli by ho reportovat. Bohužel sme ně několik a případech viděli i to, že některou novou funkcionalitu systému přestali používat na základě toho, že jim nefungovala. A nefungovala jim proto, že nepostupovali podle procesu. 
+Tato otázka vyloženě míří na to, jak postupují při své práci. ES team má na starosti podporu Sales týmu. Tudíž když nastane nějaké kritický problém, měli by ho reportovat. Bohužel jsme v několika případech viděli i to, že některou novou funkcionalitu systému přestali používat na základě toho, že jim nefungovala. A nefungovala jim proto, že nepostupovali podle procesu. 
+
+**Výsledky:**
+52% respondentů odpovědělo, že problémy reportují ES týmu, 43% se snaží najít odpověď na problém na SIO, pouze 4% respondetů by vzdali používání nového vylepšení z důvodu, že nefunguje.
+
 
 **15. otázka: Example of good process (easy to read / understand), add the link to particular page**
 
@@ -257,9 +262,21 @@ Tato otázka vyloženě míří na to, jak postupují při své práci. ES team 
 
 Tyto dvě otázky byly položeny ze ze dovou důvodů: zaprvé sem dostala zpětnou vazbu o tom, která deskripce vyhovuje týmu víc, která méně, za druhé - na Samepage se nachází spousta stránek, a spousta procesů. v průběhu zpracování diplomové práce, byly objeveny i "neoficíální" procesní stránky, kde se procesy zbytečně duplikovaly. Když to tedy shrneme, bylo důležité získat jak zpětnou vazbu, tak případně objevit další stránky na kterých se vyskytují duplicitní procesy a odstranit je, respektive nahradit linkem na oficiální stránku.
 
+Výsledky:
+Linky pro dobře popsaný proces povětšinou vedly na procesy, které byly zveřejněny nedávno. Většinou se jednalo o nové procesní deskripce.
+V příkladech špatných procesů ze vyskytovaly hlavně procesy, které byly z přepisu vyloučeny a to z důvodu rozdělení firmy.
+Co je ovšem pozitivní, žádný z linků nesměřoval mimo "oficiální stránku" s procesy.
+
 **17. otázka:Any suggestions how to improve the process descriptions?**
 
-Ve své podstatě poslední otázka, na nějaký návrh na zlepšení, který by přímo vzešel ze Sales týmu.
+Ve své podstatě poslední otázka, kde bylo respondentům umožněno vznést nějaký vlastní návrh na zlepšení procesních deskripcí.,
+
+**Výsledky:**
+Nejčastěji se vyskytoval návrh na webináře či rychlé How to video, které by bylo součástí procesu. Tyto návrhy jsou brány v potaz a pro nové procesy, které budou vznikat sme připraveni toto řešení Sales týmu nabídnout.
+Dalším zajímavým návhrhem, či postřehem bylo, přijít s konzistentním pojmenováním, či slovníkem. O to jsem se v průběhu celého přepisu procesu snažila.
+Dalším návhrhem bylo umístění screenshotu. Tato cesta byla zavrhnuta již na začátku přepisu a mým cílem bylo odstranit co nejvíce screenshotu, ideálně všechny. Vzhledem k tomu, že se systém neustále mění svým nastavením a layoutem, screenshoty zastarávají a jejich údržba není jednoduchá. Toto rozhodnutí bylo komunikováno na vedení Sales týmu a po diskusi argumenta
+
+
 
 Další otázky už byly zaměřené na identifikaci člena týmu. Dotazník byl anonymní, ale vzhledem k tomu, že Sales tým je rozprostřen takřka po všech pobočkách společnosti Kerio a zahrnuje více pracovních rolí, byli požádání aby:
 
