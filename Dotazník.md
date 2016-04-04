@@ -154,7 +154,9 @@ Další cestou je nejčastěji upozornění od kolegy či nadřízeného (35% a 
 V souvislosti s předchozí otázkou, byly vzneseny návrhy, jak případně zlepšit komunikaci o změnách v procesech, které většinou provádí IS tým směrem k Sales týmu. Vyhodnocení této otázky bude klíčové pro IS tým a zlepšení komunikace.
 
 **Výsledky:**
+z odpovědí vyplává, že většina,52%, respondentů je spokojená s pouhými notifikacemi ze SIO. dalších 44% by uvítali offline webináře či přímo online webinář. 
 
+Tyto návrhy jsou brány v potaz a bude se s nimi dále pracovat. První budou na řadě nejspíš offline webináře, na základě jejich přijetí se bude uvažovat o online webinářích. 
 
 **10. otázka: What will you make to use the processes?**
 
@@ -168,14 +170,30 @@ V souvislosti s předchozí otázkou, byly vzneseny návrhy, jak případně zle
 - having link to the process available on SFDC record I work with (task / case / opportunity)
 - Other suggestions
 
-U této otázky měli možnost respondenti vybrat více, než jednu odpověď. Zajímavé je, že v možnostech odpovědí byly zakomponované jak nové možnosti, tak i věci, které již provedeny byly. Odpovědi zde byly velmi zajímavé, budou blíže rozebrány v rozboru odpovědí.
+U této otázky měli možnost respondenti vybrat více, než jednu odpověď. Zajímavé je, že v možnostech odpovědí byly zakomponované jak nové možnosti, tak i věci, které již provedeny byly.
 
 Pro odlehčení a ozvláštnění celého dotazníku byly vsunuty vtipné odpovědi, či odkazy na člověka odpovědného za procesy - čili mně. Tyto vtipné vsuvky byly účelné, bylo potřeba Sales zaujmout natolik, aby došli v průběhu dotazování až do konce.
+
+**Výsledky:**
+Dvě nejčastější odpovědi jsou v tomto případě paradoxně ty, které byly záměrně zařazeny a tyto úpravy již byly provedeny.
+65% respondetů chce procesy zkrátit - první věc, na kterou jsem se v průběhu přepisu procesů zaměřila. [ze střední části je patrné, že to zrácení je velmi patrné]
+48% respondetů by chtělo mít link na proces přímo na objektu v SFDC - toto opatření bylo také uvedeno do praxe, hned po tom, co byl dokončen přepis všech procesů. Sales týmu přišla notifikace ze SIO i oznámení o této změně.
+Z výše uvedeného vyplývá, že si Sales těchto změn vůbec nevšimli a linky z objektu v SFDC moc nevyužívají.
+17% respondetů dále vybralo odpověď, že procesy budou číst v momentě, kdy na ně zatlačí jejich nadřízený.
+Další odpovědi byly zanedbatelné.
+
+Z výsledků vyplývá, že je potřeba změny komunikovat z více zdrojů a pokud možno za podpory nadřízených v Sales týmu.
+
 
 **11. otázka: Who is Katka (Katerina)?**
 
 Tato otázka byla vsunuta pro pobavení, ale také pro malé ověření, jestli Sales tým ví, kdo je za procesy odpovědný na straně IS týmu.
+Byla sem zvědavá, jestli Sales tým ví, o koho jde. Nebylo to poprvé, kdy byli vyzvání k nějaké akci ohledně procesů, povětšinou mi přišlo, že tyto výzvy ignorují. Chtěla jsem vědět, jestli je to procesy, nebo tím, že osobu co jim psala email neznají, nemají tušení co dělá.
 
+
+**Výsledky:**
+Na "vtipnou" otázku, občas i vtipná odpověď. Povětšinou členové Sales týmu odpovídali, že jsem členkou IS týmu, občas si to popletli s ES týmem - coš je pochopitelné, nevidí v tom moc rodzíl. Někteří napsali i to, že sem odpovědná za procesy.
+Takže v celku uspokojivé odpovědi.
 
 **12. otázka: On which SFDC object you can find link to process?**
 
@@ -188,6 +206,10 @@ Tato otázka byla vsunuta pro pobavení, ale také pro malé ověření, jestli 
 - none
 
 Opět otázka, která má vázabu na jednu z předchozích otázek. V otázce č. 10 byly poskytnuty možnosti na zlepšení. Z této otázky je jasné, že některé z návrhu na zlepšení již byly zavedeny do praxe, byly komunikovány na Sales tým. Touto otázkou jsme se snažili přijít na to, zda komunikace byla efektivní a také, zda si tohoto vylepšení členové Sales týmu vůbec všimli.
+
+**Výsledky:**
+
+
 
 **13. otázka: Please rate how much you agree with the following statements:**
 
