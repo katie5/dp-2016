@@ -18,6 +18,8 @@ Zde je potřeba nadefinovat pojem proces owner a busines owner:
 
 !!**DOPAST ROZDÍL MEZI OWNERAMA** ->DOHLEDAT V KNIZE!!!
 
+!!Připsat náležitosti procesu.!!
+
 
 ###Problém dva###
 Dalším možným problémem a zároveň omezením je, že všechny procesní deskripce se nacházejí v produktu Samepage, který společnost Kerio využívá pro spolupráci.
@@ -68,5 +70,13 @@ V Sales procesech tedy zůstanou procesy relevantní pro členy Sales týmu.
 ###Problém sedm###
 Přehlednost procesu, tím že se často opakují, často se může stát, že pracovník nemůže rychle najít, jak pokračovat. Rozhodující informace se v tu chvíli ztratí v přehršli textu.
 
+**Řešení**
+Odstranění duplicit. Případné opakování vytknout do podprocesu a na ten pak v průběhu hlavního procesu odkazovat. Tím se zlepší i udržovatelnost procesu samotného - případné zmněny se provedou pouze na jednom místě, nebude třeba procházet množství procesů a provádět úpravy jednotlivě.
+Celkové zjednodušení procesu je již zahrnuto v řešení problému číslo pět. Všechny problémy a řešení jsou mezi sebou svým způsobem propojeny.
+
 ###Problém osm###
-Tím, že se procesy hodně opakují a nepoužívají se odkazy. Dochází k tomu, že jejich údržba a udržení aktuálnosti je velmi obtížná. Pokud změním krok na jednom místě, měla by se tato změna promítnout i do ostatních procesů.
+Tím, že se procesy hodně opakují a nepoužívají se odkazy. Dochází k tomu, že jejich údržba a udržení aktuálnosti je velmi obtížná. Pokud změním krok na jednom místě, měla by se tato změna promítnout i do ostatních procesů. Dále je zde potřeba udržovat značné množství printsceeru.
+
+**Řešení**
+Opět na sebe řešení jednotlivých problému navazují, kokrténě řešení problému číslo 7 - vytknutí opakujících se části procesu. 
+Printcreene je potřeba omezit a v průběhu přepisu se maximálního množství stávajích, neaktuálních zbavit. Je potřeba 
