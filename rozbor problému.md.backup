@@ -1,7 +1,20 @@
 
 ###První problém###
-V původních procesech nebyl jasně nadefinován vlastník procesu, což v mnohém stěžovalo situaci v průběhu přepisu. Nové verze bylo potřebovat prokonzultovat s tím daným directorem, který je za ni odpovědný.
+V původních procesech nebyl jasně nadefinován vlastník procesu, což v mnohém stěžovalo situaci v průběhu přepisu. Nové verze bylo potřebovat prokonzultovat s tím daným direktorem, který je za ni odpovědný.
 Zde je nutno podotknout, že jednotlivé definice a odpovědnosti jednotlivých rolí byly nalezeny až později, paradoxně i ti, kteří je vytvořili, už zapomněli, že něco takového existuje.
+
+**Řešení**
+K procesům je potřeba přidat jasnou definici process ownera/business ownera procesu, který je odpovědný za jeho definici a posléze i za schvalování změn v tomto procesu.
+Dále je potřeba udžovat popisy pracovních rolí aktuální.
+
+Zde je potřeba nadefinovat pojem proces owner a busines owner:
+
+"Vlastník procesu představuje konkrétní sosobu, která je odpovědná za realizaci procesu, jeho aktualizaci a zlepšivání" U obecných procesů, které jsou společné pro více organizačních jednotek, garantuje vlastník procesu obecný popis platný pro všechny uživatele procesu.Proces ouner má možnost provádět požadované změny v procesu aby dosáhl cílu procesu.
+
+
+""
+
+
 
 ###Problém dva###
 Dalším možným problémem a zároveň omezením je, že všechny procesní deskripce se nacházejí v produktu Samepage, který společnost Kerio využívá pro spolupráci.

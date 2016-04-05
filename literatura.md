@@ -34,3 +34,10 @@ https://samepage.io/app/#!/72f3728084841d1a9db65c44335a41d27bfa96c2/page-84466-s
 
 NFR
 **http://www.kramekuslona.cz/downloads/NFR_Software.pdf**
+
+**První problém**
+https://www.techopedia.com/definition/4525/process-owner
+
+http://www.sdn.sap.com/irj/scn/go/portal/prtroot/docs/library/uuid/601c6049-41ca-2d10-f89c-c620adb654b8?QuickLink=index&overridelayout=true&49478023351912
+
+http://www.caf-kk.cz/administrace/soubory_ke_stazeni/1358416024_cz_prezentace15062012vlastnici_procesu.pdf
