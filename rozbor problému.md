@@ -3,6 +3,9 @@
 V původních procesech nebyl jasně nadefinován vlastník procesu, což v mnohém stěžovalo situaci v průběhu přepisu. Nové verze bylo potřebovat prokonzultovat s tím daným directorem, který je za ni odpovědný.
 Zde je nutno podotknout, že jednotlivé definice a odpovědnosti jednotlivých rolí byly nalezeny až později, paradoxně i ti, kteří je vytvořili, už zapomněli, že něco takového existuje.
 
+**Řešení**
+
+
 ###Problém dva###
 Dalším možným problémem a zároveň omezením je, že všechny procesní deskripce se nacházejí v produktu Samepage, který společnost Kerio využívá pro spolupráci.
 Nevýhody:

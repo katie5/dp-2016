@@ -251,7 +251,7 @@ Jak je možno vidět na obrázku, proces vznikaly velmi genericky, byla zde snah
 Lze vidět že Sales procesy byly promíchány s procesy, které jsou čístě pro systém KISS, dále pak jsou promíchány i speciální procesy pro Samepage.
 
 ###problém šest###
-Z výše uvedeného vyplývá, že dalším problémem bylo nesetřídění problému do odpovídajících skupin.
+Z výše uvedeného vyplývá, že dalším problémem bylo nesetřídění procesů do odpovídajících skupin.
 
 **Řešení**
 Procesy je potřeba setřídit do srozumitelných skupin a zajistit, aby jednotlivé noření procesů do sebe, či odkazy mezi procesy dávaly smysl.
