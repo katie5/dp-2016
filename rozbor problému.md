@@ -36,13 +36,18 @@ Možným řešením je i najít jiný nástroj ve kterém by se procesní deskri
 V původních procesních popisech nebylo jasně definováno, kdo mám proces vykonávat.
 
 **Řešení**
-
-V přepisech je již jasně definována role, která má příslušný proces vykonat a to pomocí barvy nadpisu procesních kroků. Definice barev pro příslušné role spolu i s instrukcemi, jak procesy psát byly souhrnně od prezentovány v dokumentu Global Gudiance, který v průběhu přepisu a úprav procesu vznikl, a bude dále prezentován i v této diplomové práci.
+V procesech je potřeba tyto role definovat. V úvahu připadá definice rolí na základě barev. Tyto definice je potřeba pak globálně udržovat a dodržovat jejich používání. Toto použití je potřeba nadefinovat
 
 ###Problém čtyři###
 Každý proces byl jiný, jinak napsaný, měl jiné náležitosti, podle toho, kdo ho vytvořil (napsal)
 
 **Řešení**
+Je potřeba vytvořit jasná pravidla podle kterých se bude proces tvořit a kde bude nadefinováno, jaké náležitosti proces musí mít.
+
+
+Výše uvedená řešení byla shrnuta v průběhu přepisu do souhrného dokumentu Global Gudiance, kde byly jednotlivá řešení problému nadefinována. Jsou zde nadefinované barvy pro role, kterých se proces týká, je zde nadefinovám lay-out procesu a stejně tak náležitosti, kter
+V přepisech je již jasně definována role, která má příslušný proces vykonat a to pomocí barvy nadpisu procesních kroků. Definice barev pro příslušné role spolu i s instrukcemi, jak procesy psát byly souhrnně od prezentovány v dokumentu Global Gudiance, který v průběhu přepisu a úprav procesu vznikl, a bude dále prezentován i v této diplomové práci.
+
 
 
 ###Problém pět###
