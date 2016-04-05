@@ -45,16 +45,25 @@ Každý proces byl jiný, jinak napsaný, měl jiné náležitosti, podle toho, 
 Je potřeba vytvořit jasná pravidla podle kterých se bude proces tvořit a kde bude nadefinováno, jaké náležitosti proces musí mít.
 
 
-Výše uvedená řešení byla shrnuta v průběhu přepisu do souhrného dokumentu Global Gudiance, kde byly jednotlivá řešení problému nadefinována. Jsou zde nadefinované barvy pro role, kterých se proces týká, je zde nadefinovám lay-out procesu a stejně tak náležitosti, kter
-V přepisech je již jasně definována role, která má příslušný proces vykonat a to pomocí barvy nadpisu procesních kroků. Definice barev pro příslušné role spolu i s instrukcemi, jak procesy psát byly souhrnně od prezentovány v dokumentu Global Gudiance, který v průběhu přepisu a úprav procesu vznikl, a bude dále prezentován i v této diplomové práci.
-
-
+Výše uvedená řešení byla shrnuta v průběhu přepisu do souhrného dokumentu Global Gudiance, kde byly jednotlivá řešení problému nadefinována. Jsou zde nadefinované barvy pro role, kterých se proces týká, je zde nadefinován lay-out procesu a stejně tak náležitosti, které by měla procesní deskripce obsahovat.
 
 ###Problém pět###
 Procesy jsou dlouhé, mnohdy nesrozumitelné, proto je většina členů Sales týmu nečte, i přesto, že zadávání informací do systému, či zpracování jednotlivých úkonů v určitém pořadí je pro správnost dat v systému klíčové
 
+**Řešení**
+Řešením v tomto případě je revize všech procesů, kontrola jejich správnosti, vytřídění nepotřebných informací do separátní sekce procesu a zanechání pouze čisté procesní deskripce, která bude krátká, vystížná a bude obsahovat pouze kroky nutné k úspěšnému vykonání procesu od začátku do konce.
+
 ###Procesní struktura###
-Problém šest - špatné třídění procesů
+Problém šest - špatné třídění procesů.
+
+**Řešení**
+Řešením v tomto případě je nepochybně setřídění procesů do smysluplných celků. Dále je potřeba vytřídit procesy, které už se nepoužívají a ty pak přesunout do složky archivu, kterou je potřeba také vytvořit. U setřídění je potřeba také překontrolovat práva, která jsou udělena na jednotlivé stránky, aby bylo zajištěno, že ti pracovníci, kterým jsou procesy určtěny se na ně dostanou. U Archivu pak bude přístup zamezen, aby nedocházelo k případnému zmatení.
+
+Dále je potřeba vzít v uvahu rozdělení společností a to, že společnsot Samepage bude mít svuj vlastní systém SFDC. Proto budou zvlášt vytříděny procesy pro zpracování zákazníků SIO - s těmi to se dále pracovat nebude, protože momentálně není možné rozhodnout, které z nich jsou dále pro Kerio Sales tým relevantní, a které ne.(* Tato problematika byla projednána ze Sales Directorem, který toto měl na starosti, tyto procesy pro společnost kerio momentáně nejsou prioritní)
+
+Třetí sloužkou, která bude vyčleněna, bude složka obsahující procesy, které jsou vykonávány pouze v systému KISS. Tyto procesy jsou prováděny povětšinou rolí Sales Ops, proto je lepší je ze Sales procesů vyčlenit.
+
+V Sales procesech tedy zůstanou procesy relevantní pro členy Sales týmu.
 
 ###Problém sedm###
 Přehlednost procesu, tím že se často opakují, často se může stát, že pracovník nemůže rychle najít, jak pokračovat. Rozhodující informace se v tu chvíli ztratí v přehršli textu.
