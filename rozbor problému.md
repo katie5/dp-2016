@@ -4,16 +4,19 @@ V původních procesech nebyl jasně nadefinován vlastník procesu, což v mnoh
 Zde je nutno podotknout, že jednotlivé definice a odpovědnosti jednotlivých rolí byly nalezeny až později, paradoxně i ti, kteří je vytvořili, už zapomněli, že něco takového existuje.
 
 **Řešení**
-K procesům je potřeba přidat jasnou definici process ownera/business ownera procesu, který je odpovědný za jeho definici a posléze i za schvalování změn v tomto procesu.
-Dále je potřeba udžovat popisy pracovních rolí aktuální.
+
+K procesům je potřeba přidat jasnou definici process ownera/business ownera procesu, který je odpovědný za jeho definici a posléze i za schvalování změn v tomto procesu. 
+Dále je potřeba udržovat popisy pracovních rolí aktuální.
 
 Zde je potřeba nadefinovat pojem proces owner a busines owner:
 
-"**Vlastník procesu** - představuje konkrétní sosobu, která je odpovědná za realizaci procesu, jeho aktualizaci a zlepšivání" U obecných procesů, které jsou společné pro více organizačních jednotek, garantuje vlastník procesu obecný popis platný pro všechny uživatele procesu.Proces ouner má možnost provádět požadované změny v procesu aby dosáhl cílu procesu.
+"**Vlastník procesu** - představuje konkrétní osobu, která je odpovědná za realizaci procesu, jeho aktualizaci a zlepšování" U obecných procesů, které jsou společné pro více organizačních jednotek, garantuje vlastník procesu obecný popis platný pro všechny uživatele procesu.Proces owner má možnost provádět požadované změny v procesu aby dosáhl cílu procesu.
 
+["**Busines owner** - rozhoduje o procesech v celé obchodní sféře, typické rozhodnutí pro tento orgán zahrnuje:
+- odpovědnost za konečný návrh procesů a klíčových ukazatelů výkonosti
+- odpovědnost za úspěšnou relaizaci společných postupů v rámci celého podniku],
 
-"**Busines owner** - "
-
+!!**DOPAST ROZDÍL MEZI OWNERAMA** ->DOHLEDAT V KNIZE!!!
 
 
 ###Problém dva###
@@ -22,11 +25,25 @@ Nevýhody:
  -  produkt SIO se pořád vyvíjí a mění
  -  vyhledávání v SIO není dokonalé - existují zde spousty vytvořených dokumentů, ve kterých se těžko hledá, pokud není klíčové slovo velmi výstižné
 
+**Řešení**
+
+Důležité je sjednotit  lay-out procesních deskripcí. Vzhledem k tomu že se produkt stále vyvíjí, je potřeba ho zanechat jednoduchý, připravený na případnou migraci do nového prostředí.
+U přepisu je také potřeba brát ohled na správné pojmenování procesu a tím se pokusit vylepšit vvyhledávání na SIO. Pokud budou správně použitá klíčová slova, vyhledávání by mělo být jednodušší.
+
+Možným řešením je i najít jiný nástroj ve kterém by se procesní deskripce udržovaly, pokud SIO přestane vyhovovat.
+
 ###Problém tři###
 V původních procesních popisech nebylo jasně definováno, kdo mám proces vykonávat.
 
+**Řešení**
+
+V přepisech je již jasně definována role, která má příslušný proces vykonat a to pomocí barvy nadpisu procesních kroků. Definice barev pro příslušné role spolu i s instrukcemi, jak procesy psát byly souhrnně od prezentovány v dokumentu Global Gudiance, který v průběhu přepisu a úprav procesu vznikl, a bude dále prezentován i v této diplomové práci.
+
 ###Problém čtyři###
 Každý proces byl jiný, jinak napsaný, měl jiné náležitosti, podle toho, kdo ho vytvořil (napsal)
+
+**Řešení**
+
 
 ###Problém pět###
 Procesy jsou dlouhé, mnohdy nesrozumitelné, proto je většina členů Sales týmu nečte, i přesto, že zadávání informací do systému, či zpracování jednotlivých úkonů v určitém pořadí je pro správnost dat v systému klíčové
