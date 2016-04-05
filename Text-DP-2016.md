@@ -184,6 +184,7 @@ Vybranými odpovědnostmi directora:
 
 Pro účely této práce je důležité si povšimnout bodu 1, konkrétně toho, že Directror je odpovědný na definici procesů pro svůj tým.
 
+
 ###První problém###
 V původních procesech nebyl jasně nadefinován vlastník procesu, což v mnohém stěžovalo situaci v průběhu přepisu. Nové verze bylo potřebovat prokonzultovat s tím daným directorem, který je za ni odpovědný.
 Zde je nutno podotknout, že jednotlivé definice a odpovědnosti jednotlivých rolí byly nalezeny až později, paradoxně i ti, kteří je vytvořili, už zapomněli, že něco takového existuje.
@@ -248,15 +249,21 @@ Jak již bylo zmíněno v úvodu, procesy začaly vznikat v době, kdy se Kerio 
 Jak je možno vidět na obrázku, proces vznikaly velmi genericky, byla zde snaha je roztřídit do skupin, nicméně po čase skupiny přestaly odpovídat a postupným vnořováním jednoho procesu do druhého, respektive jedné stránky do druhé, vznikaly zmatky.
 
 Lze vidět že Sales procesy byly promíchány s procesy, které jsou čístě pro systém KISS, dále pak jsou promíchány i speciální procesy pro Samepage.
+
+###problém šest###
+Z výše uvedeného vyplývá, že dalším problémem bylo nesetřídění problému do odpovídajících skupin.
+
 **Řešení**
 Procesy je potřeba setřídit do srozumitelných skupin a zajistit, aby jednotlivé noření procesů do sebe, či odkazy mezi procesy dávaly smysl.
 
 Pokud nyní rozebereme stránku popisu jako takovou, docházelo zde k častým duplicitám a opakování textu - tím docházelo k neúměrnému protahování textu deskripce a také k tomu, že rozdíly v popisu nebyly patrné na první pohled.
 Skvělým příkladem je proces Partner Portal Singup.
 
-Prostřednictvím tohoto procesu je úspěšně založen v SFDC nový partner a je mu umožněn přístup do partnerského portálu.
+**Partner Portal Singup**
 
-Proces je docela komplikovaný sám o sobě - proběhne zde několik rozhodnutí a ty přesměřují proces někam jinam, dál. Další komplikací je, že procesu se učástní hned několik členů týmu.
+Tento proces má vést k úspěšnému založení nového partnera v SFDC, potažmo v KISSU a dále jsou partnerovi poskytnuty přístupy do partnerského portálu či online storu.
+
+Proces je docela komplikovaný sám o sobě - proběhne zde několik rozhodnutí a ty přesměrují proces někam jinam, dál. Další komplikací je, že procesu se učástní hned několik členů týmu.
 
 **Rozhodnutí, které je potřeba v průběhu procesu učinit:**
 - Je partner Direct/indirect?
@@ -279,6 +286,8 @@ Na části procesu která se věnuje Novým partnerům, konkrétně Direct partn
 2. došlo zde k promíchání kroků, které je potřeba provést, vysvětlujících informací a také nejsou vyčleněny spouštěcí události
 
 Na dalším příkladu je patrné, že se některé části procesu zbytečně opakují. Pak je pro čtenáře / vykonavatele procesu mnohem těžší najít, v čem se proces liší od jiného.
+
+[Obrázek porovnání dvou vedle sebe obrázku Partne P singup..tam kde se opakuji, zvýraznit kde se liší]
 
 ###Problém sedm###
 Přehlednost procesu, tím že se často opakují, často se může stát, že pracovník nemůže rychle najít, jak pokračovat. Rozhodující informace se v tu chvíli ztratí v přehršli textu.
