@@ -93,4 +93,11 @@ Tím, že se procesy hodně opakují a nepoužívají se odkazy. Dochází k tom
 Opět na sebe řešení jednotlivých problému navazují, kokrténě řešení problému číslo 7 - vytknutí opakujících se části procesu. 
 Printcreene je potřeba omezit a v průběhu přepisu se maximálního množství stávajích, neaktuálních zbavit. Je potřeba vytvořit tak jednoduchou deskripci, která bude srozumitelná a zvládnutelná i bez použití obrazové dokumentace.
 
+###Problém devět###
+Jasná definice vstupu, která odstartuje celý proces. Respektive, tyto události byly v procesu zahrnuty, ovšem nebyly patrné na první pohled.
 
+**Řešení**
+Vyčlenění této události (která je stupem tohoto procesu a výstupem procesu předcházejícího),případných automatických kroků, nebo podmínek, které musí být splěny, než bude možné aby Sales pracovník pracoval s procesem, do separátní sekce na začátku procesu.
+
+Všechny navrhnutá řešení výše a jejich dokumentace daly za vnik Gloubal Gudiance, která je jakýmsi návodem, jak tvořit a číst procesy ve společnosti Kerio.
+Dále byly nadefinovány pravidla lay-outu procesu a také vytvořená šablona, kterou je možné zkopírovat a začít tvořit procesní deskripci. Šablona obsahuje i hepl text, co je potřeba zapsat do kterého políčka, případně jak pokračovat.
