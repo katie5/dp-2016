@@ -91,6 +91,6 @@ Tím, že se procesy hodně opakují a nepoužívají se odkazy. Dochází k tom
 
 **Řešení**
 Opět na sebe řešení jednotlivých problému navazují, kokrténě řešení problému číslo 7 - vytknutí opakujících se části procesu. 
-Printcreene je potřeba omezit a v průběhu přepisu se maximálního množství stávajích, neaktuálních zbavit. Je potřeba vytvořit tak jednoduchou descripci, tkerá bude srozumitelná a zvládnutelná i bez použití obrazové dokumentace.
+Printcreene je potřeba omezit a v průběhu přepisu se maximálního množství stávajích, neaktuálních zbavit. Je potřeba vytvořit tak jednoduchou deskripci, která bude srozumitelná a zvládnutelná i bez použití obrazové dokumentace.
 
 
