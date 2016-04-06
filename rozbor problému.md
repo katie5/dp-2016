@@ -88,6 +88,7 @@ Dalším pomocníkem je zvýraznění důležitých pasáží procesu, aby bylo 
 2. pokud se potřebuji ujisti o dalším kroku, je možné rychle přečíst text pomocí zvýrazněných klíčových slov - povětšinou akce a objekt k akci určený.
 
 **Příklad**
+[Obrázek kus textu portal singup strarý a nový]
 
 ###Procesní struktura###
 Problém šest - špatné třídění procesů.
@@ -95,11 +96,27 @@ Problém šest - špatné třídění procesů.
 **Řešení**
 Řešením v tomto případě je nepochybně setřídění procesů do smysluplných celků. Dále je potřeba vytřídit procesy, které už se nepoužívají a ty pak přesunout do složky archivu, kterou je potřeba také vytvořit. U setřídění je potřeba také překontrolovat práva, která jsou udělena na jednotlivé stránky, aby bylo zajištěno, že ti pracovníci, kterým jsou procesy určtěny se na ně dostanou. U Archivu pak bude přístup zamezen, aby nedocházelo k případnému zmatení.
 
-Dále je potřeba vzít v ú                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    vahu rozdělení společností a to, že společnost Samepage bude mít svůj vlastní systém SFDC. Proto budou zvlášt vytříděny procesy pro zpracování zákazníků SIO - s těmi to se dále pracovat nebude, protože momentálně není možné rozhodnout, které z nich jsou dále pro Kerio Sales tým relevantní, a které ne.(* Tato problematika byla projednána ze Sales Directorem, který toto měl na starosti, tyto procesy pro společnost Kerio momentálně nejsou prioritní)
+
+Dále je potřeba vzít v úvaji rozdělení společností a to také to že společnost Samepag bude mít svuj vlastní CRM systém.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   Proto budou zvlášt vytříděny procesy pro zpracování zákazníků SIO - s těmi to se dále pracovat nebude, protože momentálně není možné rozhodnout, které z nich jsou dále pro Kerio Sales tým relevantní, a které ne.(* Tato problematika byla projednána ze Sales Directorem, který toto měl na starosti, tyto procesy pro společnost Kerio momentálně nejsou prioritní)
 
 Třetí sloužkou, která bude vyčleněna, bude složka obsahující procesy, které jsou vykonávány pouze v systému KISS. Tyto procesy jsou prováděny povětšinou rolí Sales Ops, proto je lepší je ze Sales procesů vyčlenit.
 
 V Sales procesech tedy zůstanou procesy relevantní pro členy Sales týmu.
+[Obrázek původního třídění procesů, nová struktura]
+
+Sales procesy jsou dále členěny takto:
+- Account management- tato složka obsahuje procesy vztahující se přímo k Accountu- tedy k zákazníkovi, respektive k partnerovi
+- Cases - obsahuje procesy, které se vztahuji k objektu Case 
+- Lead management - obsahuje procesy, které zpracovávají Leady
+- Opportunity management - zahrnuje procesy, kde na začátku stojí oportunita. Dále také opsahuje procesy, které zahrnují další možné akce na objektu Opportunita
+- Partner management - zde jsou obsaženy procesy, které se týkají partnerů - zvyšování jejich partner levelu, registrace do partnerského portálu.
+- Salesforce general actions - obecné procesy, které se vztahují k systému SFDC, například jak logovat aktivity, jak Mergovat duplikáty atd.
+- Samepage Ordering - jediný z procesů SIO, který zůstal zařezen, vzikl po oddělení společností a je pro Kerio relevantní.
+- Operational Processes - Obecné operativní procesy
+
+Nové složky v roce 2016
+- Data synchronization from SFDC to KISS - vysvětlují jak funguje tato synchronizace a v jakých případech je potřeba do ní zasáhnout manuálně
+- Kerio Cloud processes - celá skupina nových procesů, které již sou tvořeny v souladu s GG
 
 ###Problém sedm###
 Přehlednost procesu, tím že se často opakují, často se může stát, že pracovník nemůže rychle najít, jak pokračovat. Rozhodující informace se v tu chvíli ztratí v přehršli textu.
@@ -108,6 +125,9 @@ Přehlednost procesu, tím že se často opakují, často se může stát, že p
 Odstranění duplicit. Případné opakování vytknout do podprocesu a na ten pak v průběhu hlavního procesu odkazovat. Tím se zlepší i udržovatelnost procesu samotného - případné změny se provedou pouze na jednom místě, nebude třeba procházet množství procesů a provádět úpravy jednotlivě.
 Celkové zjednodušení procesu je již zahrnuto v řešení problému číslo pět. Všechny problémy a řešení jsou mezi sebou svým způsobem propojeny.
 
+**Příklad**
+[Připravený obrázek PPS]
+
 ###Problém osm###
 Tím, že se procesy hodně opakují a nepoužívají se odkazy. Dochází k tomu, že jejich údržba a udržení aktuálnosti je velmi obtížná. Pokud změním krok na jednom místě, měla by se tato změna promítnout i do ostatních procesů. Dále je zde potřeba udržovat značné množství printsceeru.
 
@@ -115,11 +135,17 @@ Tím, že se procesy hodně opakují a nepoužívají se odkazy. Dochází k tom
 Opět na sebe řešení jednotlivých problému navazují, kokrténě řešení problému číslo 7 - vytknutí opakujících se části procesu. 
 Printcreene je potřeba omezit a v průběhu přepisu se maximálního množství stávajích, neaktuálních zbavit. Je potřeba vytvořit tak jednoduchou deskripci, která bude srozumitelná a zvládnutelná i bez použití obrazové dokumentace.
 
+**Příklad**
+[Manage KKP access proces, tady můžu požít nová]
+
 ###Problém devět###
 Jasná definice vstupu, která odstartuje celý proces. Respektive, tyto události byly v procesu zahrnuty, ovšem nebyly patrné na první pohled.
 
 **Řešení**
 Vyčlenění této události (která je stupem tohoto procesu a výstupem procesu předcházejícího),případných automatických kroků, nebo podmínek, které musí být splěny, než bude možné aby Sales pracovník pracoval s procesem, do separátní sekce na začátku procesu.
+
+**Příklad**
+[Posílání Annex A - prerequsites]
 
 Všechny navrhnutá řešení výše a jejich dokumentace daly za vnik Gloubal Gudiance, která je jakýmsi návodem, jak tvořit a číst procesy ve společnosti Kerio.
 Dále byly nadefinovány pravidla lay-outu procesu a také vytvořená šablona, kterou je možné zkopírovat a začít tvořit procesní deskripci. Šablona obsahuje i hepl text, co je potřeba zapsat do kterého políčka, případně jak pokračovat.
