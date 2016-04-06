@@ -12,8 +12,16 @@ Dále je potřeba udržovat popisy pracovních rolí aktuální.
 Busines owner definuje - navrhuje higlevel proces, určuje role, které budou proces provádět, schvaluje a navrhuje změny v procesu
 
 Proces owner - rozvádí higlevel proces do detajlních procesních kroků, které je potřeba vykonat, aby proces proběhnul. Je odpovědny za udržování aktuálnosti této dokumentace.
+ 
+Ke každému procesy tedy byla na záčátek přidáná sekce, ve které je nadefinován Busines owner - povětšinou Director, či VP, 
+(ve většině případe bylo snahou uvádě přímo jméno. Po mnohých změnách bylo uvažováno o tom jména nahradit jména raději pracovní pozicí)
+a process owner - ta je nadefinována obecněji jak ES team. 
+(*v nejbliží době bude nahrazeno buď pracovní pozicí)
 
-Obecné definice pojmu: (podepřít literaturou)
+**Příklad**
+[Obrázek SPR před a po jenom část kde je nadefinovaný owner]
+
+Obecné definice pojmu:
 
 "**Vlastník procesu** - představuje konkrétní osobu, která je odpovědná za realizaci procesu, jeho aktualizaci a zlepšování".Proces owner má možnost provádět požadované změny v procesu aby dosáhl cílu procesu.
 
@@ -41,6 +49,10 @@ Důležité je sjednotit  lay-out procesních deskripcí. Vzhledem k tomu že se
 U přepisu je také potřeba brát ohled na správné pojmenování procesu a tím se pokusit vylepšit vyhledávání na SIO. Pokud budou správně použitá klíčová slova, vyhledávání by mělo být jednodušší.
 
 Krajním možným řešením je najít jiný nástroj ve kterém by se procesní deskripce udržovaly, pokud SIO přestane vyhovovat.
+ 
+**Příklad**
+ mnohé procesy byly rozprostřeny až do třech sloupců, byly sjednoceny do jednoho. Pravidla pro psaní byly upravenyv pravidlech.
+ [obrázek pravidel]
 
 ###Problém tři###
 V původních procesních popisech nebylo jasně definováno, kdo mám proces vykonávat.
@@ -49,6 +61,10 @@ Na základě výše uvedených atributu procesu lze konstatovat, že v procesech
 **Řešení**
 V procesech je potřeba tyto role, zdroje, definovat. V úvahu připadá definice rolí na základě barev. Tyto definice je potřeba pak globálně udržovat a dodržovat jejich používání. Toto použití je potřeba ukotvit v obecných pravidlech psaní procesů.
 
+**Příklad**
+Jednotlive role, či zdroje, jsou definovány barvami v Global Gudiance. Níže je vidět jak ukázka z Global Gudinace, tak porovnání starého a nového procesu.
+[obrázek starého Refund Policy, obrázek nového,]
+
 ###Problém čtyři###
 Každý proces byl jiný, jinak napsaný, měl jiné náležitosti, podle toho, kdo ho vytvořil (napsal)
 
@@ -56,16 +72,22 @@ Každý proces byl jiný, jinak napsaný, měl jiné náležitosti, podle toho, 
 Je potřeba vytvořit jasná pravidla podle kterých se bude proces tvořit a kde bude nadefinováno, jaké náležitosti proces musí mít.
 
 Výše uvedená řešení byla shrnuta v průběhu přepisu do souhrného dokumentu Global Gudiance, kde byly jednotlivá řešení problému nadefinována. Jsou zde nadefinované barvy pro role, kterých se proces týká, je zde nadefinován lay-out procesu a stejně tak náležitosti, které by měla procesní deskripce obsahovat.
-Podobě Global Gudiance bude věnována pozornost ještě později
+Podobě Global Gudiance bude věnována pozornost ještě později.
+
+**Příklad**
+Procesy mají jasně definované sekce, to je notně zpřehlednilo. 
+[obrázek porovnání starého z novým Increase of partner level]
 
 ###Problém pět###
 Procesy jsou dlouhé, mnohdy nesrozumitelné, proto je většina členů Sales týmu nečte, i přesto, že zadávání informací do systému, či zpracování jednotlivých úkonů v určitém pořadí je pro správnost dat v systému klíčové.
 
 **Řešení**
 Řešením v tomto případě je revize všech procesů, kontrola jejich správnosti, vytřídění nepotřebných informací do separátní sekce procesu a zanechání pouze čisté procesní deskripce, která bude krátká, vystížná a bude obsahovat pouze kroky nutné k úspěšnému vykonání procesu od začátku do konce.
-Dalším pomocníkem je zváraznění důležitých pasáží procesu, aby bylo možné proces číst dvěma způsoby:
+Dalším pomocníkem je zvýraznění důležitých pasáží procesu, aby bylo možné proces číst dvěma způsoby:
 1. pokud se potřebuji s procesem seznámit, je nový, čtu proces celý
 2. pokud se potřebuji ujisti o dalším kroku, je možné rychle přečíst text pomocí zvýrazněných klíčových slov - povětšinou akce a objekt k akci určený.
+
+**Příklad**
 
 ###Procesní struktura###
 Problém šest - špatné třídění procesů.
