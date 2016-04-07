@@ -423,7 +423,9 @@ Další důležitou složkou je Archive, zde jsou také speciálně nastavena pr
 Tato složka byla vytvořena v průběhu přepisu procesu.
 Na další úrovni stránek jsou pak detajněji znázorněny jednotlivé složky Sales procesů, které byly charakterizovany jíž dříve.
 Na mapě je pak vidět i jaké procesy se nachází uvnitř složky. Tato mapa by měla sloužit pro lepší orientaci na SIO.
-**Nedostatek** Kdyby bylo možné do obrázku vložit přímo odkazy na 
+**Nedostatek** Kdyby bylo možné do obrázku vložit přímo odkazy na jednotlivé procesy, mohla by mapa sloužit jako rozcestník. To je ovšem jeden z dalších nedostatků SIO.
+
+
 
 
 
