@@ -150,4 +150,4 @@ Vyčlenění této události (která je stupem tohoto procesu a výstupem proces
 Všechny navrhnutá řešení výše a jejich dokumentace daly za vnik Gloubal Gudiance, která je jakýmsi návodem, jak tvořit a číst procesy ve společnosti Kerio.
 Dále byly nadefinovány pravidla pro lay-out procesu a také vytvořená šablona, kterou je možné zkopírovat a začít tvořit procesní deskripci. Šablona obsahuje i hepl text, co je potřeba zapsat do kterého políčka, případně jak pokračovat.
 
-##Global Gudiance
+##Global Gudiance##
