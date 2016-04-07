@@ -382,6 +382,51 @@ Dále byly nadefinovány pravidla pro lay-out procesu a také vytvořená šablo
 
 #Global Gudiance#
 
+V některých výše uvedených řešeín jednotlivách problémů byl zmíněný dokument Global Gudiance (dále jen GG)
+GG je souhrný dokument, který má sloužit jako průvodce při psaní procesu, ale také při jeho čtení. (*do přílohy celou GG?)
+
+GG je rozdělená do následujících sekcí:
+
+**Overview**
+Tato sekce obecně obsahuj informaci o tom, co za informace lze na stránce najít, případně odkazy na další přidružené stránky s důležitými informacemi.
+V tomto případě se v této sekci nachází odkaz na šablonu- Template, pro psaní procesů, které se budeme věnovat později.
+[obrázek?]
+
+**Definiton of colors used**
+Tato sekce obsahuje definice jednotlivých barev, které se v procesech vyskytují.
+Barvy v procesech jsou použity na dvou místech:
+1. **V nadpisech** - barva nadpisu slouží pro rozlišení rolí, zdrujů, které mají proces vykonat
+2. **V textu**- základní barvou textu je černá, kdy se pro zváraznění a přehlednost textu používá vytučnění slov.  
+
+[obrázek barviček]
+
+ad 1. **Title colors**
+V této části je nadefinováno použití celkem pro 8 barev. Z toho 4 definují sales roli, která má vykonat dané procesní kroky. U každé definice je také použit odkaz na příslušný proces, kde je barva použita. Tyto barvy jsou v nadpisech nejpoužívanější.
+Černá barva je volena jako neutrální a je používána u overview. Zbylé tři barvy nejsou používány tak často a jsou určeny spíše pro speciální případy.
+Vysvětlení z partnerovy strany, která požívá šedivý nadpis je pak v procesech použita minimálně.
+
+ad. 2 **Colors in text**
+I zde jsou ke každé definici barev přidané příklady použití těchto barev. Základní barvou je černá, jak už bylo zmíněno. Další bavou, která je v textu použí ke zvýraznění důležitých kroků je červená.
+Změny v procesu, rozhodnutí o tom, kterou větví procesu se vydat dál jsou v procesu zvýrazněny fialovou.
+Další barvy jsou pak použity pro odkazy ať už na obrázky, nebo mezi stránkami.
+V textu je také možné najít separátně zvýrazněny kroky, které provádí systém automaticky, jeli to pro proces důležité
+
+Další významnou sekcí v GG jsou pak procesní mapy. Tyto procesní mapy by měly posloužit k lepší orientaci mezi procesy.
+Jako první je uvedena legenda, vysvětlující opět barvy a pak také styl provázanosti mezi procesy.
+[obrázek legendy]
+
+**Process page map**
+Na této mapě je rozkreslena struktura stránek. Na hlavní stránku byla kromě tří sekcí s procesy přidána stránka s GG a také šablona.
+Dlašími důležitými složkami jsou Drafty a Archive.
+Drafty slouží pro tvrobu procesu - proces vzniká v této složce, kde jsou nastaveny speciální práva, jetnotliví členové Sales týmu zde namají přístup, pokud je nepozve page owner. To je povětšinou buď někdo z vedení Sales týmu (VP nebo Directror), či příslušný zástupce IS týmu. Poté co je proces odladěn a prodiskutovány jeho případné nedostatky je vypublikován Sales týmu do složky procesů.
+Další důležitou složkou je Archive, zde jsou také speciálně nastavena práva a to hlavně z toho důvodu, aby Sales tým případně nepoužíval zastaralé procesy.
+Tato složka byla vytvořena v průběhu přepisu procesu.
+Na další úrovni stránek jsou pak detajněji znázorněny jednotlivé složky Sales procesů, které byly charakterizovany jíž dříve.
+Na mapě je pak vidět i jaké procesy se nachází uvnitř složky. Tato mapa by měla sloužit pro lepší orientaci na SIO.
+**Nedostatek** Kdyby bylo možné do obrázku vložit přímo odkazy na 
+
+
+
 
 
 #Partner Portal Singup#
