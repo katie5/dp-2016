@@ -810,7 +810,7 @@ Na závěr bylo všem účastníkům poděkováno za účast a prokázáno, že 
 ##Záverečné shrnutí##
 
 
-
+#Závěr#
 
 
 
