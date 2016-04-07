@@ -406,7 +406,7 @@ V této části je nadefinováno použití celkem pro 8 barev. Z toho 4 definuj�
 Vysvětlení z partnerovy strany, která požívá šedivý nadpis je pak v procesech použita minimálně.
 
 ad. 2 **Colors in text**
-I zde jsou ke každé definici barev přidané příklady použití těchto barev. Základní barvou je černá, jak už bylo zmíněno. Další bavou, která je v textu použí ke zvýraznění důležitých kroků je červená.
+I zde jsou ke každé definici barev přidané příklady použití těchto barev. Základní barvou je černá, jak už bylo zmíněno. Další bavou, která je v textu použitá ke zvýraznění důležitých kroků je červená.
 Změny v procesu, rozhodnutí o tom, kterou větví procesu se vydat dál jsou v procesu zvýrazněny fialovou.
 Další barvy jsou pak použity pro odkazy ať už na obrázky, nebo mezi stránkami.
 V textu je také možné najít separátně zvýrazněny kroky, které provádí systém automaticky, jeli to pro proces důležité
@@ -424,6 +424,29 @@ Tato složka byla vytvořena v průběhu přepisu procesu.
 Na další úrovni stránek jsou pak detajněji znázorněny jednotlivé složky Sales procesů, které byly charakterizovany jíž dříve.
 Na mapě je pak vidět i jaké procesy se nachází uvnitř složky. Tato mapa by měla sloužit pro lepší orientaci na SIO.
 **Nedostatek** Kdyby bylo možné do obrázku vložit přímo odkazy na jednotlivé procesy, mohla by mapa sloužit jako rozcestník. To je ovšem jeden z dalších nedostatků SIO.
+[obrázek procesní mapy]
+
+**Process connection map**
+Tahle mapa v sobě zahrnuje hned dvě spojení - první, v této mapě méně důležité je převzato z předchozí mapy a znázornuně propojesnot podstránek. Mnohem důležitější ovšem na této mapě je znázornění propojenosti procesu pomocí linků.
+Je tady i skupinka procesů, které nejsou napojeny vůbec. Tyto procesy nejsou používány na denní bázi, spíše občasně.
+
+[obrázek procesní mapy]
+*poznámka pod čarou - mapy zachycují stav v roce 2015,kterým se věnuje i tato práce. Změny v roce 2016 do map nejsou zahrnuty.
+
+Vzhledem k tomu, že většinu procesu píšu a reviduji já, případně upravuji, je Global Gudiance využívána hlavně mnou. Ovšem Busines owneři již také projevili snahu při používání tohoto dokumentu, při tvorbě návrhu procesu.
+
+z jejich pohledu je možná, než Global Gudiace, důležitější již zmiňovaná šablona, která tvoří základ, jakousi kostru, každého procesu a zajišťuje stejnou strukturu stránky pro všechny procesní deskripce.
+
+#Template and Page Layout Rules#
+
+Jak již název kapitoly napovídá, u šablony jsou také nadefinována pravidla pro layout procesní stránky - jedině tak jde zajistit aby každý proces vypadal stejně.
+
+##Rules##
+**Text**
+první pravidlo se týká textu, je zde uveden link na GG která blíže specifikuje text a barvy použité v textu.
+
+**Tables**
+Jedna z dalších komponent SIO, kterou jsem využívala hlavně k nadefinování stavů, jednotlivých objektů. Důležité pak zejména bylo tyto stavy shluknout na jedno místo. Stavy jsou povětšinou vyplněny ve fildu (políčko). Zjednodušeně by se tedy dalo říct, že v tabulkách jsou zachyceny vysvětlivky k jednotlivým políčkům. Mezi důležíté fildy napříklád patří Opportunity stage - u opportunity je často změnou stavu spuštěna automatická akce. Proto dokumentace těchto stavů není důležitá jen pro sales tým (vědí jak si ulehčit práci), ale také jako dokumentace pro ES tým, když dělá nějaké změny v nastavení. Nehledě na to, že Opportunit existuje v systému používáném Keriem hned několik druhů (určijí se Record Typem) a pro každý druh Opportunity jsou nadefinované trošku jiné Stage.
 
 
 
