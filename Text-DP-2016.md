@@ -446,13 +446,38 @@ Jak již název kapitoly napovídá, u šablony jsou také nadefinována pravidl
 první pravidlo se týká textu, je zde uveden link na GG která blíže specifikuje text a barvy použité v textu.
 
 **Tables**
+Nejdříve malé vysvětlení:
 Jedna z dalších komponent SIO, kterou jsem využívala hlavně k nadefinování stavů, jednotlivých objektů. Důležité pak zejména bylo tyto stavy shluknout na jedno místo. Stavy jsou povětšinou vyplněny ve fildu (políčko). Zjednodušeně by se tedy dalo říct, že v tabulkách jsou zachyceny vysvětlivky k jednotlivým políčkům. Mezi důležíté fildy napříklád patří Opportunity stage - u opportunity je často změnou stavu spuštěna automatická akce. Proto dokumentace těchto stavů není důležitá jen pro sales tým (vědí jak si ulehčit práci), ale také jako dokumentace pro ES tým, když dělá nějaké změny v nastavení. Nehledě na to, že Opportunit existuje v systému používáném Keriem hned několik druhů (určijí se Record Typem) a pro každý druh Opportunity jsou nadefinované trošku jiné Stage.
+[Obrázek opportunity stagi]
+Pro tabulky tedy bylo stanoveno jednoduché pravidlo, používat je v případě, kdy je potřeba vysvětlit nějako větší skupinu fildu, případně jeden field, ale mhono jeho možných stavů.
 
+**Pictures**
+Zde byly nadefinovány pravidla, pro dva, dalo by se říci typy obrázků, které se mohou vyskytovat v procesech.
+- **Screenshots** - snaha o jejich eliminaci již byla v této práci zmíněna. I v pravidlech je proto uvedeno, aby se používaly jenom v nezbytně nutných případech a pokud se použijí je potřeba použít obrázkovou komponentu SIO na konci deskripce a do deskripce umístit odkazy na příslušné obrázky.*
+(poznámka pod čarou: Toto bylo ještě do nedávna možné, ale vzhledem k tomu jak se produkt SIO vyvíjí, vkládat odkazy na obrázky už bohužel není možné. Této změně bylo přizpůsobeno i pravidlo pro sreenshoty)
+- **models** - u některých komplikovanějších procesů dává smysl umístit i model procesu. U modelu je spíše než pravidlo, uvedeno co by měl představovat a proč je užitečné ho využít.
 
+**Collumn**
+Nejdůležitější pravidlo. Pro procesy je teď nadefinováno používat pouze jeden sloupec (SIO umožnuje používat až 3 sloupce). Toto pravidlo je zvoleno s čistě bezpečnostního hlediska. Jak již bylo uvedeno v předchozím pravidle, SIO se neusátle mění. A nikde není řečeno že 3 sloupce budou existovat pořád. Toto řešení je zvoleno i pro případnou migraci do novější verze SIO - minimálně jeden sloupec tam bude vždycky.
+[obrázek Rules]
 
+##Tempalte##
+Největší pomocník při tvorbě procesů. Šablona je již uzpůsobena zvolenému layoutu - je zde jeden sloupec a nadefinované náležitosti (atributy) procesu.
+Procesní šablona má v základu tyto čtyři části (textové komponenty):
+[obrázek template?]
 
+- **Process Owner(s):**jsou zde uvedena jména těch, kdo jsou za proces zodpovědní. Většinou je zde jedno jméno, povětšinou Sales Directora a poté je zde uváděn ES team, jako zodpovědná osoba za údržbu procesu
+(*nyná je updtovat process ownera za ES team na SFDC Admina)
+- **Overview**: Krátské shrnutí k čemu proces slouží a proč je nutné ho provádět podle níže uvedených kroků. Do této sekce se také můžu uvádět další důležité informace jako například - kdy proces použít nelze atd.
+- **Prerequisites**: velmi důležitá sekce šablony. V této sekci jsou definovány vstupy do procesu, počáteční událost, která proces spustí. Případně je zde uveden další, automatický krok. Např. Partner vyplní formulář (počáteční údálost), v SFDC se vytvoří Case (automatický krok). Nebo jsou zde uváděny i podmínky, za jakých proces může začít, případně pokračovat pokud navazuje na nějaký jiný proces.
+- **Process steps**: takto sekce přímo navazuje na prerekvizity, zde jsou již nadefinovány přímo kroky, které musí vykonat pracovník Sales týmu. Pro definici rolí, které mají kroky vykonat je opět potřeba použít GG, kde jsou barvy pro role nadefinovány.
 
+Dále je možné zde připojit i sekci z Ostatními informacemi, které mohou být pro proces nějak důležité. Či naopak sekci s What If situation vysvětlením, kde jsou zachyceny případné možné odchylky od procesu a jak je řešit.
+[Příklad what if situation]
 
+Tím že byla vytvořena GG, Template a nadefinovány základní pravidla layoutu proceu byla vyřešena většina dříve nadefinovaných problémů. 
+
+Celkem bylo předěláno XY procesů. Jako jeden z nejdůležitějších a také nejkomplikvanějších se vyjevil býr proces partnerské registrace. Proto na tomto procesu ukažu  postup svojí práce.
 
 #Partner Portal Singup#
 
@@ -484,7 +509,16 @@ Na dalším příkladu je patrné, že se některé části procesu zbytečně o
 
 [Obrázek porovnání dvou vedle sebe obrázku Partne P singup..tam kde se opakuji, zvýraznit kde se liší]
 
- 
+##Globální vylepšení##
+Po tom, co byly procesy sjednoceny a hlavně aktualizovány, bylo možné víc pracovat na propojení deskripcí přímo ze SFDC.
+
+Do SFDC byly přidány linky přímo do SIO, na konkrétní proces, který Sales pracovník vykonával na daném objektu.
+Linky byly přidány na tyto objekty:
+- Casy
+- Vybrané druhy Tásků
+
+Jak později vyplyne z dotazníkového šetření, které bylo vedeno v Sales týmu, z výsledků jde usoudit, že si těchto linků moc nevšimli.
+
 
 
 
