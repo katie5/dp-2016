@@ -108,4 +108,4 @@ Opět díky vyvinutí tlačítka v SFDC, je nyní možné založit partnera v KI
 Toto založení není zcela automatické, do KISSU je stále potřeba se přihlásit a poslat partnerovi přihlašovací údaje do online strou a nastavit speciálni flagy.
 Propojení SFDC a KISS je nyní zajištěno Caší. Synchronizace mezi oběma systému probíhá každé dvě hodiny.
 
-Proces tedy nebyl jenom zkráce, ale byl i technicky vylepšen. Protože bylo zjištěno, že příliš mnoho manuální práce v průběhu procesu, způsobuje v procesu chyby 
+Proces tedy nebyl jenom zkráce, ale byl i technicky vylepšen. Protože bylo zjištěno, že příliš mnoho manuální práce v průběhu procesu, způsobuje v procesu chyby.. 
