@@ -60,3 +60,52 @@ Nejdříve bylo potřeba celý proces pochopit, jak probíhá, kdo v něm funguj
 Model byl prostý vývojový diagram, k jeho vytvoření stačil papír a tužka.
 
 **uspořádání na stránkách**
+.................................................................
+
+Výchozí situace už tedy byla nastíněná.
+V prní fázi jsem proces prošla a snažila se ho smysluplně rozdělit a zkrtátit.
+Bylo zachováno dělení na Existujicí a Nové partnery. V obou větvích procesu, pak byly vytknuty části, které se opakovaly. V tomto případě se jedná o invitaci partnera do Kerio Partner Portalu (KPP).
+
+Tato verze procesu nějakou dobu fungovala, za nějaký čas opět doško ke změnám (* Tento proces se v průběhu zpracování práce změnil hned několikrát.)
+
+Předposlední výrazná změna byla to, zahrnout do procesu SDR, ta kvalifikovala Lead, čili potencionálnho partnera.
+Dalším přídavkem do procesu, byl proces Partner onboardingu, který na tento proces přímo navazuje (na část s Direct Partnerem). Proces probíhá souběžně s dokončováním procesu partnerské registrace.
+
+PO těchto změnnách bylo možné proces rozdělit přímo do sekcí, podle toho kdo, kterou část procesu vykonává.
+
+SRR - Qualification
+PAM - Invitation to KPP, sending Annex A
+Ops - Partner set up in KISS
+SM - Parnter Onboarding
+
+Přitom dělení na Nové a stávající partnery bylo zachováno.
+
+Další důležitým atributem procesu je jeho měřitelnost. Nad tímto procesem je sestaven report, který reportuje množštví kontaktů přidaných do KPP.
+
+Poslední změna souvisí i s tímto. Vedením Sales týmu byl vznesen požadavek na lepší měřitelnost výstupu tohoto procesu - argument je na snadě: marketingové kampaně stojí velmi mnoho peněž, je potřeba začít lépe zjišťovat jejich dopad.
+S tím, že celý proces je ukončen v momentě, kdy partner poprvé objedná jakýkoliv kreio produkt.
+
+V souvislosti s požadavkem na měření, bylo potřeba rozdělit objekty, které vyplnění formuláře spustí celý proces.
+
+Pro nové partnery byl vytvořen nový speciálni formulář, ten po vyplnění vytvoří Lead, který je kvalifikovaný. Dále lead prověří SDR a pokračuje v procesu. To je také významná změna, v předchozí verzi SDR pouze okvalifikovala Case, ano změnil s i objekt, který je tvořen v SFDC, a pak ho poslala dám na PAM a ta proces dokončila.
+
+Teď, halvně díky technickým vylepšením v KISu, je SFD schopná provést celý proces kvalifikace a pozvání do KPP sama.
+Pokud se jedná o Nového Direct partnerá, SDR vytvoří opportunitu pro SM, který s partnerem dále pracuje (onboarding). Onboarding končí momentem první objednávky partnera.
+
+Fáze procesu se tedy změnili do tohoto stavu:
+SDR - kvalificace lídu, zkonverování do opportunity, po dokončení pozvánky do KPP a založení partnera v KISSU je opportunita zavřená se statusem Closed - Won. Pokud se jednalo o Direct partnera, SDR vytvoří Case pro SM - a ten pokračuje v onboardingu.
+
+Nyní je možné lepe reportovat úspěšnot nabírání nových partnerů. Hodnocení je založené na množství opportunit, které jsou úspěšné. Dá se na základě toho vyhodnocovat dopady různých kampaní. Díky Casům, které mají speciálni RT, je pak možné vyhodnocovat, kolik nových partnerů nakonec opravdu objedná zboží.
+
+Proces se tedy z původních 3(až 4) pracovníků dostal na dva(respektive 3). SDR zvládne udělat většinu úkonů sama - poslat Annex A, pozvat partnera do KPP i založit partnera v KISSU.
+
+Poslední dně možnosti jsou možné hlavně díky systémovým vylepšením. 
+Pozvávní do KPP bylo dříve možné jen přes aplikaci speciálně pro toto určenou - Admin Lite. Nyní je možné partnera pozvat pomocí tlačítka přímo ze SFDC, které bylo vyvinuto - Manage KPP Acces. Toto tlačítko partnera založí v KPP, přiradí ho do správných skupin na základě údajů na jeho Accountu v SFDC.
+
+Pro založení partnera v kissu a přidělení mu přihlašovacích údajů do online storu, bylo do nedávna potřeba jít do KISSU a manuálně ho založit.
+
+Opět díky vyvinutí tlačítka v SFDC, je nyní možné založit partnera v KISSU na jeden klik. Do KISSu jsou posláný základní údaje o partnerovi z Accountu ze SFDC - tím se chybám, ke ktrým mohlo dojít při manuálním založení.
+Toto založení není zcela automatické, do KISSU je stále potřeba se přihlásit a poslat partnerovi přihlašovací údaje do online strou a nastavit speciálni flagy.
+Propojení SFDC a KISS je nyní zajištěno Caší. Synchronizace mezi oběma systému probíhá každé dvě hodiny.
+
+Proces tedy nebyl jenom zkráce, ale byl i technicky vylepšen. Protože bylo zjištěno, že příliš mnoho manuální práce v průběhu procesu, způsobuje v procesu chyby 
