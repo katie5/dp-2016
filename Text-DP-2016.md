@@ -262,10 +262,10 @@ Obecné definice pojmu:
 Definice Ownera je jedmím z atributů, kterým je proces definován. Obecnými základnimi atributy, které definují proces pak podle Basla(2002) jsou:
 - **Hranice procesu** - mají svůj začátek a konec
 - **Vstupy a výstupy procesu** - **vstupy** jsou inicializační události zahajující proces. **Výstup** je chápan jako produkt procesu, který je doručený zákazníkovi. Výstup zároveň ukončuje činnost procesu. Je nutné zaručit homogenitu vstupů a výstupů procesů.
--**Majitel procesu** - člověk odpovědný za efektivitu procesu.
--**Zákazník procesu** - osoba, organizace nebo následný proces, který je příjemce vstupu z předchozího procesu.
-**Zdroje** - jsou to pracovní prostředky, lidská práce a informace. Zdroje se nespotřepobávají jednorázově , ale jsou užívány opakovaně (postupně).
-**Regulátory řízení** - systém pravidel a norem , zákonů, směrnic které jsou potřebné pro realizaci požadovaného výstupu
+- **Majitel procesu** - člověk odpovědný za efektivitu procesu.
+- **Zákazník procesu** - osoba, organizace nebo následný proces, který je příjemce vstupu z předchozího procesu.
+- **Zdroje** - jsou to pracovní prostředky, lidská práce a informace. Zdroje se nespotřepobávají jednorázově , ale jsou užívány opakovaně (postupně).
+- **Regulátory řízení** - systém pravidel a norem , zákonů, směrnic které jsou potřebné pro realizaci požadovaného výstupu
 
 ###Druhý problém###
 Dalším možným problémem a zároveň omezením je, že všechny procesní deskripce se nacházejí v produktu Samepage, který společnost Kerio využívá pro spolupráci.
@@ -281,7 +281,8 @@ U přepisu je také potřeba brát ohled na správné pojmenování procesu a t�
 Krajním možným řešením je najít jiný nástroj ve kterém by se procesní deskripce udržovaly, pokud SIO přestane vyhovovat.
  
 **Příklad**
- mnohé procesy byly rozprostřeny až do třech sloupců, byly sjednoceny do jednoho. Pravidla pro psaní byly upravenyv pravidlech.
+
+Mnohé procesy byly rozprostřeny až do třech sloupců, byly sjednoceny do jednoho. Pravidla pro psaní byly upraveny v pravidlech.
  [obrázek pravidel]
 
 ###Třetí problém###
@@ -289,9 +290,11 @@ V původních procesních popisech nebylo jasně definováno, kdo mám proces vy
 Na základě výše uvedených atributu procesu lze konstatovat, že v procesech chyběl definovaný zdroj.
 
 **Řešení**
+
 V procesech je potřeba tyto role, zdroje, definovat. V úvahu připadá definice rolí na základě barev. Tyto definice je potřeba pak globálně udržovat a dodržovat jejich používání. Toto použití je potřeba ukotvit v obecných pravidlech psaní procesů.
 
 **Příklad**
+
 Jednotlive role, či zdroje, jsou definovány barvami v Global Gudiance. Níže je vidět jak ukázka z Global Gudinace, tak porovnání starého a nového procesu.
 [obrázek starého Refund Policy, obrázek nového,]
 
@@ -299,12 +302,14 @@ Jednotlive role, či zdroje, jsou definovány barvami v Global Gudiance. Níže 
 Každý proces byl jiný, jinak napsaný, měl jiné náležitosti, podle toho, kdo ho vytvořil (napsal)
 
 **Řešení**
+
 Je potřeba vytvořit jasná pravidla podle kterých se bude proces tvořit a kde bude nadefinováno, jaké náležitosti proces musí mít.
 
 Výše uvedená řešení byla shrnuta v průběhu přepisu do souhrného dokumentu Global Gudiance, kde byly jednotlivá řešení problému nadefinována. Jsou zde nadefinované barvy pro role, kterých se proces týká, je zde nadefinován lay-out procesu a stejně tak náležitosti, které by měla procesní deskripce obsahovat.
 Podobě Global Gudiance bude věnována pozornost ještě později.
 
 **Příklad**
+
 Procesy mají jasně definované sekce, to je notně zpřehlednilo. 
 [obrázek porovnání starého z novým Increase of partner level]
 
@@ -312,6 +317,7 @@ Procesy mají jasně definované sekce, to je notně zpřehlednilo.
 Procesy jsou dlouhé, mnohdy nesrozumitelné, proto je většina členů Sales týmu nečte, i přesto, že zadávání informací do systému, či zpracování jednotlivých úkonů v určitém pořadí je pro správnost dat v systému klíčové.
 
 **Řešení**
+
 Řešením v tomto případě je revize všech procesů, kontrola jejich správnosti, vytřídění nepotřebných informací do separátní sekce procesu a zanechání pouze čisté procesní deskripce, která bude krátká, vystížná a bude obsahovat pouze kroky nutné k úspěšnému vykonání procesu od začátku do konce.
 Dalším pomocníkem je zvýraznění důležitých pasáží procesu, aby bylo možné proces číst dvěma způsoby:
 1. pokud se potřebuji s procesem seznámit, je nový, čtu proces celý
@@ -325,33 +331,35 @@ Dalším pomocníkem je zvýraznění důležitých pasáží procesu, aby bylo 
 Lze vidět že Sales procesy byly promíchány s procesy, které jsou čístě pro systém KISS, dále pak jsou promíchány i speciální procesy pro Samepage.
 
 **Řešení**
-Řešením v tomto případě je nepochybně setřídění procesů do smysluplných celků. Dále je potřeba vytřídit procesy, které už se nepoužívají a ty pak přesunout do složky archivu, kterou je potřeba také vytvořit. U setřídění je potřeba také překontrolovat práva, která jsou udělena na jednotlivé stránky, aby bylo zajištěno, že ti pracovníci, kterým jsou procesy určtěny se na ně dostanou. U Archivu pak bude přístup zamezen, aby nedocházelo k případnému zmatení.
 
-Dále je potřeba vzít v úvahu i rozdělení společností a to také to že společnost Samepage bude mít svuj vlastní CRM systém.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   Proto budou zvlášt vytříděny procesy pro zpracování zákazníků SIO - s těmi to se dále pracovat nebude, protože momentálně není možné rozhodnout, které z nich jsou dále pro Kerio Sales tým relevantní, a které ne.(* Tato problematika byla projednána ze Sales Directorem, který toto měl na starosti, tyto procesy pro společnost Kerio momentálně nejsou prioritní)
+Řešením v tomto případě je nepochybně setřídění procesů do smysluplných celků. Dále je potřeba vytřídit procesy, které už se nepoužívají a ty pak přesunout do složky archivu, kterou je potřeba také vytvořit. U setřídění je potřeba také překontrolovat práva, která jsou udělena na jednotlivé stránky, aby bylo zajištěno, že ti pracovníci, kterým jsou procesy určeny se na ně dostanou. U Archivu pak bude přístup zamezen, aby nedocházelo k případnému zmatení.
 
-Třetí sloužkou, která bude vyčleněna, bude složka obsahující procesy, které jsou vykonávány pouze v systému KISS. Tyto procesy jsou prováděny povětšinou rolí Sales Ops, proto je lepší je ze Sales procesů vyčlenit.
+Dále je potřeba vzít v úvahu i rozdělení společností a to také to že společnost Samepage bude mít svůj vlastní CRM systém.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   Proto budou zvlášť vytříděny procesy pro zpracování zákazníků SIO - s těmi to se dále pracovat nebude, protože momentálně není možné rozhodnout, které z nich jsou dále pro Kerio Sales tým relevantní, a které ne.(* Tato problematika byla projednána ze Sales Directorem, který toto měl na starosti, tyto procesy pro společnost Kerio momentálně nejsou prioritní)
+
+Třetí složkou, která bude vyčleněna, bude složka obsahující procesy, které jsou vykonávány pouze v systému KISS. Tyto procesy jsou prováděny povětšinou rolí Sales Ops, proto je lepší je ze Sales procesů vyčlenit.
 
 V Sales procesech tedy zůstanou procesy relevantní pro členy Sales týmu.
 [Obrázek původního třídění procesů, nová struktura]
 
 Sales procesy jsou dále členěny takto:
-- Account management- tato složka obsahuje procesy vztahující se přímo k Accountu- tedy k zákazníkovi, respektive k partnerovi
-- Cases - obsahuje procesy, které se vztahuji k objektu Case 
-- Lead management - obsahuje procesy, které zpracovávají Leady
-- Opportunity management - zahrnuje procesy, kde na začátku stojí oportunita. Dále také opsahuje procesy, které zahrnují další možné akce na objektu Opportunita
-- Partner management - zde jsou obsaženy procesy, které se týkají partnerů - zvyšování jejich partner levelu, registrace do partnerského portálu.
-- Salesforce general actions - obecné procesy, které se vztahují k systému SFDC, například jak logovat aktivity, jak Mergovat duplikáty atd.
-- Samepage Ordering - jediný z procesů SIO, který zůstal zařezen, vzikl po oddělení společností a je pro Kerio relevantní.
-- Operational Processes - Obecné operativní procesy
+- **Account management**- tato složka obsahuje procesy vztahující se přímo k Accountu- tedy k zákazníkovi, respektive k partnerovi
+-**Cases** - obsahuje procesy, které se vztahuji k objektu Case 
+- **Lead** management - obsahuje procesy, které zpracovávají Leady
+- **Opportunity management** - zahrnuje procesy, kde na začátku stojí oportunita. Dále také opsahuje procesy, které zahrnují další možné akce na objektu Opportunita
+- **Partner management** - zde jsou obsaženy procesy, které se týkají partnerů - zvyšování jejich partner levelu, registrace do partnerského portálu.
+- **Salesforce general actions** - obecné procesy, které se vztahují k systému SFDC, například jak logovat aktivity, jak Mergovat duplikáty atd.
+- **Samepage Ordering** - jediný z procesů SIO, který zůstal zařezen, vzikl po oddělení společností a je pro Kerio relevantní.
+- **Operational Processes** - Obecné operativní procesy
 
-Nové složky v roce 2016
-- Data synchronization from SFDC to KISS - vysvětlují jak funguje tato synchronizace a v jakých případech je potřeba do ní zasáhnout manuálně
-- Kerio Cloud processes - celá skupina nových procesů, které již sou tvořeny v souladu s GG
+Nové složky v roce 2016:
+- **Data synchronization from SFDC to KISS** - vysvětlují jak funguje tato synchronizace a v jakých případech je potřeba do ní zasáhnout manuálně
+-**Kerio Cloud processes**- celá skupina nových procesů, které již sou tvořeny v souladu s GG
 
 ###Sedmý problém###
 Přehlednost procesu, tím že se často opakují, často se může stát, že pracovník nemůže rychle najít, jak pokračovat. Rozhodující informace se v tu chvíli ztratí v přehršli textu.
 
 **Řešení**
+
 Odstranění duplicit. Případné opakování vytknout do podprocesu a na ten pak v průběhu hlavního procesu odkazovat. Tím se zlepší i udržovatelnost procesu samotného - případné změny se provedou pouze na jednom místě, nebude třeba procházet množství procesů a provádět úpravy jednotlivě.
 Celkové zjednodušení procesu je již zahrnuto v řešení problému číslo pět. Všechny problémy a řešení jsou mezi sebou svým způsobem propojeny.
 
@@ -362,6 +370,7 @@ Celkové zjednodušení procesu je již zahrnuto v řešení problému číslo p
 Tím, že se procesy hodně opakují a nepoužívají se odkazy. Dochází k tomu, že jejich údržba a udržení aktuálnosti je velmi obtížná. Pokud změním krok na jednom místě, měla by se tato změna promítnout i do ostatních procesů. Dále je zde potřeba udržovat značné množství printsceeru.
 
 **Řešení**
+
 Opět na sebe řešení jednotlivých problému navazují, kokrténě řešení problému číslo 7 - vytknutí opakujících se části procesu. 
 Printcreene je potřeba omezit a v průběhu přepisu se maximálního množství stávajích, neaktuálních zbavit. Je potřeba vytvořit tak jednoduchou deskripci, která bude srozumitelná a zvládnutelná i bez použití obrazové dokumentace.
 
@@ -372,6 +381,7 @@ Printcreene je potřeba omezit a v průběhu přepisu se maximálního množstv�
 Jasná definice vstupu, která odstartuje celý proces. Respektive, tyto události byly v procesu zahrnuty, ovšem nebyly patrné na první pohled.
 
 **Řešení**
+
 Vyčlenění této události (která je stupem tohoto procesu a výstupem procesu předcházejícího),případných automatických kroků, nebo podmínek, které musí být splěny, než bude možné aby Sales pracovník pracoval s procesem, do separátní sekce na začátku procesu.
 
 **Příklad**
@@ -388,12 +398,15 @@ GG je souhrný dokument, který má sloužit jako průvodce při psaní procesu,
 GG je rozdělená do následujících sekcí:
 
 **Overview**
+
 Tato sekce obecně obsahuj informaci o tom, co za informace lze na stránce najít, případně odkazy na další přidružené stránky s důležitými informacemi.
 V tomto případě se v této sekci nachází odkaz na šablonu- Template, pro psaní procesů, které se budeme věnovat později.
 [obrázek?]
 
 **Definiton of colors used**
+
 Tato sekce obsahuje definice jednotlivých barev, které se v procesech vyskytují.
+
 Barvy v procesech jsou použity na dvou místech:
 1. **V nadpisech** - barva nadpisu slouží pro rozlišení rolí, zdrujů, které mají proces vykonat
 2. **V textu**- základní barvou textu je černá, kdy se pro zváraznění a přehlednost textu používá vytučnění slov.  
@@ -401,11 +414,13 @@ Barvy v procesech jsou použity na dvou místech:
 [obrázek barviček]
 
 ad 1. **Title colors**
+
 V této části je nadefinováno použití celkem pro 8 barev. Z toho 4 definují sales roli, která má vykonat dané procesní kroky. U každé definice je také použit odkaz na příslušný proces, kde je barva použita. Tyto barvy jsou v nadpisech nejpoužívanější.
 Černá barva je volena jako neutrální a je používána u overview. Zbylé tři barvy nejsou používány tak často a jsou určeny spíše pro speciální případy.
 Vysvětlení z partnerovy strany, která požívá šedivý nadpis je pak v procesech použita minimálně.
 
 ad. 2 **Colors in text**
+
 I zde jsou ke každé definici barev přidané příklady použití těchto barev. Základní barvou je černá, jak už bylo zmíněno. Další bavou, která je v textu použitá ke zvýraznění důležitých kroků je červená.
 Změny v procesu, rozhodnutí o tom, kterou větví procesu se vydat dál jsou v procesu zvýrazněny fialovou.
 Další barvy jsou pak použity pro odkazy ať už na obrázky, nebo mezi stránkami.
@@ -416,6 +431,7 @@ Jako první je uvedena legenda, vysvětlující opět barvy a pak také styl pro
 [obrázek legendy]
 
 **Process page map**
+
 Na této mapě je rozkreslena struktura stránek. Na hlavní stránku byla kromě tří sekcí s procesy přidána stránka s GG a také šablona.
 Dlašími důležitými složkami jsou Drafty a Archive.
 Drafty slouží pro tvrobu procesu - proces vzniká v této složce, kde jsou nastaveny speciální práva, jetnotliví členové Sales týmu zde namají přístup, pokud je nepozve page owner. To je povětšinou buď někdo z vedení Sales týmu (VP nebo Directror), či příslušný zástupce IS týmu. Poté co je proces odladěn a prodiskutovány jeho případné nedostatky je vypublikován Sales týmu do složky procesů.
@@ -423,10 +439,13 @@ Další důležitou složkou je Archive, zde jsou také speciálně nastavena pr
 Tato složka byla vytvořena v průběhu přepisu procesu.
 Na další úrovni stránek jsou pak detajněji znázorněny jednotlivé složky Sales procesů, které byly charakterizovany jíž dříve.
 Na mapě je pak vidět i jaké procesy se nachází uvnitř složky. Tato mapa by měla sloužit pro lepší orientaci na SIO.
-**Nedostatek** Kdyby bylo možné do obrázku vložit přímo odkazy na jednotlivé procesy, mohla by mapa sloužit jako rozcestník. To je ovšem jeden z dalších nedostatků SIO.
+
+**Nedostatek**
+Kdyby bylo možné do obrázku vložit přímo odkazy na jednotlivé procesy, mohla by mapa sloužit jako rozcestník. To je ovšem jeden z dalších nedostatků SIO.
 [obrázek procesní mapy]
 
 **Process connection map**
+
 Tahle mapa v sobě zahrnuje hned dvě spojení - první, v této mapě méně důležité je převzato z předchozí mapy a znázornuně propojesnot podstránek. Mnohem důležitější ovšem na této mapě je znázornění propojenosti procesu pomocí linků.
 Je tady i skupinka procesů, které nejsou napojeny vůbec. Tyto procesy nejsou používány na denní bázi, spíše občasně.
 
@@ -443,21 +462,25 @@ Jak již název kapitoly napovídá, u šablony jsou také nadefinována pravidl
 
 ##Rules##
 **Text**
+
 první pravidlo se týká textu, je zde uveden link na GG která blíže specifikuje text a barvy použité v textu.
 
 **Tables**
+
 Nejdříve malé vysvětlení:
 Jedna z dalších komponent SIO, kterou jsem využívala hlavně k nadefinování stavů, jednotlivých objektů. Důležité pak zejména bylo tyto stavy shluknout na jedno místo. Stavy jsou povětšinou vyplněny ve fildu (políčko). Zjednodušeně by se tedy dalo říct, že v tabulkách jsou zachyceny vysvětlivky k jednotlivým políčkům. Mezi důležíté fildy napříklád patří Opportunity stage - u opportunity je často změnou stavu spuštěna automatická akce. Proto dokumentace těchto stavů není důležitá jen pro sales tým (vědí jak si ulehčit práci), ale také jako dokumentace pro ES tým, když dělá nějaké změny v nastavení. Nehledě na to, že Opportunit existuje v systému používáném Keriem hned několik druhů (určijí se Record Typem) a pro každý druh Opportunity jsou nadefinované trošku jiné Stage.
 [Obrázek opportunity stagi]
 Pro tabulky tedy bylo stanoveno jednoduché pravidlo, používat je v případě, kdy je potřeba vysvětlit nějako větší skupinu fildu, případně jeden field, ale mhono jeho možných stavů.
 
 **Pictures**
+
 Zde byly nadefinovány pravidla, pro dva, dalo by se říci typy obrázků, které se mohou vyskytovat v procesech.
 - **Screenshots** - snaha o jejich eliminaci již byla v této práci zmíněna. I v pravidlech je proto uvedeno, aby se používaly jenom v nezbytně nutných případech a pokud se použijí je potřeba použít obrázkovou komponentu SIO na konci deskripce a do deskripce umístit odkazy na příslušné obrázky.*
 (poznámka pod čarou: Toto bylo ještě do nedávna možné, ale vzhledem k tomu jak se produkt SIO vyvíjí, vkládat odkazy na obrázky už bohužel není možné. Této změně bylo přizpůsobeno i pravidlo pro sreenshoty)
 - **models** - u některých komplikovanějších procesů dává smysl umístit i model procesu. U modelu je spíše než pravidlo, uvedeno co by měl představovat a proč je užitečné ho využít.
 
 **Collumn**
+
 Nejdůležitější pravidlo. Pro procesy je teď nadefinováno používat pouze jeden sloupec (SIO umožnuje používat až 3 sloupce). Toto pravidlo je zvoleno s čistě bezpečnostního hlediska. Jak již bylo uvedeno v předchozím pravidle, SIO se neusátle mění. A nikde není řečeno že 3 sloupce budou existovat pořád. Toto řešení je zvoleno i pro případnou migraci do novější verze SIO - minimálně jeden sloupec tam bude vždycky.
 [obrázek Rules]
 
@@ -479,7 +502,7 @@ Tím že byla vytvořena GG, Template a nadefinovány základní pravidla layout
 
 Celkem bylo předěláno XY procesů. Jako jeden z nejdůležitějších a také nejkomplikvanějších se vyjevil býr proces partnerské registrace. Proto na tomto procesu ukažu  postup svojí práce.
 
-#Partner Portal Singup#
+#Partner Portal Singnup#
 
 Tento proces má vést k úspěšnému založení nového partnera v SFDC, potažmo v KISSU a dále jsou partnerovi poskytnuty přístupy do partnerského portálu či online storu.
 
@@ -548,6 +571,7 @@ Otázek bylo celkem 19, zodpovězení otázek v průměru zabralo 12 minut. U v�
 Tato otázka mířila na samou podstatu existence procesních deskripcí. Na základě odpovědí na tuto otázku zle posoudit, zda zde jsou tendence procesní deskripce používat, nebo spíše ne. 
 
 **Výsledky:**
+
 74% respondentů zvolilo první možnost, čili zeptat se svého kolegy. Pohých 13% se pokusí najít řešení svého problému v interním systému SIO. A vyskytlo se i pár případů, kteří jsou buď kreativní, nebo zkoušení jiné možnosti. Jeden z respondentů, zde také podotkl, že hledání věcí na SIO není vůbec jednoduché. 
 
 Tato otázka byla zvolena jako předvoj pro otázku, jestli procesy čtou či ne. Pokud ano, pak je v pořádku že požádají o pomoc kolegu, pokud ovšem ani jejich kolega nečte procesy a neví jak úkon správně vykonat. Ptát se kolegy není nejlepším řešením.
@@ -563,6 +587,7 @@ Další otázka, na tuto problematiku hledáni na SIO, konkrétně procesy navaz
 Tato otázka byla položena za předpokladu, že odpovědi na otázku číslo jedna budou jiné než to, že se snaží najít odpovědi na SIO. Z výsledků odpovědí na první otázku je patrné, že tento předpoklad byl správný.
 
 **Výsledky:**
+
 Z výsledků odpovědí na první otázku je patrné, že tento předpoklad byl správný. Nicméně výsledky této otázky, výsledkům odpovědí na první otázku trošku odporují.
 U 2. otázky totiž 83% respondentů odpovědělo, že se někdy pokusili najít řešení svého problému na SIO. Zbylých 17% se o to nikdy nepokusilo.
  
@@ -575,6 +600,7 @@ U 2. otázky totiž 83% respondentů odpovědělo, že se někdy pokusili najít
 Tato otázka už více míří k jádru pudla. Všechny procesy, jsou umístěny na jedné stránce na SIO, Process page. Všichni ze Sales týmu by tuto stránku měli sledovat a to z toho důvodu, že pokud se v procesu něco změní, SIO odešle notifikaci o změně všem, kteří tuto stránku sledují. 
 
 **Výsledky:**
+
 83% respondentů ano, 17% ne. Tento výsledek lze považovat za uspokojivý. Další otázkou byli vyzvání, aby svou odpověď zdůvodnili
 
 **4. otázka: Explain why you do/don't follow the main process page?**
@@ -582,6 +608,7 @@ Tato otázka už více míří k jádru pudla. Všechny procesy, jsou umístěny
 Tato otázka byla jako jedna z mála položena jako otevřená. Účelem bylo zjistit, co je důvodem sledování, či nesledování hlavní procesní stránky.
 
 **Výsledky:**
+
 Důvody proč sledují tuto stránku:
 - povědomí o změnách v procesech, zveřejnění nových procesů
 - protože je na to upozornil jejich šéf, nebo já
@@ -616,6 +643,7 @@ Další otázky už více směřují ke konkrétním věcem, které by měli čl
 Tato otázka již šla více po podstatě věci. V předchozí kapitole této práce byla představená Global Gudiance (GG), která obecně upravuje pravidla psaní pro procesy. GG byla představena i Sales týmu, tato otázka míří na to, zda se s ní nějakým způsobem seznámili, či ne.
 
 **Výsledky:**
+
 U této otázky je možná jenom jedna správná odpověď a to ta první, aby se oddělily role, které mají vykonat příslušné kroky procesu. Správnou odpověď zvolilo 61% respondentů. 22% respondentů si myslelo, že účelem je oddělit systému, ve kterých se proces odehrává. Tato odpoveď byla zařazena schválně, jako mírně zavádějicí, aby bylo případně možné rozpoznat, zda Sales ví, nebo typují. Dalších 13% respondentů si myslelo, že barevné nadpisy jsou můj rozmar.
 Může být konstatováno, že Sales na tuto otázku odpověděli správně, což je uspokojivé.
 
@@ -628,6 +656,7 @@ Může být konstatováno, že Sales na tuto otázku odpověděli správně, co�
 Pokud předchozí otázka jenom směřovala na GG, tato už se otevřeně ptá na její existenci.
 
 **Výsledky:**
+
 U této otázky jsou výsledky, v souvislosti s předchozí otázkou, již méně uspokojivé.
 78% respondentů odpovědělo, že o Global Guidance nikdy neslyšeli. Potom je s podivem, že nadpoloviční většina odpověděla na předchozí otázku správně.
 
@@ -643,6 +672,7 @@ Tato otázka se opět přímo ptá, za procesy čtou či nečtou. Oklikou se dos
 či spíše "hádané".
 
 **Výsledky:**
+
 43% respondentů odpovědělo, že procesy čtou v momentě, kdy se zaseknou. To je poněkud v rosporu s otázkou číslo jedna, kdy většina respondentů odpověděla, že se zeptá kolegy a nehledá přímo odpověď na SIO.
 Druhou nejfrekventovanější odpovědí pak bylo, že procesy nečtou vůbec - 26%.
 Což pro mně není uspokojivý výsledek, spolu s poznatky z odpovědí respondentů na otázku číslo 4, lze identifikovat další  náměty ke zlepšování.
@@ -660,6 +690,7 @@ Další 22% odpovědělo, že procesy čtou když dostanou notifikaci. Což poku
 Zde opět vzniká vazba na otázku, která již byla položena. Pokud sledují procesní stránku, dostanou notifikaci. Pokud nesledují, odkud tedy dostávají notifikaci o změnách v procesu.
 
 **Výsledky:**
+
 65% respondentů odpovědělo, že nejčastěji dostávají notifikace ze SIO. Vzhledem k tomu že už v předchozí otázce, vyšlo že 83% dotázaných sleduje procesní stránku, je to možné.
 Další cestou je nejčastěji upozornění od kolegy či nadřízeného (35% a 30%).
 
@@ -675,6 +706,7 @@ Další cestou je nejčastěji upozornění od kolegy či nadřízeného (35% a 
 V souvislosti s předchozí otázkou, byly vzneseny návrhy, jak případně zlepšit komunikaci o změnách v procesech, které většinou provádí IS tým směrem k Sales týmu. Vyhodnocení této otázky bude klíčové pro IS tým a zlepšení komunikace.
 
 **Výsledky:**
+
 z odpovědí vyplává, že většina,52%, respondentů je spokojená s pouhými notifikacemi ze SIO. dalších 44% by uvítali offline webináře či přímo online webinář. 
 
 Tyto návrhy jsou brány v potaz a bude se s nimi dále pracovat. První budou na řadě nejspíš offline webináře, na základě jejich přijetí se bude uvažovat o online webinářích. 
@@ -696,6 +728,7 @@ U této otázky měli možnost respondenti vybrat více, než jednu odpověď. Z
 Pro odlehčení a ozvláštnění celého dotazníku byly vsunuty vtipné odpovědi, či odkazy na člověka odpovědného za procesy - čili mně. Tyto vtipné vsuvky byly účelné, bylo potřeba Sales zaujmout natolik, aby došli v průběhu dotazování až do konce.
 
 **Výsledky:**
+
 Dvě nejčastější odpovědi jsou v tomto případě paradoxně ty, které byly záměrně zařazeny a tyto úpravy již byly provedeny.
 65% respondetů chce procesy zkrátit - první věc, na kterou jsem se v průběhu přepisu procesů zaměřila. [ze střední části je patrné, že to zrácení je velmi patrné]
 48% respondetů by chtělo mít link na proces přímo na objektu v SFDC - toto opatření bylo také uvedeno do praxe, hned po tom, co byl dokončen přepis všech procesů. Sales týmu přišla notifikace ze SIO i oznámení o této změně.
@@ -713,6 +746,7 @@ Byla sem zvědavá, jestli Sales tým ví, o koho jde. Nebylo to poprvé, kdy by
 
 
 **Výsledky:**
+
 Na "vtipnou" otázku, občas i vtipná odpověď. Povětšinou členové Sales týmu odpovídali, že jsem členkou IS týmu, občas si to popletli s ES týmem - coš je pochopitelné, nevidí v tom moc rodzíl. Někteří napsali i to, že sem odpovědná za procesy.
 Takže v celku uspokojivé odpovědi.
 
@@ -729,6 +763,7 @@ Takže v celku uspokojivé odpovědi.
 Opět otázka, která má vázbu na jednu z předchozích otázek. V otázce č. 10 byly poskytnuty možnosti na zlepšení. Z této otázky je jasné, že některé z návrhu na zlepšení již byly zavedeny do praxe, byly komunikovány na Sales tým. Touto otázkou jsme se snažili přijít na to, zda komunikace byla efektivní a také, zda si tohoto vylepšení členové Sales týmu vůbec všimli.
 
 **Výsledky:**
+
 U této otázky byly možné pouze dvě správné odpovědi. Linky na procesy je možné najít na objektech typu Case a některých objektech typu Task.
 U této otázky je z odpovědí zřejmé, že členové sales týmu spíše tipovali, než že by věděli na kterých objektech linky jsou. Jenom 35% respondentů si myslelo, že jsou na Casu. Dalších 30% respondetů si myslelo, že linky na procesech se nenacházejí na žádném z objektu v SFDC. To nás opět navádí na zlepšení komunikace těchto vylepšení na Sales tým ze strany IS týmu. 26% respondetů si myslelo, že lze linky na procesy na jít na Opportunitách, tam zatím pohužel nejsou. Ale je to další námět pro zlepšení. 26% zodpovědělo, že linky na procesy jsou jen na některých Tascích. Zbytek respondentů si myslel že linky na procesy jsou na Accountech či na všech typech Tásků.
 
@@ -754,6 +789,7 @@ Jednotlivá tvrzení se pak zaměřovaly zejména na srozumitelnost a přehledno
 1. I have time to read new / updated processes
 
 **Výsledky:**
+
 U prvního tvrzení bylo průměrné hodnocení na hodnotě 3,04. Toto hodnocení je neutrální a jde považovat za uspokojivé.
 U druhého tvrzení bylo průměrné hodnocení na hodnotě 2,65, s tím že 39% respondentů považují procesy za snadno čitelné. Toto hodnocení je nad očekávání a více než uspokojivé.
 Třetí tvrzení bylo průměrně hodnoceno známkou 2,73. Srozumitelnost procesů byla ohodnocena jako uspokojivá, více než 45% respondentů s tímto trvzením souhlasila.
@@ -774,6 +810,7 @@ Poslední tvrzení bylo zaměřene na časovou náročnost, v průměru bylo hod
 Tato otázka vyloženě míří na to, jak postupují při své práci. ES team má na starosti podporu Sales týmu. Tudíž když nastane nějaké kritický problém, měli by ho reportovat. Bohužel jsme v několika případech viděli i to, že některou novou funkcionalitu systému přestali používat na základě toho, že jim nefungovala. A nefungovala jim proto, že nepostupovali podle procesu. 
 
 **Výsledky:**
+
 52% respondentů odpovědělo, že problémy reportují ES týmu, 43% se snaží najít odpověď na problém na SIO, pouze 4% respondetů by vzdali používání nového vylepšení z důvodu, že nefunguje.
 
 
@@ -783,7 +820,8 @@ Tato otázka vyloženě míří na to, jak postupují při své práci. ES team 
 
 Tyto dvě otázky byly položeny ze ze dovou důvodů: zaprvé sem dostala zpětnou vazbu o tom, která deskripce vyhovuje týmu víc, která méně, za druhé - na Samepage se nachází spousta stránek, a spousta procesů. v průběhu zpracování diplomové práce, byly objeveny i "neoficíální" procesní stránky, kde se procesy zbytečně duplikovaly. Když to tedy shrneme, bylo důležité získat jak zpětnou vazbu, tak případně objevit další stránky na kterých se vyskytují duplicitní procesy a odstranit je, respektive nahradit linkem na oficiální stránku.
 
-Výsledky:
+**Výsledky:**
+
 Linky pro dobře popsaný proces povětšinou vedly na procesy, které byly zveřejněny nedávno. Většinou se jednalo o nové procesní deskripce.
 V příkladech špatných procesů ze vyskytovaly hlavně procesy, které byly z přepisu vyloučeny a to z důvodu rozdělení firmy.
 Co je ovšem pozitivní, žádný z linků nesměřoval mimo "oficiální stránku" s procesy.
@@ -793,6 +831,7 @@ Co je ovšem pozitivní, žádný z linků nesměřoval mimo "oficiální strán
 Ve své podstatě poslední otázka, kde bylo respondentům umožněno vznést nějaký vlastní návrh na zlepšení procesních deskripcí.,
 
 **Výsledky:**
+
 Nejčastěji se vyskytoval návrh na webináře či rychlé How to video, které by bylo součástí procesu. Tyto návrhy jsou brány v potaz a pro nové procesy, které budou vznikat sme připraveni toto řešení Sales týmu nabídnout.
 Dalším zajímavým návhrhem, či postřehem bylo, přijít s konzistentním pojmenováním, či slovníkem. O to jsem se v průběhu celého přepisu procesu snažila.
 Dalším návhrhem bylo umístění screenshotu. Tato cesta byla zavrhnuta již na začátku přepisu a mým cílem bylo odstranit co nejvíce screenshotu, ideálně všechny. Vzhledem k tomu, že se systém neustále mění svým nastavením a layoutem, screenshoty zastarávají a jejich údržba není jednoduchá. Toto rozhodnutí bylo komunikováno na vedení Sales týmu a po diskusi argumentaci bylo toto rozhodnutí akceptováno.
