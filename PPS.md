@@ -51,4 +51,12 @@ Pro lepší průběh celého procesu, bylo potřeba ho namodelovat.
 
 Další změny:
 k procesu byl přidán další souběžný proces, který je zaměený na onboarding partnera.
-Tím se trochu změnila povaha procesu pro Directy a Indirecty. 
+Tím se trochu změnila povaha procesu pro Directy a Indirecty. Proces mohl být rozdělen do sekcí podle toho, která role mám daný kus procesy vykonat.
+
+Procesní deskripce mezi sebou byly různě prolinkované..
+
+Nejdříve bylo potřeba celý proces pochopit, jak probíhá, kdo v něm funguje atd. To zahrnovalo přečíst deskripce, udělat si poznámky a na základě poznámek vytvořit zběžný model, ze ktého bylo víc patrné, jak proces probíhá a kde je možné ho měnit.
+
+Model byl prostý vývojový diagram, k jeho vytvoření stačil papír a tužka.
+
+**uspořádání na stránkách**
