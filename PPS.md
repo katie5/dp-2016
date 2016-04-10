@@ -82,27 +82,36 @@ Bylo zachováno dělení na Existujicí a Nové partnery. V obou větvích proce
 
 Tato verze procesu nějakou dobu fungovala, za nějaký čas opět doško ke změnám (* Tento proces se v průběhu zpracování práce změnil hned několikrát.)
 
-Výrazné
-Předposlední výrazná změna byla to, zahrnout do procesu SDR, ta kvalifikovala Lead, čili potencionálnho partnera.
-Dalším přídavkem do procesu, byl proces Partner onboardingu, který na tento proces přímo navazuje (na část s Direct Partnerem). Proces probíhá souběžně s dokončováním procesu partnerské registrace.
+Dalšími změnami, které ovlivnily proces byly tyto:
+- zapojení SDR (nyní ISM) - ta má na starosti kvalifikaci Lead, čili potencionálnho partnera.
+-návazný proces Partner Onboardingu, který je určený pouze pro Direct Partnery. Proces probíhá souběžně s dokončováním procesu partnerské registrace.
 
-PO těchto změnnách bylo možné proces rozdělit přímo do sekcí, podle toho kdo, kterou část procesu vykonává.
+Po těchto změnách bylo možné proces rozdělit přímo do sekcí, podle toho kdo, kterou část procesu vykonává.
 
-SRR - Qualification
-PAM - Invitation to KPP, sending Annex A
-Ops - Partner set up in KISS
-SM - Parnter Onboarding
+- SRR - Qualification
+- PAM - Invitation to KPP, sending Annex A
+- Ops - Partner set up in KISS
+- SM - Parnter Onboarding
 
 Přitom dělení na Nové a stávající partnery bylo zachováno.
 
-Další důležitým atributem procesu je jeho měřitelnost. Nad tímto procesem je sestaven report, který reportuje množství kontaktů přidaných do KPP.
+Je důležité zminit, že doposud se proces spoštěl vyplněním formuláře, který byl stejný jak pro Nové tak Existující partnery. K jejjich oddělení docházelo až v průběhu kvalifikace. (viz. model)
 
-Poslední změna souvisí i s tímto. Vedením Sales týmu byl vznesen požadavek na lepší měřitelnost výstupu tohoto procesu - argument je na snadě: marketingové kampaně stojí velmi mnoho peněž, je potřeba začít lépe zjišťovat jejich dopad.
-S tím, že celý proces je ukončen v momentě, kdy partner poprvé objedná jakýkoliv kreio produkt.
+Zmíniť je to důležité v souvislosti z další změnou. Ta se týká měření výkonosti tohoto procesu.
 
-V souvislosti s požadavkem na měření, bylo potřeba rozdělit objekty, které vyplnění formuláře spustí celý proces. Tím došlo i k odlenění Existujících partnerů od Novým potencionálních partnerů. V původním procesu, šli oba jednou cestou a odlělovali se až v průběhu, nyní jsou odděleni už na začátku - každý má svůj separátní formulář, který po vyplnění vytvoří v SFDC jiný objekt - pro nové se tvoři Lead, pro existující se tvoří Case
+Možnost měřitelnosti je důležitým atributem každého procesu Účinnost každého procesu je možno ověřit pomoci reportu sestaveného v SFDC. I nad tímto procesem je sestaven report, který reportuje množství kontaktů přidaných do KPP. Ovšem to přestalo stačit. To že je partner úspěšně přidán a zaregistrován, neznamená, že společnosti začal vydělávat peníze.
 
-Pro nové partnery byl vytvořen nový speciálni formulář, ten po vyplnění vytvoří Lead, který je kvalifikovaný. Dále lead prověří SDR a pokračuje v procesu. To je také významná změna, v předchozí verzi SDR pouze okvalifikovala Case, ano změnil s i objekt, který je tvořen v SFDC, a pak ho poslala dám na PAM a ta proces dokončila.
+Poslední významná změna v procesu tedy souvísí s vylepšením měřitelnosti tohoto procesu.   
+Vedením Sales týmu byl vznesen požadavek na lepší měřitelnost výstupu, argument je na snadě: marketingové kampaně stojí velmi mnoho peněž, je potřeba začít lépe zjišťovat jejich dopad.
+Marketingové kampaně jsou primárně spravovány přes Marketo, ovšem to je synchronizované ze SFDC, pokud se tedy pro nové partnery bude použivat správny objekt v SFDC, bude možné určit, z jaké kampaně partner přišel.
+
+Bylo tedy potřeba změnit objekty, které se v SFDC tvoří.
+V původním procesu to byl Case pro Nového i Existujícího partnera.
+V inovovaném procesu byl vytvořen separátní formulář pro nové partnery a separátní formulář pro partnery ecistující.
+
+Tím došlo i k odlenění Existujících partnerů od Novým potencionálních partnerů přímo v systému. Po vyplnění formuláře se vytvoří v SFDC pro každého partnera jiný objekt - pro nové se tvoři Lead, pro existující se tvoří Case.
+
+[obrázek hig level průběhu Existing New]
 
 Teď, hlavně díky technickým vylepšením v KISSu a SFDC, je SDR schopná provést celý proces kvalifikace a pozvání do KPP sama.
 Pokud se jedná o Nového Direct partnerá, SDR vytvoří opportunitu pro SM, který s partnerem dále pracuje (onboarding). Onboarding končí momentem první objednávky partnera.
@@ -110,12 +119,15 @@ Pokud se jedná o Nového Direct partnerá, SDR vytvoří opportunitu pro SM, kt
 Fáze procesu se tedy změnili do tohoto stavu:
 SDR - kvalificace lídu, zkonverování do opportunity, po dokončení pozvánky do KPP a založení partnera v KISSU je opportunita zavřená se statusem Closed - Won. Pokud se jednalo o Direct partnera, SDR vytvoří Case pro SM - a ten pokračuje v onboardingu.
 
+[Hig level průběh nového partnera]
+
 Nyní je možné lepe reportovat úspěšnot nabírání nových partnerů. Hodnocení je založené na množství opportunit, které jsou úspěšné. Dá se na základě toho vyhodnocovat dopady různých kampaní. Díky Casům, které mají speciálni RT, je pak možné vyhodnocovat, kolik nových partnerů nakonec opravdu objedná zboží.
 
-Proces se tedy z původních 3(až 4) pracovníků dostal na dva(respektive 3). SDR zvládne udělat většinu úkonů sama - poslat Annex A, pozvat partnera do KPP i založit partnera v KISSU. Dříve SDR prováděla jenom prvotní kvalifikaci požadavku, Annex A a pozvánku prováděla PAm, v Kissu zakládala Sales Ops, Onboardign provádí SM spolu s SE.
+Proces se tedy z původních 3(až 4) pracovníků dostal na dva(respektive 3). SDR zvládne udělat většinu úkonů sama - poslat Annex A, pozvat partnera do KPP i založit partnera v KISSU. 
 
+###Systémová vylepšení###
 Poslední dně možnosti jsou možné hlavně díky systémovým vylepšením. 
-Pozvávní do KPP bylo dříve možné jen přes aplikaci speciálně pro toto určenou - Admin Lite. Nyní je možné partnera pozvat pomocí tlačítka přímo ze SFDC, které bylo vyvinuto - Manage KPP Acces. Toto tlačítko partnera založí v KPP, přiradí ho do správných skupin na základě údajů na jeho Accountu v SFDC.
+Pozvávní do KPP bylo dříve možné jen přes aplikaci speciálně pro toto určenou - Admin Lite. Nyní je možné partnera pozvat pomocí tlačítka přímo ze SFDC, které bylo vyvinuto - Manage KPP Access. Toto tlačítko partnera založí v KPP, přiradí ho do správných skupin na základě údajů na jeho Accountu v SFDC.
 
 Pro založení partnera v kissu a přidělení mu přihlašovacích údajů do online storu, bylo do nedávna potřeba jít do KISSU a manuálně ho založit.
 
@@ -123,13 +135,4 @@ Opět díky vyvinutí tlačítka v SFDC, je nyní možné založit partnera v KI
 Toto založení není zcela automatické, do KISSU je stále potřeba se přihlásit a poslat partnerovi přihlašovací údaje do online strou a nastavit speciálni flagy.
 Propojení SFDC a KISS je nyní zajištěno Caší. Synchronizace mezi oběma systému probíhá každé dvě hodiny.
 
-Proces tedy nebyl jenom zkrácen, ale byl i technicky vylepšen. Protože bylo zjištěno, že příliš mnoho manuální práce v průběhu procesu, způsobuje v procesu chyby..
-
-Postup práce:
-1. pochopit proces, jak probíhá, kde se mnění
-2. zjistit kdo proces vykonává
-3. ověřit aktuálnost procesu
-4. vyčistit a zkrátit processní popis
-5 vytknout části, které se v procesu opakují
-
-Takový byl postup zde, ale i uvšech přepsaných procesů. 
+Proces tedy nebyl jenom zkrácen, ale byl i technicky vylepšen. Protože bylo zjištěno, že příliš mnoho manuální práce v průběhu procesu, způsobuje v procesu chyby.
