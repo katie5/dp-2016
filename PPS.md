@@ -1,18 +1,37 @@
-#Partner Portal Singnup#
+#Partner Portal Signup#
 
-Na tomto procesu bude demonstrováno, jak probíhal jeho postupný přepis a změna. Tento proces byl vytypovaný, jako jede z klíčových procesů pro Sales tým.
+Na tomto procesu bude demonstrováno, jak probíhal jeho postupný přepis a změna. Tento proces byl vytypovaný, jako jede z velmi důležitých procesů.
 
 ##Charakteristika procesu##
-Proces má vést k úspěšnému získání nového partnera a jeho správném založení v SFDC, potažmo v KISSU a dále jsou partnerovi poskytnuty přístupy do partnerského portálu či online storu.(pokud je požaduje)
+Proces má vést k úspěšnému získání nového partnera a jeho správném založení v SFDC, potažmo v KISSU. Po založení v těchto systémech jsou partnerovi poskytnuty přístupy do partnerského portálu či online storu(pokud je požaduje).
 
-Už ze samotné zběžné charakteristiky procesu je patrné, že je proces docela komplikovaný sám o sobě - proběhne zde několik rozhodnutí, která rozhodují o dalším směřování procesu. Další komplikací je, že procesu se účastní hned několik členů týmu.
+Proces je docela komplikovaný sám o sobě - proběhne zde několik rozhodnutí, která určují další směřování procesu. Další komplikací je, že procesu se účastní hned několik členů týmu.
+
+##Postup úprav##
+1. pochopit proces, jak probíhá, kde se mnění
+2. zjistit kdo proces vykonává
+3. ověřit aktuálnost procesu
+4. vyčistit a zkrátit procesní popis
+5. vytknout části, které se v procesu opakují
+6. ověřit správnost přepsaného procesu
+7. publikace procesu Sales týmu.
+
+Tento postup práce byl dodržen s minimálními obměnami u všech přepsaných procesů. Klíčový byl bod jedna. Jako člověkovi s venku, který se musel postupně se systémém SFDC seznámit to nebyo jednoduché. První procesy šly velmi ztuha. Čím déle sem ovšem se systémem pracovala, a začala chápat různá propojení, tím jednodušší přepisy začaly být.
+
+Procesy pak byly přepisovány mimo hlavní stránku a to z toho důvodu, aby v případě použití procesu, nedošlo ke zmatení.
+
+##Textové úpravy##
+
+V rámci pochopení toho,jak proces probíhá, bylo také nutné pochopit jednotlivá zanoření procesu do sebe a rozhodnutí, která je potřeba v průběhu procesu činit.
 
 **Rozhodnutí, které je potřeba v průběhu procesu učinit:**
 - Je partner Direct/indirect?
 - Má už přístup do KPP? 
 *vysvětlivka pod čárou-KPP je Kerio Partner Portal
 
-Původní proces je rozdělen takto:
+[obrázek jednotlivých zanoření]
+
+Výchozí proces byl rozdělen takto:
 1. rozhodnutí - Existing Parnter / New partner
 - Existing partner je pak rozdělen do podsekcí:
 1. Direct / indirect - No Previous Partner Portal Acces
@@ -22,10 +41,10 @@ Původní proces je rozdělen takto:
 1.Direct
 1.Indirect
 
- [obrázek jednotlivých zanoření]
-I samotná struktura procesu je poněkud komplikovaná.
+Z obrázku i popisu je patrné, že i samotná struktura procesu je poněkud komplikovaná.
 
-Na části procesu která se věnuje Novým partnerům, konkrétně Direct partnerům, je vidět hned několik (ve své podstatě všechny) problémů, které už byly pojmenovány. 
+Na části procesu která se věnuje Novým partnerům, konkrétně Direct partnerům, je vidět hned několik problémů, které už byly pojmenovány. 
+[Obrázek porovnání dvou vedle sebe obrázku Partne P singup..tam kde se opakuji, zvýraznit kde se liší]
 
 Zde je dle mého názoru výčet těch nejpatrnějších:
 
@@ -36,38 +55,34 @@ Zde je dle mého názoru výčet těch nejpatrnějších:
 
 Na příkladu je patrné, že se některé části procesu zbytečně opakují. Pak je pro čtenáře / vykonavatele procesu mnohem těžší najít, v čem se proces liší od jiného.
 
-[Obrázek porovnání dvou vedle sebe obrázku Partne P singup..tam kde se opakuji, zvýraznit kde se liší]
-
 Proces bylo potřeba vyčistit, hlavně od těchto duplicit. Tím došlo k redukci počtu stránek, na kterých byl původní proces napsán.
 
-V průběhu pročištění bylo zjištěno, že některé části procesu se liší velmi málo, například jenom v jednom kroku. Proto mohly být některé části procesu textově sloučeny.
+V průběhu pročištění bylo zjištěno, že některé části procesu se liší velmi málo, například jenom v jednom kroku. Proto mohly být některé části procesu textově sloučeny.Případně, pokud se část procesu opakovala, byla vytknuta mimo.
 
 Na jednotlivé stránky, kde se procesy nořily do sebe, pak byly přidány jednoduché diagramy, jejichž účelem bylo pomoci při orientaci ve fázích procesu.
+[obrázek průběžný]
 
-Proces bylo potřeba upravit potřeba upravit jak po stránce textové, tak i po stránce průběhové.
+##Úpravy průběhu##
+Proces bylo potřeba upravi jak po stránce textové, tak i po stránce průběhové.
 Pro lepší průběh celého procesu, bylo potřeba ho namodelovat.
+
 [obrázek modelů, původní proces..]
 
 
-Další změny:
-k procesu byl přidán další souběžný proces, který je zaměřený na onboarding partnera.
-Tím se trochu změnila povaha procesu pro Directy a Indirecty. Proces mohl být rozdělen do sekcí podle toho, která role mám daný kus procesy vykonat.
-
-Procesní deskripce mezi sebou byly různě prolinkované..
-
 Nejdříve bylo potřeba celý proces pochopit, jak probíhá, kdo v něm funguje atd. To zahrnovalo přečíst deskripce, udělat si poznámky a na základě poznámek vytvořit zběžný model, ze ktého bylo víc patrné, jak proces probíhá a kde je možné ho měnit.
 
-Model byl prostý vývojový diagram, k jeho vytvoření stačil papír a tužka.
+Model byl prostý vývojový diagram, k jeho vytvoření stačil papír a tužka. Model prezentovaný v této diplomové práci je pak zpracován v programu MS Visio. Pro spracování modelu bylo potřeba zvolit takový program, který se ve firmě běžně používá.
 
-**uspořádání na stránkách**
-.................................................................
+##Práce##
 
 Výchozí situace už tedy byla nastíněná.
 V první fázi jsem proces prošla a snažila se ho smysluplně rozdělit a zkrátit.
 Bylo zachováno dělení na Existujicí a Nové partnery. V obou větvích procesu, pak byly vytknuty části, které se opakovaly. V tomto případě se jedná o invitaci partnera do Kerio Partner Portalu (KPP).
+[obrázek ze sešitu číslo 2]
 
 Tato verze procesu nějakou dobu fungovala, za nějaký čas opět doško ke změnám (* Tento proces se v průběhu zpracování práce změnil hned několikrát.)
 
+Výrazné
 Předposlední výrazná změna byla to, zahrnout do procesu SDR, ta kvalifikovala Lead, čili potencionálnho partnera.
 Dalším přídavkem do procesu, byl proces Partner onboardingu, který na tento proces přímo navazuje (na část s Direct Partnerem). Proces probíhá souběžně s dokončováním procesu partnerské registrace.
 
