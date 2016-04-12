@@ -85,3 +85,4 @@ Tento proces by se dal nazvat jako Task driven. V momentě kdy je automaticky vy
 V hlavičce procesu je pak uveden subjekt tásku a následné kroky.
 [obrázek deskripce]
 
+Tásky v SFDC v tomto případě obsahují link na příslušné kroky procesu, které se mají vykonat.
