@@ -29,6 +29,7 @@ Společnost Kerio je jedním z hlavních výrobců zabezpečovacího internetov�
 
 V čele společnosti stojí výkonný ředitel spolu s představenstvem společnosti. V čele jednotlivých oddělení pak stojí viceprezidenti, kteří spadají přímo pod výkonného ředitele. Společnost Kerio má celkem osm oddělení z čehož největší je Engeneering, pod který spadají jednotlivé týmy vyvíjející prudukty společnosti.
 [Obrázek organizační struktury společnosti]
+
 Pro tuto diplomovou práci je klíčový Sales tým, jeho organizační struktura a jednotlivé týmové role budou rozebrány později.
 
 **Historie společnosti**:
