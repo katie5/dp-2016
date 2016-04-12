@@ -1,30 +1,33 @@
-V průběhu přepisování  stávajících procesů vznikaly i požadavky na nové procesy.
-Ty se mi zpracovávaly mnohem líp.
-Mohla sem si proces sama vyzkoušet, určit jaký je správný postup. Otestovat ho se Sales týmem a pak vypublikovat.
+##Nový proces##
 
-Tato práce byla mnohem jednodušší.
+V průběhu přepisování  stávajících procesů vznikaly i požadavky na nové procesy a dekripce k nim.
+Zpracování těchto deskripcí bylo mnohem jednodušší
+Bylo moné si proces vyzkoušet, určit správný postup, otestovat ho se zástupci Sales týmu a pak vypublikovat
+
+Práce na tvorbě nového procesu a jeho deskripce je jednoduššní, než podle zastaralé deskripce zjišťovat, jak by proces měl podle deskripce fungovat a jak funguje doopravdy.
 
 Požadavky na nové procesy povětšinou přichází ze strany Directorů Sales týmu. 
 
-**HW Evaluation**
-Tento proces, respektive Try and Buy program, je určen pro partnery a má sloužit ke zvýšení prodejů hardwarového řešení.
+##HW Evaluation##
 
-Partner můžu 30 zdarma používat produkt naplno a pak se rozhodnout, či si produkt koupí nebo ho může vrátit.
+Tento proces, respektive Try and Buy program, je určen pro partnery a má sloužit ke zvýšení prodejů hardwarového řešení pro firewall - Controll boxů.
+Pokud se partner do tohoto programu zapojí, může pak 30 zdarma používat produkt naplno bez jakéholiv omezení. Po uplynutí "evaluační" doby se pak musí rozhodnout, zda si produkt koupí nebo ho vrátí.
 
- Po prvních návrzích, jak by měl proces vypadat na straně Sales týmu, bylo vyhodnoceno, že je potřeba pro tento proces udělat speciální konfiguraci..
  
- HW Evaluation je proces, který měl na samém začátku omezení. Toto omezení se týkalo hlavně hadwaru, jehož množství pro proces nebylo omezené a to z toho důvodu, že se nevědělo, jestli bude mít program u partnerů úspěch či ne.
+HW Evaluation je proces, který měl na samém začátku omezení. Omezení se týkalo hlavně hardwaru, jehož množství pro proces bylo omezené. To z toho důvodu, že se nevědělo, jestli bude mít program u partnerů úspěch či ne.
  
- Toto omezení už nyní v procesu není, program má úspěch(počet vrácených boxů zpět je minimální.)
+Program Try and Buy byl po nějakém času od spuštění vyhodnocen jako úspěšný na základě množství vrácených boxů, které bylo minimální. To vedlo k tomu, že výše zmíněné omezení mohlo být s procesu odstraněno.
 
-Nicméne na počátku zde byly dvě monosti, jak mohl probíhat a to buď:
+###Vývoj procesu###
+
+Nicméně na počátku bylo potřeba pracovat s oběmi možnostmi, jak mohl proces probíhat a to buď:
 -  bez omezení, pro malé boxy
 -  s omezením, pro velké boxy, v každém Kerio regionu byl určitý počet velkých boxů, které bylo možné do programu zapojit
 
-Systémová konfigurace
-Proces je opět spuštěn přes vyplnění formuláře na KPP - programu se tedy mohou účastnit je stávající partneři. 
+**Systémová konfigurace**
 
-Formulář se odešle a v systému SFDC je vytvořena Oppotunita. Vzhledem k tomu, že není možné odhadnout, zda z Opportunity bude nějaký příjem či ne a také proto, že se jednalo o nový program - bylo ptořeba množštví a úspěšnost opportunit měřit.
+Proces je opět spuštěn přes vyplnění formuláře na KPP - programu se tedy mohou účastnit je stávající partneři. 
+Formulář se odešle a v systému SFDC je vytvořena Oppotunita. Vzhledem k tomu, že není možné odhadnout, zda z Opportunity bude nějaký příjem či ne a také proto, že se jednalo o nový program - bylo potřeba množství a úspěšnost opportunit měřit.
 
 Proto byl vytvořen speciální RT pro tento typ opportunity - HW Evaluation.
 
