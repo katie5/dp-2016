@@ -27,7 +27,7 @@ Společnost Kerio je jedním z hlavních výrobců zabezpečovacího internetov�
 
 **Organizační struktura společnosti**
 
-V čele společnosti stojí výkonný ředitel spolu s představenstvem společnosti. V čele jednotlivých oddělení pak stojí viceprezidenti, kteří spadají přímo pod výkonného ředitele. Společnost Kerio má celkem osm oddělení z čehož největší je Engeneering, pod který spadají jednotlivé týmy vyvíjející prudukty společnosti.
+V čele společnosti stojí výkonný ředitel spolu s představenstvem společnosti. V čele jednotlivých oddělení pak stojí viceprezidenti, kteří spadají přímo pod výkonného ředitele. Společnost Kerio má celkem osm oddělení z čehož největší je Engineering, pod který spadají jednotlivé týmy vyvíjející produkty společnosti.
 
 ![](obrázky/Modely DP.png)
 Pro tuto diplomovou práci je klíčový Sales tým, jeho organizační struktura a jednotlivé týmové role budou rozebrány později.
@@ -90,7 +90,6 @@ Z výše uvedené charakteristiky vyplývá, že společnost Kerio disponuje ši
 Tato diplomová práce je zaměřena především na unifikaci procesů pro Sales oddělení společnosti. Proto se především zaměříme na systémy, které primárně podporují fungování tohoto oddělení.
 Předtím než bude přistoupeno k charakteristice procesní dokumentace, je nutné si charakterizovat jednotlivé systémy, kterých se procesy týkají.
 Dále budou zmíněny i vazby mezi jednotlivými systémy, na které mělo vliv rozhodnutí o rozdělení společností.
-{Dále pak bude potřeba také nadefinovat jednotlivé role v Sales týmu a jejich odpovědnosti.}
 
 ##Externí systémy##
 ###Salesforce###
@@ -168,7 +167,7 @@ Výchozí situace: Celý Sales tým spadá pro víceprezidenta globálních prod
 Na začátku zpracování této práce fungovali v Sales týmu 3  Global Directors a jeden Sales Director. V průběhu roku 2015 došlo v týmu k určitým změnám, které vyustíly v to, že Sales tým nyní vedou dva Global Directors. 
 Proto bude uvedena jenom definice odpovědností Global Directora a to z důvodu pochopení jejho odpovědností. 
 Odpovědnosti Directors, i členů týmu, jsou nadefinovány na Samepage a jsou odtud převzaty.
-[Obrázek organizační struktury]
+[![](obrázky/Sales Org.png)]
 
 Nyní tedy fungují dva Global Directrosr a to:
 **Global Director Renewals and Sales Ops**
@@ -325,11 +324,12 @@ Dalším pomocníkem je zvýraznění důležitých pasáží procesu, aby bylo 
 2. pokud se potřebuji ujisti o dalším kroku, je možné rychle přečíst text pomocí zvýrazněných klíčových slov - povětšinou akce a objekt k akci určený.
 
 **Příklad**
-[Obrázek kus textu portal singup strarý a nový]
+![](obrázky/Direct  + indirec Samepage.png)
 
 ###Šestý problém###
 Špatné třídění procesů. Jak je vidět na obrázku níže, procesy vznikaly velmi genericky, byla zde snaha je roztřídit do skupin, nicméně po čase skupiny přestaly odpovídat a postupným vnořováním jednoho procesu do druhého, respektive stránky do druhé, vznikaly zmatky.
 Lze vidět že Sales procesy byly promíchány s procesy, které jsou čístě pro systém KISS, dále pak jsou promíchány i speciální procesy pro Samepage.
+ ![](Obrázky na roztřízení/Struktura procesu stará.png)
 
 **Řešení**
 
@@ -339,8 +339,8 @@ Dále je potřeba vzít v úvahu i rozdělení společností a to také to že s
 
 Třetí složkou, která bude vyčleněna, bude složka obsahující procesy, které jsou vykonávány pouze v systému KISS. Tyto procesy jsou prováděny povětšinou rolí Sales Ops, proto je lepší je ze Sales procesů vyčlenit.
 
+[Obrázek nové struktury]]
 V Sales procesech tedy zůstanou procesy relevantní pro členy Sales týmu.
-[Obrázek původního třídění procesů, nová struktura]
 
 Sales procesy jsou dále členěny takto:
 - **Account management**- tato složka obsahuje procesy vztahující se přímo k Accountu- tedy k zákazníkovi, respektive k partnerovi
@@ -429,7 +429,7 @@ V textu je také možné najít separátně zvýrazněny kroky, které provádí
 
 Další významnou sekcí v GG jsou pak procesní mapy. Tyto procesní mapy by měly posloužit k lepší orientaci mezi procesy.
 Jako první je uvedena legenda, vysvětlující opět barvy a pak také styl provázanosti mezi procesy.
-[obrázek legendy]
+![](Obrázky na roztřízení/legenda.png)[obrázek legendy]
 
 **Process page map**
 
@@ -443,14 +443,14 @@ Na mapě je pak vidět i jaké procesy se nachází uvnitř složky. Tato mapa b
 
 **Nedostatek**
 Kdyby bylo možné do obrázku vložit přímo odkazy na jednotlivé procesy, mohla by mapa sloužit jako rozcestník. To je ovšem jeden z dalších nedostatků SIO.
-[obrázek procesní mapy]
+[obrázek procesní mapy]![](Obrázky na roztřízení/Komplexní mapa.png)
 
 **Process connection map**
 
 Tahle mapa v sobě zahrnuje hned dvě spojení - první, v této mapě méně důležité je převzato z předchozí mapy a znázornuně propojesnot podstránek. Mnohem důležitější ovšem na této mapě je znázornění propojenosti procesu pomocí linků.
 Je tady i skupinka procesů, které nejsou napojeny vůbec. Tyto procesy nejsou používány na denní bázi, spíše občasně.
 
-[obrázek procesní mapy]
+[obrázek procesní mapy]![](Obrázky na roztřízení/Propojení procesů.png)
 *poznámka pod čarou - mapy zachycují stav v roce 2015,kterým se věnuje i tato práce. Změny v roce 2016 do map nejsou zahrnuty.
 
 Vzhledem k tomu, že většinu procesu píšu a reviduji já, případně upravuji, je Global Gudiance využívána hlavně mnou. Ovšem Busines owneři již také projevili snahu při používání tohoto dokumentu, při tvorbě návrhu procesu.
@@ -572,7 +572,7 @@ Na jednotlivé stránky, kde se procesy nořily do sebe, pak byly přidány jedn
 Proces bylo potřeba upravi jak po stránce textové, tak i po stránce průběhové.
 Pro lepší průběh celého procesu, bylo potřeba ho namodelovat.
 
-[obrázek modelů, původní proces..]
+[obrázek modelů, původní proces![](Obrázky na roztřízení/Portal singups.png)..]
 
 
 Nejdříve bylo potřeba celý proces pochopit, jak probíhá, kdo v něm funguje atd. To zahrnovalo přečíst deskripce, udělat si poznámky a na základě poznámek vytvořit zběžný model, ze ktého bylo víc patrné, jak proces probíhá a kde je možné ho měnit.
