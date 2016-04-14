@@ -9,7 +9,7 @@
 
 **Sídlo**: Anglické nábřeží 1, PSČ 301 49 Plzeň
 
-Společnost Kerio Technologies, s. r. o. (dále jen Kerio) má hlavní sídlo ve městě San Jose ve státě California ve Spojených státech amerických (USA). Pobočky se pak dále nacházejí ve Velké Británii, České republice, Austrálii a Brazílii.
+Společnost Kerio Technologies, s. r. o. (dále jen Kerio) zvnikla v roce 1997 v Plzňi v České republice. Nyní má hlavní sídlo ve městě San Jose ve státě California ve Spojených státech amerických (USA). Pobočky se pak dále nacházejí ve Velké Británii, České republice, Austrálii a Brazílii.
 
 **Základní kapitál**: 100 000 Kč
 
@@ -27,7 +27,7 @@ Společnost Kerio je jedním z hlavních výrobců zabezpečovacího internetov�
 
 **Organizační struktura společnosti**
 
-V čele společnosti stojí výkonný ředitel spolu s představenstvem společnosti. V čele jednotlivých oddělení pak stojí viceprezidenti, kteří spadají přímo pod výkonného ředitele. Společnost Kerio má celkem osm oddělení z čehož největší je Engineering, pod který spadají jednotlivé týmy vyvíjející produkty společnosti.
+V čele společnosti stojí výkonný ředitel spolu s představenstvem společnosti. V čele jednotlivých oddělení pak stojí viceprezidenti, kteří spadají přímo pod výkonného ředitele. Společnost Kerio má celkem šest oddělení z čehož největší je oddělení Inženýringu, pod který spadají jednotlivé týmy vyvíjející produkty společnosti, ale né jenom ty (viz. organizační struktura níže).
 
 ![](obrázky/Modely DP.png)
 Pro tuto diplomovou práci je klíčový Sales tým, jeho organizační struktura a jednotlivé týmové role budou rozebrány později.
@@ -36,11 +36,11 @@ Pro tuto diplomovou práci je klíčový Sales tým, jeho organizační struktur
 
 **1997**
 
-V tomto roce firma poprvé vstoupila na trh s internetovými zabezpečovacími technologiemi - produkty WinRoute. Tato řada byla velmi oblíbená a úspěšná, zejména pak produkt WinRoute Pro. Ten si získal velkou přízeň uživatelů především díky jednoduchosti použití, spolehlivosti a výkonu. Také kvůli své cenové dostupnosti se stal lákavou alternativou mnohem dražších firewallů a routerů. Jeho široké využití ho zařadilo mezi využívané produkty mezi síťovými odborníky a administrátory.
+V tomto roce firma poprvé vstoupila na trh s internetovými zabezpečovacími technologiemi s produktem WinRoute. Tato řada byla velmi oblíbená a úspěšná, zejména pak produkt WinRoute Pro. Ten si získal velkou přízeň uživatelů především díky jednoduchosti použití, spolehlivosti a výkonu. Také kvůli své cenové dostupnosti se stal lákavou alternativou mnohem dražších firewallů a routerů. Jeho široké využití ho zařadilo mezi využívané produkty mezi síťovými odborníky a administrátory.
 
 **2000 - 2009**
 
-Produkt WinRoute začali používat i zákaznící s nejvyššími bezpečnostmíni nároky jako US Air Naval Systems nebo fifanti v oblasti cestovních rezervací v USA - společnost Amadeus. V těchto letech WinRoute Pro získal certifikaci od společnosti ICSA Labs a také se objevil jako softwarové a virtuální zařízení. I toto přispělo ke skutečnosti že se WinRoute Firewall stal jedním z nejpopulárnějších softwarových firewallů ve své cenové kategorii.
+Produkt WinRoute začali používat i zákazníci s nejvyššími bezpečnostními nároky jako US Air Naval Systems nebo gig anti v oblasti cestovních rezervací v USA - společnost Amadeus. V těchto letech WinRoute Pro získal certifikaci od společnosti ICSA Labs a také se objevil jako softwarové a virtuální zařízení. I toto přispělo ke skutečnosti že se WinRoute Firewall stal jedním z nejpopulárnějších softwarových firewallů ve své cenové kategorii.
 
 **2010**
 
@@ -48,41 +48,42 @@ V tomto roce byl vydán produkt Kerio Connect 7 s distribuovanou doménou a Card
 
 **2011**
 
-V tomto roce vznikldy další dva nové produkty a to Kerio Workspace a Kerio Operator.
+V tomto roce vznikly další dva nové produkty a to Kerio Workspace a Kerio Operator.
 
 **2013 - 2014**
 
-Firma představila nový produkt, kladouvé řešení pro spolupráci v týmech Samepage.io. Toto řešení nahradilo původní řešení Workspace.
+Firma představila nový produkt Samepage.io. Jedná se o cloud řešení pro spolupráci v týmech. Nový produkt vyšel ze svého předchůdce, produktu Workspace, který nahradil.
 
 **2015 - 2016**
 
-Firma se rozhodla pro vyčlenění produktu Samepage.io a přetransformovat tento produkt v samostatnou firmu. Kerio na přelomu let 15/16 začalo nabízet Cloudové řešení svého produktu Connect.
+Firma se rozhodla pro vyčlenění produktu Samepage.io a přetransformovat tento produkt v samostatnou firmu. Kerio na přelomu let 15/16 začalo nabízet cloud řešení svého produktu Connect.
 
 **Produkty společnosti Kerio**
 
-Společnost Kerio je zaměřuje na malé a střední podniky a jejím cílem je umožnit těmto společnostem komunikovat, spolupracovat a být neusátle ve spojení. Kerio se soustřeďuje na vývoj flexibilních, dostupných a snadno použitelných technologíi.
+Společnost Kerio se zaměřuje na malé a střední podniky a jejím cílem je umožnit těmto společnostem komunikovat, spolupracovat a být neusátle ve spojení. Kerio se soustřeďuje na vývoj flexibilních, dostupných a snadno použitelných technologíi.
 
 **Kerio Control**
 
-Je to kopletní produkt pro připojení a řízení pristupu do Internetu a zabezpečení sítě. Mezi jeho nejdůležitější fukce lze zařadit ochranu sítě před viry, malwarem a zákeřnými aktivitami. Tento produkt v sobě spojuje mnoho vlastností jako - síťový firewall a směrovač, detekci a prevenci útoků (IPS), antivirovou ochranu, VPN a filtrování obsahu. Tento produkt je mnohem flexibilnější než klasické hadrwarové firewally. Dále umožňuje sledovat aktivity jednotlivých uživatelů do nejmenšího detailu. Zákazníci mají možnost zakoupit také produkt Control Box, což je hardwarové zařízejí s optimalizovaným výkonem spojující v sobě veškeré zabezpečovací prvky softwarové aplikace a uzpůsobený hardware.
+Kompletní produkt pro připojení a řízení přístupu do Internetu a zabezpečení sítě. Mezi jeho nejdůležitější funkce lze zařadit ochranu sítě před viry, malwarem a zákeřnými aktivitami. Tento produkt v sobě spojuje mnoho vlastností jako síťový firewall a směrovač, detekci a prevenci útoků (IPS), antivirovou ochranu, VPN a filtrování obsahu. Tento produkt je mnohem flexibilnější než klasické hardwarové firewally. Dále umožňuje sledovat aktivity jednotlivých uživatelů do nejmenšího detailu. Zákazníci mají možnost zakoupit také produkt Control Box, což je hardwarové zařízení s optimalizovaným výkonem spojující v sobě veškeré zabezpečovací prvky softwarové aplikace a uzpůsobený hardware.
 
 **Kerio Connect**
 
-Cenově přijatelná alternativa k Microsoft Exchange určená pro malé a střední firmy. Jedná se o multiplatformní e-mailový server s podporou mobilních zařízení. Kombinuje funkce e-mailového a groupwarového serveru s antivirovou kontrolou, účinnou antispamovou ochranou, archivací, automatickým zálohováním a vyniká lehce použitelným webovým rozhraním pro správu, dostupným ze všech běžných webových prohlížečů. Tento produkt je velmi flexibilní, umožňuje malým a středním podnikům využívat platformy a mobilní zařízení dle vlastního výběru.
+Cenově přijatelná alternativa k Microsoft Exchange určená pro malé a střední firmy. Jedná se o multiplatformní e-mailový server s podporou mobilních zařízení. Kombinuje funkce e-mailového a groupwarového serveru s antivirovou kontrolou, účinnou antispam ochranou, archivací, automatickým zálohováním a vyniká lehce použitelným webovým rozhraním pro správu, dostupným ze všech běžných webových prohlížečů. Tento produkt je velmi flexibilní, umožňuje malým a středním podnikům využívat platformy a mobilní zařízení dle vlastního výběru.
 
 **Kerio Operator**
 
-Jednoduše konfigurovatelný podnikový telefonni systém, založený na přenosu telefonních horovů přes internet (VoIP). Produkt je navržen tak, aby usnadnil hlasovou komunikaci a přitom poskytl pokročilé funkce telefonních systému jako - konferenční hovory, dynamické hlasové konference, integrace s podnikovým CRM systémem, směrování hovorů, záznam hovorů, hlasovou poštu do e-mailu, podporu faxu, automatické hlasové menu a fronty hovorů.
+Jednoduše konfigurovatelný podnikový telefonní systém, založený na přenosu telefonních hovorů přes internet (VoIP). Produkt je navržen tak, aby usnadnil hlasovou komunikaci a přitom poskytl pokročilé funkce telefonních systému jako - konferenční hovory, dynamické hlasové konference, integrace s podnikovým CRM systémem, směrování hovorů, záznam hovorů, hlasovou poštu do e-mailu, podporu faxu, automatické hlasové menu a fronty hovorů.
 Kerio Operator Softphone je telefonní aplikace, která umožňuje přijímat hovory na mobilních zařízeních se systémy iOS nebo Android přímo z firemního telefonního systému.
 
 **Kerio Cloud**
 
-Nejnovější přírustek v rodině Kerio produktů. Jedná se o hostování e-mailu, instant messagingu či hlasových služeb v Cloudu. Jedná se o alternativu k "on-premise" produktům. Produkt umožňuje synchronizovat všechna data aplikací, které uživatel denně používá. Díky technologii Direct Push jsou synchronizována i data s počítače uživatele a zobrazují se na jeho chytrém zařízení.
+Nejnovější přírustek v rodině Kerio produktů. Jedná se o hostování e-mailu, instant messagingu či hlasových služeb v cloudu. Jedná se o alternativu k "on-premise" produktům. Produkt umožňuje synchronizovat všechna data aplikací, které uživatel denně používá. Díky technologii "Direct Push" jsou synchronizována i data počítače uživatele a zobrazují se na jeho chytrém zařízení.
 
 **Cloudová služba Samepage**
 
-Je privátni cloud a platforma pro týmovou spolupráci. Tento produkt umožňuje vytvářet, organizovat a sdílet širokou škálu obsahu a pristupovat k němu prostřednictvím jediného intuitivního rozhraní. Slouží jako centrální bod pro spolupráci a informace, které jsou nutné pro týmovou spolupráci,vždy k dispozici. 
-(poznámka pod čarou: vyčlenění Samepage (dále jen SIO) v době napsání této práce, ještě nebyl dokončen, proto je uvedena mezi produkty společnosti Kerio)
+Je privátní cloud a platforma pro týmovou spolupráci. Tento produkt umožňuje vytvářet, organizovat a sdílet širokou škálu obsahu a přistupovat k němu prostřednictvím jediného intuitivního rozhraní. Slouží jako centrální bod pro spolupráci a díky němu jsou informace, které jsou nutné pro týmovou spolupráci,vždy k dispozici. 
+(poznámka pod čarou: vyčlenění společnosti Samepage (dále jen SIO) v době vzniku této práce, ještě nebylo dokončeno, proto je uvedena mezi produkty společnosti Kerio)
+
 Své produkty společnost rozšiřuje po celém světe, jejich jednoduchá řešení pomáhají zvyšovat produktivitu milionům uživatelů po celém světě ve více než 60 000 firmách. Všechny výše uvedené produkty jsou nabízeny prostřednictvím sítě než 6 000 obchodních partnerů.
 
 #Charakteristika interních systémů#
