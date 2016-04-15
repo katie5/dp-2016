@@ -90,34 +90,41 @@ Své produkty společnost rozšiřuje po celém světe, jejich jednoduchá řeš
 Z výše uvedené charakteristiky vyplývá, že společnost Kerio disponuje širokou zákaznickou i partnerskou základnou. K tomu aby mohla tyto základy rozšiřovat a dále rozvíjet, potřebuje k fungování soustavu interních a externích systémů.
 Tato diplomová práce je zaměřena především na unifikaci procesů pro Sales oddělení společnosti. Proto se především zaměříme na systémy, které primárně podporují fungování tohoto oddělení.
 Předtím než bude přistoupeno k charakteristice procesní dokumentace, je nutné si charakterizovat jednotlivé systémy, kterých se procesy týkají.
-Dále budou zmíněny i vazby mezi jednotlivými systémy, na které mělo vliv rozhodnutí o rozdělení společností.
+Dále budou zmíněny i vazby mezi jednotlivými systémy.
 
 ##Externí systémy##
 ###Salesforce###
-Salesforce (Dále jen SFDC) je CRM systém, který umožňuje shromažďovat, třídit a zpracovávat údaje o zákaznících, především jejich kontakty, probíhající obchodní procesy.
-CRM systémy obecně pak pomáhají sledovat a vyhodnocovat veškeré obchodní aktivity v rámci celé společnosti. Cílem je především zlepšit cílení služeb, lépe porozumět zákazníkům a identifikovat jejich konkrétní potřeby, umožňují budovat dlouhodobé vztahy se zákazníky.
-Společnost Kerio tento systém začala používat ke správě informací o svých zákaznících na přelomu let 2012 a 2013. V tomto období začalo vznikat i množství procesů, resp. pracovních postupů, jak používat tento systém správně. Těmto procesům bude věnována hlavní část práce.
-V této souvislosti je potřeba nadefinovat základní objekty, které jsou v SFDC používány a často se vyskytují v procesních popise.
+Salesforce (Dále jen SFDC) je CRM systém, který umožňuje shromažďovat, třídit a zpracovávat údaje o zákaznících, především jejich kontakty a probíhající obchodní procesy.
 
-* **Lead**- kontakt na potencionálního zákazníka, který projeví zájem o koupi produktu či služby
-* **Account**- zde se jsou zobrazeny informace o společnosti, se kterou Kerio obchoduje,  nebo se chystá obchodovat. Lze zde najít informace jako: adresu společnosti, počet zaměstnanců, informace o prodejích a další podrobnosti. Je zde možné dohledat Opportunity, Case a list všech Contactů ve společnosti.
-* **Contact**- Informace o konkrétní osobě z určité společnosti.
-* **Case** - jsou většinou generovány na základě různých požadavků partnerů, či koncových uživatelů. Case negenerují přímo příjmy pro společnost.
-* **Opportunity** - příležitosti, které společnosti vznikají. Mohou být nové, nebo generované automaticky pro obnovu stávající licence pro partnera (tzv. SWM). Hlavní zdroj příjmů pro společnost. 
+CRM systémy obecně pak pomáhají sledovat a vyhodnocovat veškeré obchodní aktivity v rámci celé společnosti. Cílem je především zlepšit cílení služeb, lépe porozumět zákazníkům a identifikovat jejich konkrétní potřeby, umožňují budovat dlouhodobé vztahy se zákazníky. (zdroj)
+
+Společnost Kerio tento systém začala používat ke správě informací o svých zákaznících na přelomu let 2012 a 2013. V tomto období začalo vznikat i množství procesů, resp. pracovních postupů pro Sales pracovníky, jak používat tento systém správně. Těmto procesům bude věnována hlavní část práce.
+V této souvislosti je potřeba nadefinovat základní objekty, které jsou v SFDC používány a často se vyskytují v procesních popisech.
+
+* **Lead**- kontakt na potencionálního zákazníka, který projeví zájem o koupi produktu či služby.
+* **Account**-neboli účet, jsou zde zobrazeny informace o společnosti, se kterou Kerio obchoduje,  nebo se chystá obchodovat. Lze zde najít informace jako: adresu společnosti, druh partnera, informace o prodejích a další podrobnosti. Je zde také možné dohledat příležitosti (_Opportunity_), přídacy (_Case_) a seznam všech kontaktů (_Contact_) ve společnosti.
+* **Contact**- neboli kontakt. Teto objekt obsahuje informace o konkrétní osobě z určité společnosti, jako jeho pozice ve firmě, telefon, e-mail atd.
+* **Case** - neboli případ. Případ je většinou generovány na základě různých požadavků partnerů, či koncových uživatelů. Případy nejsou přímým zdrojem příjmů pro společnost Kerio.
+* **Opportunity** - neboli příležitosti, které společnosti vznikají. Mohou být nové, nebo generované automaticky pro obnovu stávající licence pro partnera (tzv. SWM). Příležitosti jsou hlavním zdrojem příjmů pro společnost. 
+* 
 Salesforce je propojen s dalšími systému společnosti, jako jsou Marketo a KISS.
+
 (vysvětlivka pod čarou: CRM system -CRM je zkratka z anglického Customer Relationship Managament a označuje se tak systém pro řízení vztahů se zákazníky.
 
 ###Marketo###
-Jak už název napovídá, tento nástroj je především využíván Marketingovým oddělením společnosti. Tento systém využíva Marketing Automation, což je kategorie technologie, která umožňuje společnostem zjednodušit, automatizovat a měřit marketingové aktivity a tím zvýšit provozní efektivitu a tím i růst tržeb podniku.
-V Marketu se tvoří e-mailové kampaně pro partnery, sledují se aktivity potencionálních zákazníků/partnerů na webu firmy atd. Tyto informace se pak propagují v podobě Leadu do SFDC, kde sním posléze pracuje určený pracovník Sales.
+Jak už název napovídá, tento nástroj je především využíván Marketingovým oddělením společnosti. Tento systém využívá Marketing Automation, což je kategorie technologie, která umožňuje společnostem zjednodušit, automatizovat a měřit marketingové aktivity a tím zvýšit provozní efektivitu a tím i růst tržeb podniku.
+Marketo je využívané pro tvorbu e-malových kamapní pro partnery, sledování aktivity potencionálních zákazníků/partnerů na webu firmy atd. Tyto informace se pak propagují v podobě potencionálního kontaktu (_Lead_) do SFDC, kde sním posléze pracuje určený pracovník Sales.
 
 ###Zuora###
 Zuora byla přidána, do souboru externích systému kvůli produktu Samepage. Jedná se o fakturační nástroj, který funguje na základě subscription business model- zákazník musí zaplatit "předplatné" (u SIO měsíční) aby mohl službu používat na plno. Platby byly prováděny přes tento systém a záznam o platbě propagován do SFDC.
-Zuora byla dále napojena na SIO, kde se subscripce vytvářely, i tato informace, vytvoření nového účtu ve službě SIO, byl propagován do SFDC.
+Zuora byla dále napojena na SIO, kde se subskripce vytvářely, i tato informace, vytvoření nového účtu ve službě SIO, byl propagován do SFDC.
 Tento systém v současnosti již není využíván společností Kerio, je zde uveden pouze pro úplnost.
 
 ###WHMCS###
-Tento systém je nejnovějším přírůstkem mezi externími systémy. Firma ho začala využívat v souvislosti s nabízenou službou Kerio Cloud. Jedná se o platformu pro hostování a správu webů, fakturaci klientů s vysokou mírou automatizace(WHMCS - Web Hosting billing and Automation Platform). Tento systém je taktéž navázán na SFDC.
+Tento systém je nejnovějším přírůstkem mezi externími systémy. Firma ho začala využívat v souvislosti s nabízenou službou Kerio Cloud. Jedná se o platformu pro hostování a správu webů, fakturaci klientů s vysokou mírou automatizace(WHMCS - Web Hosting billing and Automation Platform). Tento systém je taktéž navázán na SFDC. (zdroj) *poznámka pod čarou: v dohledné době se plánuje i propojení se systémem KISS.
+
+
+[Všechny výše uvedené systémy patří pod správu Integračního týmu, který spadá do oddělení Inženýringu. ]
 
 ##Interní systém##
 ###KISS###
