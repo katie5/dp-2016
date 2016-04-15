@@ -128,19 +128,26 @@ Tento systém je nejnovějším přírůstkem mezi externími systémy. Firma ho
 
 ##Interní systém##
 ###KISS###
-Kerio Information and Sales System - zkráceně KISS - je interní informační systém, který byl vyvinut pro prodej Kerio produktů a to jak koncovým zákazníkům, tak partnerům. Zahruje objednávkový a fakturační systém, správu licencí a reporty. 
-Tento systém je napojen na SFDC, do SFDC se přenáší hlavně informace o licencích zákazníků, ale né jenom to.
+_Kerio Information and Sales System_ - zkráceně KISS - je interní informační systém, který byl vyvinut pro prodej Kerio produktů a to jak koncovým zákazníkům, tak partnerům. Zahrnuje objednávkový a fakturační systém, správu licencí a reporty. Před zavedením CRM systému SFDC byl jediným zdrojem informací o zákaznících. Nyní je prvotním systémem, ve kterém jsou uloženy informace o zákaznících SFDC. 
+Systém KISS je ze SFDC propojen, do SFDC se přenáší hlavně informace o licencích zákazníků, ale ne jenom ty. 
+
+[Správu a vývoj toto systému spadá do kompetencí integračnímu týmu, konkrétně týmu interních systému]
+
 [Obrázek propojení systému - staré]
 
-Na obrázku je zobrazeno propojení jednotlivých systému v době, kdy Samepage fungovala jako produkt Keria a nebylo zahájeno její vyčlenění do samostatné firmy. 	Vyčlenění SIO nemělo vliv jen na systémovou strukturu, ale také na procesy, proto je zde tento stav uveden.
+Na obrázku je zobrazeno propojení jednotlivých systému v době, kdy Samepage fungovala jako produkt Keria a nebylo zahájeno její vyčlenění. 	Vyčlenění SIO nemělo vliv jen na systémovou strukturu, ale také na procesy, proto je zde tento stav uveden.
 [Obrázek propojení systému - nové]
 
 Na dalším obrázku je již vyobrazen současný stav.
+
 Lze říci, že hlavním zdrojem informací o zákaznících je Marketo, ze kterého se tyto informace automaticky přeposílají do SFDC, kde se s nimi dále pracuje. Synchronizace mezi těmito systémy probíhá několikrát denně.
-Dlalším důležitým propojením je synchorizace z KISS do SFDC. Dříve se importovaly do SFDC pouze čísla licencí. Záznamy v KISS a SFDC jsou propojeny ID*. Mohlo docházet k tomu, že mohly vznikat duplicitní záznamy. Dlouhodobou snahou je, aby SFDC byl primární systém, ve kterém jsou drženy všechny záznamy o zákaznících a ty byly zanášeny do KISS.
+Dalším důležitým propojením je synchronizace z KISS do SFDC. Dříve se importovaly do SFDC pouze čísla licencí. Záznamy v KISS a SFDC jsou propojeny ID*. Mohlo docházet k tomu, že mohly vznikat duplicitní záznamy. Dlouhodobou snahou je, aby SFDC byl primární systém, ve kterém jsou drženy všechny záznamy o zákaznících a ty byly zanášeny do KISS.
+
 (poznámka pod čarou: Identifikační číslo)
 
-Po stručné definici jednotlivých systémů a jejich propojení můžeme přistoupit k charakteristice popisu procesů pro Sales team.
+Po stručné definici jednotlivých systémů a jejich propojení můžeme přistoupit k charakteristice popisu procesů pro Sales tým.
+
+[Spolu se základní charekteristikou systému je dále potřeba nadefinovat základní pojmy, které se budou v procesech vyskytovat a je potřeba chápat jejich váznam. Pak může být přistoupeno k charakteristice popisu procesů pro Sales tým.]
 
 #Výchozí stav procesní dokumentace#
 V této kapitole bude nadefinován pojem proces, dále pak bude přiblížena organizační struktura Sales týmu a nadefinované jednotlivé role tohoto týmu.
