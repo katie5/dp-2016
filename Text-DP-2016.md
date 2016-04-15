@@ -181,29 +181,28 @@ V této diplomové práci bude označení proces užíváno pro Business procesy
 ##Organizační struktura Sales týmu##
 Jak již bylo zmíněno v úvodu,
 Celý Sales tým spadá pod viceprezidenta globálních prodejů (VP of Global Sales). Pod ním stojí ředitelé (Directors), kteří mají na starost jednotlivé týmy, respektive jednotlivé trhy.
-Na začátku zpracování této práce fungovali v Sales týmu 3  Global Directors a jeden Sales Director. V průběhu roku 2015 došlo v týmu k určitým změnám, které vyústily v to, že Sales tým nyní vedou dva Global Directors. 
-Proto bude uvedena jenom definice odpovědností Global Directora a to z důvodu pochopení jejho odpovědností. 
-Odpovědnosti Directors, i členů týmu, jsou nadefinovány na Samepage a jsou odtud převzaty.
+Na začátku zpracování této práce fungovali v Sales týmu 3  globální ředitélé a jeden ředitel prodeje. V průběhu roku 2015 došlo v týmu k určitým změnám, které vyústily v to, že Sales tým nyní vedou dva globální ředitelé. 
+Odpovědnosti ředitele, i členů týmu, je potřeba uvést pro pozdější srozumitelnost procesních popisů. Týmové role jsou nadefinovány na Samepage a jsou odtud převzaty.
 
 [![](obrázky/Sales Org.png)]
 
-Nyní tedy fungují dva Global Direktors a to:
+Nyní tedy fungují dva globální ředitelé a to:
 **Global Director Renewals and Sales Ops**
-Director je zodpovědný za tým, který má na starosti veškeré operace z obnovováním běžícího businesu (SWM licence atd.), ale také Direct Chanel jehož hlavním cílem je získávát nové zákazníky a partnery. 
+Ředitel je zodpovědný za tým, který má na starosti veškeré operace z obnovováním běžícího obchodu (SWM licence atd.), Nyní má na starosti také Direct Chanel jehož hlavním cílem je získávát nové zákazníky a partnery a to do doby než se najde nový ředitel. *Nový ředitel byl jmenován v dubnu tohoto roku
+
 **Global Director Distribution Sales**
-Director je zodpovědný za tým který, který má na starosti Distributory.
+Ředitel je zodpovědný za tým který, který má na starosti Distributory.
 
-Vybranými odpovědnostmi directora:
+Vybranými odpovědnostmi ředitele jsou:
 
-- Globálni odpovědnosti:
 - Určování strategie pro přímé i nepřímé trhy
-- Definovat procesy a osvědčené postupy (best practice) pro Sales tým
+- Definovat procesy a osvědčené postupy pro Sales tým
 - Správa prodejních systémů
-- Implementace strategine pro přímé i nepřímé trhy
-- oslovování potencionálních partnerů
+- Implementace strategie pro přímé i nepřímé trhy
+- Oslovování potencionálních partnerů
 - Vedení Sales týmu v daném regionu
 
-Pro účely této práce je důležité si povšimnout bodu 1, konkrétně toho, že Directror je odpovědný na definici procesů pro svůj tým.
+Pro účely této práce je důležité si povšimnout bodu 1, konkrétně toho, že ředitel je odpovědný na definici procesů pro svůj tým.
 
  
 ##Role v Sales týmu##
