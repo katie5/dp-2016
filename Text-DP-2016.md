@@ -154,11 +154,12 @@ V této kapitole bude nadefinován pojem proces, dále pak bude přiblížena or
 Členové Sales týmu nejčastěji pracují se systémem SFDC, který byl již charakterizován. Vybrané role v týmu pak pracují se systémem KISS.
 Dále je potřeba uvést, že společnost Kerio působí celosvětově, proto jsou procesní postupy uváděny v angličtině.
 
+
 ##Definice Procesu##
 Procesy existují uvnitř každé organizace i mezi nimi. Procesy existují bez ohledu na to, jak dobře jsou řízeny.
 Každá organizace je v podstatě organizovaná soustava procesů a činností, které na sebe vzájemně navazují, vzájemně interagují, pobíhají napříč organizačními jednotkami, reagují na různé podněty z vnitřního i vnějšího prostředí. V procesech se transformují stupy a zdroje na výstupy, které zhodnocuje zákazník procesu. 
 
-**Definece procesu dle literatury**
+**Definice procesu dle literatury**
 
 Řepa,V., 2006 definuje proces jako: _„Souhrn činností transformujících souhrn vstupů na souhrn výstupů (zboží nebo služeb) pro jiné lidi nebo procesy, používajíce k tomu lidi nebo nástroje“._
 
@@ -178,13 +179,15 @@ Proces je tedy možno obecně chápat jako pojem pro postupný tok aktivit, stav
 V této diplomové práci bude označení proces užíváno pro Business procesy(taktéž podnikový proces či obchodní proces), tedy pro popis toku činností a práce.
 
 ##Organizační struktura Sales týmu##
-Výchozí situace: Celý Sales tým spadá pro víceprezidenta globálních prodejů (VP of Global Sales). Pod ním stojí ředitelé (Directors), kteří mají na starost jednotlivé týmy, respektive jednotlivé trhy.
-Na začátku zpracování této práce fungovali v Sales týmu 3  Global Directors a jeden Sales Director. V průběhu roku 2015 došlo v týmu k určitým změnám, které vyustíly v to, že Sales tým nyní vedou dva Global Directors. 
+Jak již bylo zmíněno v úvodu,
+Celý Sales tým spadá pod viceprezidenta globálních prodejů (VP of Global Sales). Pod ním stojí ředitelé (Directors), kteří mají na starost jednotlivé týmy, respektive jednotlivé trhy.
+Na začátku zpracování této práce fungovali v Sales týmu 3  Global Directors a jeden Sales Director. V průběhu roku 2015 došlo v týmu k určitým změnám, které vyústily v to, že Sales tým nyní vedou dva Global Directors. 
 Proto bude uvedena jenom definice odpovědností Global Directora a to z důvodu pochopení jejho odpovědností. 
 Odpovědnosti Directors, i členů týmu, jsou nadefinovány na Samepage a jsou odtud převzaty.
+
 [![](obrázky/Sales Org.png)]
 
-Nyní tedy fungují dva Global Directrosr a to:
+Nyní tedy fungují dva Global Direktors a to:
 **Global Director Renewals and Sales Ops**
 Director je zodpovědný za tým, který má na starosti veškeré operace z obnovováním běžícího businesu (SWM licence atd.), ale také Direct Chanel jehož hlavním cílem je získávát nové zákazníky a partnery. 
 **Global Director Distribution Sales**
