@@ -325,58 +325,68 @@ Každý proces byl jiný, jinak napsaný, měl jiné náležitosti, podle toho, 
 
 **Řešení**
 
-Je potřeba vytvořit jasná pravidla podle kterých se bude proces tvořit a kde bude nadefinováno, jaké náležitosti proces musí mít.
+Je potřeba vytvořit jasná pravidla podle kterých se budou procesy tvořit a kde bude nadefinováno, jaké náležitosti proces musí mít.
 
-Výše uvedená řešení byla shrnuta v průběhu přepisu do souhrného dokumentu Global Gudiance, kde byly jednotlivá řešení problému nadefinována. Jsou zde nadefinované barvy pro role, kterých se proces týká, je zde nadefinován lay-out procesu a stejně tak náležitosti, které by měla procesní deskripce obsahovat.
-Podobě Global Gudiance bude věnována pozornost ještě později.
+Výše uvedená řešení byla shrnuta v průběhu přepisu do souhrného dokumentu Global Guidance, kde byly pravidla nadefinována. Jsou zde nadefinované barvy pro role, kterých se proces týká, je zde nadefinováno rozložení procesu a stejně tak náležitosti, které by měl procesní popis obsahovat.
+Podobě Global Guidance bude věnována pozornost ještě později-
 
 **Příklad**
 
-Procesy mají jasně definované sekce, to je notně zpřehlednilo. 
-[obrázek porovnání starého z novým Increase of partner level]
+Procesy nyní mají jasně definované sekce, což to je notně zpřehlednilo. 
+
+[obrázek porovnání starého z novým Increase of partner level] -> vybrat jiný
 
 ###Pátý problém###
 Procesy jsou dlouhé, mnohdy nesrozumitelné, proto je většina členů Sales týmu nečte, i přesto, že zadávání informací do systému, či zpracování jednotlivých úkonů v určitém pořadí je pro správnost dat v systému klíčové.
 
 **Řešení**
 
-Řešením v tomto případě je revize všech procesů, kontrola jejich správnosti, vytřídění nepotřebných informací do separátní sekce procesu a zanechání pouze čisté procesní deskripce, která bude krátká, vystížná a bude obsahovat pouze kroky nutné k úspěšnému vykonání procesu od začátku do konce.
+Řešením v tomto případě je revize popisu všech procesů, kontrola jejich správnosti, vytřídění nepotřebných informací do zvláštní sekce procesu a zanechání pouze čistého procesního popisu, který bude krátký, výstižný a bude obsahovat pouze kroky nutné k úspěšnému vykonání procesu od začátku do konce.
 Dalším pomocníkem je zvýraznění důležitých pasáží procesu, aby bylo možné proces číst dvěma způsoby:
-1. pokud se potřebuji s procesem seznámit, je nový, čtu proces celý
-2. pokud se potřebuji ujisti o dalším kroku, je možné rychle přečíst text pomocí zvýrazněných klíčových slov - povětšinou akce a objekt k akci určený.
+
+- 1. pokud se potřebuji s procesem seznámit, je nový, čtu proces celý
+- 2. pokud se potřebuji ujisti o dalším kroku, je možné rychle přečíst text pomocí zvýrazněných klíčových slov - povětšinou akce a objekt k akci určený.
 
 **Příklad**
+Jako příklad je zde uvedena procesní popis, který sloužil pro partnerskou registraci. Tento proces byl v průběhu revize procesních popisů aktualizován a měněn hned několikrát, proto je mu věnována samostatná část této práce.
 ![](obrázky/Direct  + indirec Samepage.png)
 
 ###Šestý problém###
 Špatné třídění procesů. Jak je vidět na obrázku níže, procesy vznikaly velmi genericky, byla zde snaha je roztřídit do skupin, nicméně po čase skupiny přestaly odpovídat a postupným vnořováním jednoho procesu do druhého, respektive stránky do druhé, vznikaly zmatky.
-Lze vidět že Sales procesy byly promíchány s procesy, které jsou čístě pro systém KISS, dále pak jsou promíchány i speciální procesy pro Samepage.
- ![](Obrázky na roztřízení/Struktura procesu stará.png)
+Lze vidět, že procesy pro Sales tým byly promíchány s procesy, které jsou čistě pro systém KISS, dále pak jsou promíchány i speciální procesy pro systém Samepage.
+ 
+![](Obrázky na roztřízení/Struktura procesu stará.png)
+
+Poznámka: tento obrázek je uveden v textu jen pro ilustraci, v plném rozsahu je uveden v příloze této práce.
 
 **Řešení**
 
-Řešením v tomto případě je nepochybně setřídění procesů do smysluplných celků. Dále je potřeba vytřídit procesy, které už se nepoužívají a ty pak přesunout do složky archivu, kterou je potřeba také vytvořit. U setřídění je potřeba také překontrolovat práva, která jsou udělena na jednotlivé stránky, aby bylo zajištěno, že ti pracovníci, kterým jsou procesy určeny se na ně dostanou. U Archivu pak bude přístup zamezen, aby nedocházelo k případnému zmatení.
+Řešením v tomto případě je setřídění procesů do smysluplných celků. Dále je potřeba vytřídit procesy, které už se nepoužívají a ty pak přesunout do složky archivu, kterou je potřeba také vytvořit. U setřídění je potřeba také překontrolovat práva, která jsou udělena na jednotlivé stránky, aby bylo zajištěno, že ti pracovníci, kterým jsou procesy určeny k nimi nadále budou mít přístup. U Archivu pak bude přístup zamezen, aby nedocházelo k případnému zmatení.
 
-Dále je potřeba vzít v úvahu i rozdělení společností a to také to že společnost Samepage bude mít svůj vlastní CRM systém.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   Proto budou zvlášť vytříděny procesy pro zpracování zákazníků SIO - s těmi to se dále pracovat nebude, protože momentálně není možné rozhodnout, které z nich jsou dále pro Kerio Sales tým relevantní, a které ne.(* Tato problematika byla projednána ze Sales Directorem, který toto měl na starosti, tyto procesy pro společnost Kerio momentálně nejsou prioritní)
+Dále je potřeba vzít v úvahu i rozdělení společností a také to, že společnost Samepage bude mít svůj vlastní CRM systém.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   Proto budou zvlášť vytříděny procesy pro zpracování zákazníků SIO - s těmito se dále pracovat nebude, protože momentálně není možné rozhodnout, které z nich jsou dále pro Kerio Sales tým relevantní, a které ne.(* Tato problematika byla projednána s odpovědným ředitelem, a bylo zjištěno, že tyto procesy pro společnost Kerio momentálně nejsou prioritní)
 
-Třetí složkou, která bude vyčleněna, bude složka obsahující procesy, které jsou vykonávány pouze v systému KISS. Tyto procesy jsou prováděny povětšinou rolí Sales Ops, proto je lepší je ze Sales procesů vyčlenit.
+Třetí složkou, která bude vyčleněna, bude složka obsahující procesy, které jsou vykonávány pouze v systému KISS. Tyto procesy jsou prováděny povětšinou rolí Sales Ops, proto je možné pro větší přehlednost Sales procesů tyto procesy vytřídit do samostatné složky.
 
-[Obrázek nové struktury]]
+[Obrázek nové struktury] -> jenom struktura úvodní strany
+
 V Sales procesech tedy zůstanou procesy relevantní pro členy Sales týmu.
 
-Sales procesy jsou dále členěny takto:
-- **Account management**- tato složka obsahuje procesy vztahující se přímo k Accountu- tedy k zákazníkovi, respektive k partnerovi
--**Cases** - obsahuje procesy, které se vztahuji k objektu Case 
-- **Lead** management - obsahuje procesy, které zpracovávají Leady
-- **Opportunity management** - zahrnuje procesy, kde na začátku stojí oportunita. Dále také opsahuje procesy, které zahrnují další možné akce na objektu Opportunita
-- **Partner management** - zde jsou obsaženy procesy, které se týkají partnerů - zvyšování jejich partner levelu, registrace do partnerského portálu.
-- **Salesforce general actions** - obecné procesy, které se vztahují k systému SFDC, například jak logovat aktivity, jak Mergovat duplikáty atd.
-- **Samepage Ordering** - jediný z procesů SIO, který zůstal zařezen, vzikl po oddělení společností a je pro Kerio relevantní.
+Sales procesy jsou dále členěny takto: (Anglické názvy složek jsou zde zanechány účelně, stějně tak tomu bude v pozdějších sekcích, které již budou věnovány konkrétním popisům procesu) 
+
+- **Account management**- tato složka obsahuje procesy vztahující se přímo k objektu Account v SFDC, který byl již nadefinován výše, v základních objektech SFDC. Obsahuje procesy pro rozvoj vztahů se zákazníky.
+- **Cases** - obsahuje procesy, které se vztahuji k objektu Case, tedy zpracování požadavků od zákazníků, či partnerů 
+- **Lead** management - obsahuje procesy, které se věnují zpracování potencionálních kontaktů na zákazníky
+- **Opportunity management** - zahrnuje procesy, kde na začátku stojí obchodní příležitost. Dále obsahuje procesy, které zahrnují další možné akce s danou příležitostí.
+- **Partner management** - zde jsou obsaženy procesy, které se týkají partnerů - zvyšování jejich úrovně partnerství, registrace do partnerského portálu atd.
+- **Salesforce general actions** - obecné procesy, které se vztahují k systému SFDC, například jak zadávat vykonané aktivity do systému SFDC, jak spojovat duplicitní záznamy atd.
+- **Samepage Ordering** - jediný z procesů SIO, který zůstal zařazen mezi Sales procesy. Popisuje objednávací proceduru produktu Samepage pres interní systém KISS.
 - **Operational Processes** - Obecné operativní procesy
 
 Nové složky v roce 2016:
-- **Data synchronization from SFDC to KISS** - vysvětlují jak funguje tato synchronizace a v jakých případech je potřeba do ní zasáhnout manuálně
--**Kerio Cloud processes**- celá skupina nových procesů, které již sou tvořeny v souladu s GG
+- **Data synchronization from SFDC to KISS** - tyto procesní popisy vysvětlují jak funguje synchronizace mezi těmito dvěma systémy a v jakých případech je potřeba do ní zasáhnout manuálně
+-**Kerio Cloud processes**- celá skupina nových procesů, které se věnují nově poskytované službě Connect v klaudu.
+
+Nové procesní popisy jsou již tvořeny plně v souladu s Global Guidance.
 
 ###Sedmý problém###
 Přehlednost procesu, tím že se často opakují, často se může stát, že pracovník nemůže rychle najít, jak pokračovat. Rozhodující informace se v tu chvíli ztratí v přehršli textu.
