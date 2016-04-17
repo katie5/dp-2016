@@ -214,7 +214,6 @@ Je odpovědné za veškeré operace, které je nutné provést v systému KISS a
 
 - **Partner Account/Senior Account Manager (Pam)** - Reaguje na všechny požadavky, které přicházejí ze strany partnerů či SM. Proaktivně spravuje požadavky na obnovy licencí zákazníka a dále je odpovědná za partnerské certifikace. Partnerské certifikace jsou po partnerech společnici vyžadovány, odvíjí se od nich úroveň partnerství. Na základě dosažené úrovně partnerství se pak zakládá sleva, kterou firma partnerovi poskytuje. V souhrnu se dá říci, že jejím cílem je udržet a dále rozvíjet stávající obchod. Spadá do týmu Renewals and Sales Operations
  
-(poznámka pod čaru: na základně dosažených certifikací se měni Partner Level a od něj se odvíjí Parnterská sleva.)
 
 - **Inside Sales Channel Manager (SM)** - Má nastarosti nabírání nových partnerů a jejich menežování v určeném regionu, tréningy, interní kvartální reporting.
 Tato role spadá do týmu Distribution
