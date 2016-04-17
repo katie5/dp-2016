@@ -212,25 +212,26 @@ Stejně jako je důležité mít vymezeny odpovědnosti ředitele, je potřeba n
 Je odpovědné za veškeré operace, které je nutné provést v systému KISS a týkají se zejména licencí  či fakturace. Mezi vybrané operace patří: změny na licenci, manuální zpracování objednávky, refundace, požadavky na NFR*. Tato role spadá do týmu Renewals and Sales Operations.
 *vysvětlivka - NFR - Not for Resale. Tyto licence jsou jednou z výhod partnerského systému Kerio. Kromě využití v každodenním provozu má partner možnost produkty Kerio otestovat, použít je k demoverzi u zákazníků nebo ke školením.
 
-- **Partner Account/Senior Account Manager (Pam)** - Reaguje na všechny požadavky, které přicházejí ze strany partnerů či SM. Proaktivně spravuje požadavky na obnovy licencí zákazníka a dále je odpovědná za partnerské certifikace. Partnerské certifikace jsou po partnerech společnici vyžadovány, odvíjí se od nich úroveň partnerství. Na základě dosažené úrovně partnerství se pak zakládá sleva, kterou firma partnerovi poskytuje. V souhrnu se dá říci, že jejím cílem je udržet a dále rozvíjet stávající obchod. Spadá do týmu Renewals and Sales Operations
+- **Partner Account/Senior Account Manager (Pam)** - Reaguje na všechny požadavky, které přicházejí ze strany partnerů či SM. Proaktivně spravuje požadavky na obnovy licencí zákazníka a dále je odpovědná za partnerské certifikace. Partnerské certifikace jsou po partnerech společnosti vyžadovány, odvíjí se od nich úroveň partnerství. Na základě dosažené úrovně partnerství se pak zakládá sleva, kterou firma partnerovi poskytuje. V souhrnu se dá říci, že jejím cílem je udržet a dále rozvíjet stávající obchod. Spadá do týmu Renewals and Sales Operations
  
 
-- **Inside Sales Channel Manager (SM)** - Má nastarosti nabírání nových partnerů a jejich menežování v určeném regionu, tréningy, interní kvartální reporting.
-Tato role spadá do týmu Distribution
+- **Inside Sales Channel Manager (SM)** - Má na starosti nabírání nových partnerů a jejich vedení v příslušném regionu, tréningy, interní kvartální reporting atd.
+Tato role spadá do týmu Distribution.
 
-- **Distribution manager (SM)** - Je v úzkém kontaktu s Distributory. Realizuje prodejní strategii v daném regionu, koordinuje akce Distributorů a jejich kampaně. Získává nové partnery a navštěvuje akce Distributorů. Spadá do týmu Distribution
+- **Distribution manager (SM)** - Je v úzkém kontaktu s Distributory. Realizuje prodejní strategii v daném regionu, koordinuje akce Distributorů a jejich kampaně. Získává nové partnery a navštěvuje akce Distributorů. Spadá do týmu Distribution.
 
 - **Inside Sales Representative (ISR)** - Získává nové reselery ve specifických oblastech, zpracování partnerských požadavků a registrací z těchto oblastí, Lead managament. Spadá do týmu Distribution
 
-- **Sales/Senior Sales/ Manager (SM)** - Úzce spolupracuje s partnery, hlavně přímými. Pravidelně je navštevuje, je odpovědný za plánování pro partnery a určování dlouhodobých cílů. Spadá do týmu Direch and Channel
+- **Sales/Senior Sales/ Manager (SM)** - Úzce spolupracuje s partnery, hlavně přímými. Pravidelně je navštěvuje, je odpovědný za plánování pro partnery a určování dlouhodobých cílů. Spadá do týmu Direch and Channel
 
-- **Inside Sales Manager (ISM)** - Zpracovává zejména Leady, tedy informace o potencionálních zákaznících - ty vyhodnocuje a dále s nimi pracuje dle procesu. Ism zpracovává i řadu Casu - spojených zejména s provozními požadavky. Spadá do týmu Direch and Channel.
+- **Inside Sales Manager (ISM)** - Zpracovává zejména kontakty na potencionální zákazníky - ty vyhodnocuje a dále s nimi pracuje dle procesu. ISM zpracovává i řadu případů provozního charakteru. Spadá do týmu Direch and Channel.
 
 - **Sales/Senior Sales/ Engineer (SE)** - Má na starosti všechny pre-sales technické činnosti s partnery a koncovými zákazníky. Také poskytuje produktová školení partnerům na přiřazeném území. SE je přítomen ve všech týmech
 
 Je opět nutno podotknout, že charakteristiky jednotlivých Sales rolí, byly nalezeny na SIO v průběhu přepisu procesů do nového tvaru. 
 Na začátku tedy vznikal často problém, určit člověka odpovědného za proces a poté roli, která má proces vykonávat.
 
+Obecně lze říci že tým Renewals adn Sales má na strárosti stávající obchod, Channle má na starosti získávání nových obchodních příležitostí a týmd Distribution v sobě kloubí oboje.
 
 #Původní procesy#
 V této části bude charakterizována původní dokumentace, shrnuty identifikované problémy spolu s možnými řešeními.
