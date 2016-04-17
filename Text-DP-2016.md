@@ -204,6 +204,7 @@ Vybranými odpovědnostmi ředitele jsou:
 
 Pro účely této práce je důležité si povšimnout bodu 2, konkrétně toho, že ředitel je odpovědný na definici procesů pro svůj tým.
 
+Obecně lze říci že tým Renewals adn Sales má na strárosti stávající obchod, Channle má na starosti získávání nových obchodních příležitostí a týmd Distribution v sobě kloubí oboje.
  
 ##Role v Sales týmu##
 Stejně jako je důležité mít vymezeny odpovědnosti ředitele, je potřeba nadefinovat i náplň práce a odpovědnosti jednotlivý rolí v Sales týmu. V současné chvíli v Sales týmu fungují tyto role:
@@ -231,7 +232,6 @@ Tato role spadá do týmu Distribution.
 Je opět nutno podotknout, že charakteristiky jednotlivých Sales rolí, byly nalezeny na SIO v průběhu přepisu procesů do nového tvaru. 
 Na začátku tedy vznikal často problém, určit člověka odpovědného za proces a poté roli, která má proces vykonávat.
 
-Obecně lze říci že tým Renewals adn Sales má na strárosti stávající obchod, Channle má na starosti získávání nových obchodních příležitostí a týmd Distribution v sobě kloubí oboje.
 
 #Původní procesy#
 V této části bude charakterizována původní dokumentace, shrnuty identifikované problémy spolu s možnými řešeními.
