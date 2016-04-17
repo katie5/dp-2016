@@ -233,56 +233,45 @@ Je opět nutno podotknout, že charakteristiky jednotlivých Sales rolí, byly n
 Na začátku tedy vznikal často problém, určit člověka odpovědného za proces a poté roli, která má proces vykonávat.
 
 
-#Původní procesy#
+#Původní procesní dokumentace#
 V této části bude charakterizována původní dokumentace, shrnuty identifikované problémy spolu s možnými řešeními.
 
 Předtím, než byly zahájeny práce na unifikaci procesů, bylo potřeba provést následující operace:
-- seznámit se se systémem SFDC, KISS a pochopit jejich propojenost s dalšími systémy
-- projít, přečíst a pochopit stávající procesy
+- seznámit se se systémem SFDC, KISS a pochopit jejich propojení s dalšími systémy
+- identifikovat problémy ve stávajících procesech
 - ujasnit si formát, do jakého budou procesy unifikovány a zároveň s tím odstranit či minimalizovat identifikované problémy
 
 Jak již bylo zmíněno v úvodu, procesy začaly vznikat v době, kdy se Kerio rozhodlo používat pro správu svých zákazníků další systém a to SFDC. 
 
-
-V průběhu práce s procesy, byly identifikovány tyto problémy:
-
-V průběhu příprav na přepracování procesních deskripcí byly identifikovány tyto problémy. K problémům je zároveň přiřazeno i navrhované řešení a příklady realizace tohoto řešení.
+V průběhu příprav na přepracování popisu procesů byly identifikovány následující problémy. K problémům je zároveň přiřazeno i navrhované řešení a příklady realizace tohoto řešení.
 
 ###První problém###
-V původních procesech nebyl jasně nadefinován vlastník procesu, což v mnohém stěžovalo situaci v průběhu přepisu. Nové verze bylo potřebovat prokonzultovat s tím daným direktorem, který je za ni odpovědný.
-Zde je nutno podotknout, že jednotlivé definice a odpovědnosti jednotlivých rolí byly nalezeny až později, paradoxně i ti, kteří je vytvořili, už zapomněli, že něco takového existuje.
+V původních procesech nebyl jasně nadefinován vlastník procesu, což v mnohém stěžovalo situaci v průběhu přepisu procesu. Nové verze bylo potřeba prokonzultovat s daným vlastníkem procesu, který je za ni odpovědný. Z výše uvedeného popisu odpovědností ředitele, je jasné, že pro ověření procesu bylo potřeba kontaktovat ředitele.
+
+Pro úplnost je uvedena obecná definice vlastníka procesu:
+
+**Vlastník procesu** - představuje konkrétní osobu, která je odpovědná za realizaci procesu, jeho aktualizaci a zlepšování". Vlastník procesu má možnost provádět požadované změny v procesu aby dosáhl cílů procesu.(zdroj)
 
 **Řešení**
 
-K procesům je potřeba přidat jasnou definici process ownera/business ownera procesu, který je odpovědný za jeho definici a posléze i za schvalování změn v tomto procesu. 
-Dále je potřeba udržovat popisy pracovních rolí aktuální.
+Ke každému procesnímu popisu je potřeba přidat jasnou definici vlastníka procesu, který je odpovědný za jeho definici a posléze i za schvalování změn v tomto procesu. 
 
-Busines owner definuje - navrhuje higlevel proces, určuje role, které budou proces provádět, schvaluje a navrhuje změny v procesu
-
-Proces owner - rozvádí higlevel proces do detajlních procesních kroků, které je potřeba vykonat, aby proces proběhnul. Je odpovědny za udržování aktuálnosti této dokumentace.
- 
-Ke každému procesy tedy byla na záčátek přidáná sekce, ve které je nadefinován Busines owner - povětšinou Director, či VP, 
-(ve většině případe bylo snahou uvádě přímo jméno. Po mnohých změnách bylo uvažováno o tom jména nahradit jména raději pracovní pozicí)
-a process owner - ta je nadefinována obecněji jak ES team. 
-(*v nejbliží době bude nahrazeno buď pracovní pozicí)
+Ke každému procesnímu popisu byla na začátek přidána sekce, ve které je nadefinován vlastník procesu - povětšinou je to jeden z ředitelů, či přímo viceprezident. Vlastník je vždy uveden jménem. Zde je potřeba uvažovat i případné změny ve vedení Sales týmu. Bylo zvažováno jména nahradit funkcí vlastníka procesu.
 
 **Příklad**
+
 [Obrázek SPR před a po jenom část kde je nadefinovaný owner]
 
-Obecné definice pojmu:
+V procesních popisech, které byly předmětem této diplomové práce lze v případě procesů pro Sales tým rozlišovat dva vlastníky.
+Vlastníka ze strany Sales týmu, čili ředitele, který nadefinuje hrubý obsah proces a požadovaný výstup. Na pracovních ES týmu je pak tuto představu rozvést do příslušných procesních kroků, případně nastavit systém SFDC odpovídajícím způsobem.
+Proto se v kolonce vlastník procesu, může vedle odpovědného ředitele objevit i druhý vlastník a to ES tým. 
 
-"**Vlastník procesu** - představuje konkrétní osobu, která je odpovědná za realizaci procesu, jeho aktualizaci a zlepšování".Proces owner má možnost provádět požadované změny v procesu aby dosáhl cílu procesu.
-
-["**Busines owner** - rozhoduje o procesech v celé obchodní sféře, typické rozhodnutí pro tento orgán zahrnuje:
-- odpovědnost za konečný návrh procesů a klíčových ukazatelů výkonosti
-- odpovědnost za úspěšnou relaizaci společných postupů v rámci celého podniku]
-
-Definice Ownera je jedmím z atributů, kterým je proces definován. Obecnými základnimi atributy, které definují proces pak podle Basla(2002) jsou:
+Definice vlastníka je jedním z atributů, kterým je proces definován. Obecnými základnami atributy, které definují proces pak podle Basla(2002) jsou:
 - **Hranice procesu** - mají svůj začátek a konec
 - **Vstupy a výstupy procesu** - **vstupy** jsou inicializační události zahajující proces. **Výstup** je chápan jako produkt procesu, který je doručený zákazníkovi. Výstup zároveň ukončuje činnost procesu. Je nutné zaručit homogenitu vstupů a výstupů procesů.
 - **Majitel procesu** - člověk odpovědný za efektivitu procesu.
 - **Zákazník procesu** - osoba, organizace nebo následný proces, který je příjemce vstupu z předchozího procesu.
-- **Zdroje** - jsou to pracovní prostředky, lidská práce a informace. Zdroje se nespotřepobávají jednorázově , ale jsou užívány opakovaně (postupně).
+- **Zdroje** - jsou to pracovní prostředky, lidská práce a informace. Zdroje se nespotřebovávají jednorázově , ale jsou užívány opakovaně (postupně).
 - **Regulátory řízení** - systém pravidel a norem , zákonů, směrnic které jsou potřebné pro realizaci požadovaného výstupu
 
 ###Druhý problém###
