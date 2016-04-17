@@ -202,7 +202,7 @@ Vybranými odpovědnostmi ředitele jsou:
 - Oslovování potencionálních partnerů
 - Vedení Sales týmu v daném regionu
 
-Pro účely této práce je důležité si povšimnout bodu 1, konkrétně toho, že ředitel je odpovědný na definici procesů pro svůj tým.
+Pro účely této práce je důležité si povšimnout bodu 2, konkrétně toho, že ředitel je odpovědný na definici procesů pro svůj tým.
 
  
 ##Role v Sales týmu##
