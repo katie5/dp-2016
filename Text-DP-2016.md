@@ -9,7 +9,7 @@
 
 **Sídlo**: Anglické nábřeží 1, PSČ 301 49 Plzeň
 
-Společnost Kerio Technologies, s. r. o. (dále jen Kerio) zvnikla v roce 1997 v Plzňi v České republice. Nyní má hlavní sídlo ve městě San Jose ve státě California ve Spojených státech amerických (USA). Pobočky se pak dále nacházejí ve Velké Británii, České republice, Austrálii a Brazílii.
+Společnost Kerio Technologies, s. r. o. (dále jen Kerio) zvnikla v roce 1997 v Plzni v České republice. Nyní má hlavní sídlo ve městě San Jose ve státě California ve Spojených státech amerických (USA). Pobočky se pak dále nacházejí ve Velké Británii, České republice, Austrálii a Brazílii.
 
 **Základní kapitál**: 100 000 Kč
 
@@ -206,12 +206,13 @@ Pro účely této práce je důležité si povšimnout bodu 2, konkrétně toho,
 
  
 ##Role v Sales týmu##
- Je důležité mít nadefinováno jednotlivé role - co která vykonává a za co je odpovědná. V současné chvíli v Sales týmu fungují tyto role:
+Stejně jako je důležité mít vymezeny odpovědnosti ředitele, je potřeba nadefinovat i náplň práce a odpovědnosti jednotlivý rolí v Sales týmu. V současné chvíli v Sales týmu fungují tyto role:
  
-- **Sales Operation Specialist (Sales Ops)** - Povětšinou jsou odpovědné za veškeré operace, které je nutné provést v KISSu, povětšinou manuálně, a týkají se zejména licencí  či fakturace. (změny na licenci, objednávky - zrušení, refundace, NFR requesty*). Tato role spadá do týmu Renewals and Sales Operations
-*vysvětlivka - NFR - Not for Resale. Tyto licence jsou jednou z výhod partnerského systému Kerio. Kromě využití v každodenním provozu má parnter možnost produkty Kerio otestovat, použít je k demoverzi u zákazníků nebo ke školením.
+- **Sales Operation Specialist (Sales Ops)** 
+Je odpovědné za veškeré operace, které je nutné provést v systému KISS a týkají se zejména licencí  či fakturace. Mezi vybrané operace patří: změny na licenci, manuální zpracování objednávky, refundace, požadavky na NFR*. Tato role spadá do týmu Renewals and Sales Operations.
+*vysvětlivka - NFR - Not for Resale. Tyto licence jsou jednou z výhod partnerského systému Kerio. Kromě využití v každodenním provozu má partner možnost produkty Kerio otestovat, použít je k demoverzi u zákazníků nebo ke školením.
 
-- **Partner Account/Senior Account Manager (Pam)** - Reaguje na všechny požadavky, které příjdou ze strany partnerů či SM. Proaktivně spravuje renewal opportunity (obnova licence) a dále je odpovědná za partnerské certifikace. Spadá do týmu Renewals and Sales Operations
+- **Partner Account/Senior Account Manager (Pam)** - Reaguje na všechny požadavky, které přicházejí ze strany partnerů či SM. Proaktivně spravuje požadavky na obnovy licencí zákazníka a dále je odpovědná za partnerské certifikace. Partnerské certifikace jsou po partnerech společnici vyžadovány, odvíjí se od nich úroveň partnerství. Na základě dosažené úrovně partnerství se pak zakládá sleva, kterou firma partnerovi poskytuje. V souhrnu se dá říci, že jejím cílem je udržet a dále rozvíjet stávající obchod. Spadá do týmu Renewals and Sales Operations
  
 (poznámka pod čaru: na základně dosažených certifikací se měni Partner Level a od něj se odvíjí Parnterská sleva.)
 
