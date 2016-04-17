@@ -275,35 +275,50 @@ Definice vlastníka je jedním z atributů, kterým je proces definován. Obecn�
 - **Regulátory řízení** - systém pravidel a norem , zákonů, směrnic které jsou potřebné pro realizaci požadovaného výstupu
 
 ###Druhý problém###
-Dalším možným problémem a zároveň omezením je, že všechny procesní deskripce se nacházejí v produktu Samepage, který společnost Kerio využívá pro spolupráci.
-Nevýhody:
+Dalším problémem a zároveň omezením je, že všechny procesní popisy se nacházejí v produktu Samepage, který společnost Kerio využívá pro spolupráci.
+
+Nevýhody použití tohoto produktu s dlouhodobého hlediska:
  -  produkt SIO se pořád vyvíjí a mění
  -  vyhledávání v SIO není dokonalé - existují zde spousty vytvořených dokumentů, ve kterých se těžko hledá, pokud není klíčové slovo velmi výstižné
 
 **Řešení**
 
-Důležité je sjednotit  lay-out procesních deskripcí. Vzhledem k tomu že se produkt stále vyvíjí, je potřeba ho zanechat jednoduchý, připravený na případnou migraci do nového prostředí.
+Důležité je sjednotit rozložení procesních popisů na stránce a to z důvodu kompatibility s další verzí SIO. Vzhledem k tomu že se produkt stále vyvíjí, je potřeba popis zanechat jednoduchý, připravený na případnou migraci do nového prostředí.
 U přepisu je také potřeba brát ohled na správné pojmenování procesu a tím se pokusit vylepšit vyhledávání na SIO. Pokud budou správně použitá klíčová slova, vyhledávání by mělo být jednodušší.
 
 Krajním možným řešením je najít jiný nástroj ve kterém by se procesní deskripce udržovaly, pokud SIO přestane vyhovovat.
  
 **Příklad**
 
-Mnohé procesy byly rozprostřeny až do třech sloupců, byly sjednoceny do jednoho. Pravidla pro psaní byly upraveny v pravidlech.
- [obrázek pravidel]
+Mnohé procesy, které původně byly rozprostřeny až do třech sloupců, byly sjednoceny do jednoho sloupce. Pravidla pro psaní procesů a jejich rozložení na stránce byly definovány v pravidlech.
+ 
+[obrázek pravidel]
+
+V mnoha případech pak došlo i ke změně pojmenování původního procesního popisu.
+
+**Příklad**
+Jedním z procesů, která byl přejmenován, se zabývá nominováním partnera do vyhledávače partnerů, který má společnost Kerio na svých stránkách a zároveň zvášením jeho partnerské úrovně.
+
+**Název původního procesu** - Nomination to Partner Portal Locator
+**Nový název**- Increase of partner level
+
+Název byl změněn po poradě ze Sales týmem, kdy bylo zjištěno, že zvýšení partnerské úrovně, je v souvislosti s výsledky certifikací napadne dřív, než nominace do vyhledávače partnerů.
 
 ###Třetí problém###
 V původních procesních popisech nebylo jasně definováno, kdo mám proces vykonávat.
-Na základě výše uvedených atributu procesu lze konstatovat, že v procesech chyběl definovaný zdroj.
+Na základě výše uvedených atributů procesu lze konstatovat, že v procesech chyběl definovaný zdroj.
 
 **Řešení**
 
-V procesech je potřeba tyto role, zdroje, definovat. V úvahu připadá definice rolí na základě barev. Tyto definice je potřeba pak globálně udržovat a dodržovat jejich používání. Toto použití je potřeba ukotvit v obecných pravidlech psaní procesů.
+V procesech je potřeba tyto role, zdroje, definovat. Po zvážení několika variant byla zvolena definice rolí na základě barev. Tyto definice je pak potřeba globálně udržovat a dodržovat jejich použítí. Toto použití je potřeba ukotvit v obecných pravidlech psaní procesů.
 
 **Příklad**
 
-Jednotlive role, či zdroje, jsou definovány barvami v Global Gudiance. Níže je vidět jak ukázka z Global Gudinace, tak porovnání starého a nového procesu.
+Jednotlivé role, resp. zdroje, jsou definovány barvami v dokumentu Global Guidance. Níže je vidět jak ukázka z Global Gudinace, tak porovnání starého a nového procesu.
+
 [obrázek starého Refund Policy, obrázek nového,]
+
+Z nové verze procesu je, dle Globa Guidance jasné, že proces je prováděn zejména rolí PAM.
 
 ###Čtvrtý problém###
 Každý proces byl jiný, jinak napsaný, měl jiné náležitosti, podle toho, kdo ho vytvořil (napsal)
