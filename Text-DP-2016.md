@@ -527,9 +527,7 @@ Procesní šablona má v základu tyto čtyři části (textové komponenty):
 
 Nyní budou rozebrány jednotlivé sekce, které se v šabloně vyskytují. Opět jsou zde účelně ponechány anglické názvy sekcí.
 
-- **Process Owner(s):**
-
-Jsou zde uvedena jména těch, kdo jsou za proces zodpovědní. Většinou je zde jedno jméno, povětšinou ředitele odpovědného za proces a poté je zde uváděn ES team, jako zodpovědná osoba za údržbu procesu a případná nastavení v systému.
+- **Process Owner(s):**Jsou zde uvedena jména těch, kdo jsou za proces zodpovědní. Většinou je zde jedno jméno, povětšinou ředitele odpovědného za proces a poté je zde uváděn ES team, jako zodpovědná osoba za údržbu procesu a případná nastavení v systému.
 
 - **Overview**: 
 Krátké shrnutí k čemu proces slouží a proč je nutné ho provádět podle níže uvedených kroků. Do této sekce se také můžu uvádět další důležité informace jako například - kdy proces použít nelze atd.
