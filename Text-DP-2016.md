@@ -422,14 +422,14 @@ Global Guidance je souhrnný dokument, který má sloužit jako průvodce při p
 
 Tento průvodce je rozčleněn do následujících částí, anglické názvy sekcí jsou zde ponechány účelně.
 
-**Overview**
+###Overview###
 
 Tato sekce obecně obsahuje informace o tom, co lze na stránce najít, případně odkazy na další přidružené stránky s důležitými informacemi.
 V tomto případě se v této sekci nachází odkaz na šablonu- (__Template_) pro psaní procesů, které se budeme věnovat později.
 
 ![](obrázky/Overview.png)
 
-**Definiton of colors used**
+###Definiton of colors used###
 
 Tato sekce obsahuje definice jednotlivých barev, které se v procesech vyskytují.
 
@@ -457,7 +457,7 @@ Jako první je uvedena legenda, vysvětlující opět barvy a pak také styl pro
 
 ![](obrázky/legenda.png)
 
-**Process page map**
+###Process page map###
 
 Na této mapě je rozkreslena struktura stránek. Na hlavní stránku byla kromě tří sekcí s procesy přidána stránka s Global Guidance a také šablona (__Template_) pro tvorbu nových procesů.
 Dalšími důležitými složkami, které byly přidány, jsou složkdy Drafts a Archive.
@@ -472,7 +472,7 @@ Na mapě je pak vidět i jaké procesy se nachází uvnitř složky. Tato mapa b
 **Nedostatek**
 Kdyby bylo možné do obrázku vložit přímo odkazy na jednotlivé procesy, mohla by mapa sloužit jako rozcestník. To je ovšem jeden z dalších nedostatků SIO.
 
-**Process connection map**
+###Process connection map###
 
 Tato mapa v sobě zahrnuje hned dvě spojení - první, v této mapě méně důležité je převzato z předchozí mapy a znázorňuje propojenost podstránek. Mnohem důležitější ovšem na této mapě je znázornění propojenosti procesu mezi sebou pomocí odkazů.
 Je tady i skupinka procesů, které nejsou napojeny na další procesy vůbec. Tyto procesy nejsou používány na denní bázi, spíše občasně.
@@ -481,43 +481,51 @@ Je tady i skupinka procesů, které nejsou napojeny na další procesy vůbec. T
 
 *poznámka pod čarou - obě mapy zachycují stav v roce 2015, kterému se věnuje i tato práce. Změny v roce 2016 do map nejsou zahrnuty.
 
-Vzhledem k tomu, že detajlní popisy procesů či revize procesů vznikají v ES týmu, je dokument Global Gudiance využíván zejména pracovníky tohoto týmu. Nicméně se postupem času projevuje i snaha vlastníku procesu  ze strany Sales týmu tento dokumnet používat.
+Vzhledem k tomu, že detailní popisy procesů či revize procesů vznikají v ES týmu, je dokument Global Gudiance využíván zejména pracovníky tohoto týmu. Nicméně se postupem času projevuje i snaha vlastníku procesu  ze strany Sales týmu tento dokumnet používat.
 
 Z pohledu vlastníka procesu ze strany Sales týmu je důležitější šablona, podle která tvoří základ, kostru, každého popisu procesu a zajišťuje stejnou strukturu stránky pro všechny procesní popisy.
 
-#Template and Page Layout Rules#
+##Šablona a pravidla pro úpravu popisu procesu##
 
-Jak již název kapitoly napovídá, u šablony jsou také nadefinována pravidla pro layout procesní stránky - jedině tak jde zajistit aby každý proces vypadal stejně.
+Jak již název kapitoly napovídá, u šablony jsou také nadefinována pravidla pro rozložení procesního popisu na stránce stránky - jedině tak jde zajistit aby každý proces vypadal stejně. Nejdříve budou představena pravidla, která byla nadefinována. Názvy jednotlivých částí v angličtině jsou účelně zachovány.
 
-##Rules##
+###Rules###
+Tato sekce zahrnuje pravidla pro úpravy textu, tabulek a obrázků. Postupně budou tato pravidla rozebrána.
 
 **Text**
 
-první pravidlo se týká textu, je zde uveden link na GG která blíže specifikuje text a barvy použité v textu.
+první pravidlo se týká úpravy textu, je zde uveden odkaz na Global Guidance, která blíže specifikuje text a barvy použité v textu.
 
 **Tables**
 
-Nejdříve malé vysvětlení:
-Jedna z dalších komponent SIO, kterou jsem využívala hlavně k nadefinování stavů, jednotlivých objektů. Důležité pak zejména bylo tyto stavy shluknout na jedno místo. Stavy jsou povětšinou vyplněny ve fildu (políčko). Zjednodušeně by se tedy dalo říct, že v tabulkách jsou zachyceny vysvětlivky k jednotlivým políčkům. Mezi důležíté fildy napříklád patří Opportunity stage - u opportunity je často změnou stavu spuštěna automatická akce. Proto dokumentace těchto stavů není důležitá jen pro sales tým (vědí jak si ulehčit práci), ale také jako dokumentace pro ES tým, když dělá nějaké změny v nastavení. Nehledě na to, že Opportunit existuje v systému používáném Keriem hned několik druhů (určijí se Record Typem) a pro každý druh Opportunity jsou nadefinované trošku jiné Stage.
-[Obrázek opportunity stagi]
-Pro tabulky tedy bylo stanoveno jednoduché pravidlo, používat je v případě, kdy je potřeba vysvětlit nějako větší skupinu fildu, případně jeden field, ale mhono jeho možných stavů.
+Nejdříve malé vysvětlení, proč bylo toto pravidlo nutné zavést:
+Tabulka je jedna z dalších komponent SIO, která byla využívána hlavně k nadefinování stavů, jednotlivých objektů. Důležité pak zejména bylo tyto stavy shluknout na jedno místo. Stavy jsou povětšinou vyplněny v políčku. Zjednodušeně by se tedy dalo říct, že v tabulkách jsou zachyceny vysvětlivky k jednotlivým políčkům. Mezi důležíté políčka například patří stavy jednotlivých příležitostí - u příležitostí je navíc často změnou stavu spuštěna navazující automatická akce. Proto dokumentace těchto stavů není důležitá jen pro Sales tým (vědí jak si ulehčit práci), ale také jako dokumentace pro ES tým, když provádí nějaké změny v nastavení systému SFDC. Nehledě na to, že příležisti existuje v systému používáném Keriem hned několik druhů (určuje je tzv. Record Type) a pro každý druh příležitosti jsou pak nadefinované trošku jiné stavy. Pro lepší ilustraci, je uveden příklad stavů příležitostí, které spadají do kategorie HW Evaluation.
+
+![](obrázky/HW Eval opp stages.png)
+
+Pro tabulky tedy bylo stanoveno jednoduché pravidlo, používat je v případě, kdy je potřeba vysvětlit nějako větší skupinu políček, případně jedno políčko, které má více než jeden stav.
 
 **Pictures**
 
-Zde byly nadefinovány pravidla, pro dva, dalo by se říci typy obrázků, které se mohou vyskytovat v procesech.
-- **Screenshots** - snaha o jejich eliminaci již byla v této práci zmíněna. I v pravidlech je proto uvedeno, aby se používaly jenom v nezbytně nutných případech a pokud se použijí je potřeba použít obrázkovou komponentu SIO na konci deskripce a do deskripce umístit odkazy na příslušné obrázky.*
-(poznámka pod čarou: Toto bylo ještě do nedávna možné, ale vzhledem k tomu jak se produkt SIO vyvíjí, vkládat odkazy na obrázky už bohužel není možné. Této změně bylo přizpůsobeno i pravidlo pro sreenshoty)
-- **models** - u některých komplikovanějších procesů dává smysl umístit i model procesu. U modelu je spíše než pravidlo, uvedeno co by měl představovat a proč je užitečné ho využít.
+Zde byly nadefinovány pravidla, pro dva typy obrázků, které se mohou vyskytovat v procesních popisech.
+- **Screenshots** - Snaha o jejich eliminaci již byla v této práci zmíněna. I v pravidlech je proto uvedeno, aby se používaly jenom v nezbytně nutných případech a pokud se použijí je potřeba použít obrázkovou komponentu SIO na konci popisu procesu a do popisu pak umístit odkazy na příslušné obrázky.*
+(poznámka pod čarou: Toto bylo ještě do nedávna možné, ale vzhledem k tomu jak se produkt SIO vyvíjí, vkládat odkazy na obrázky už bohužel není možné. Této změně bylo přizpůsobeno i pravidlo pro snímky obrazovky)
+- **models** - U některých komplikovanějších procesů dává smysl umístit i model procesu. U modelu je spíše než pravidlo, uvedeno co by měl představovat a proč je užitečné ho využít.
 
-**Collumn**
+**Column**
 
-Nejdůležitější pravidlo. Pro procesy je teď nadefinováno používat pouze jeden sloupec (SIO umožnuje používat až 3 sloupce). Toto pravidlo je zvoleno s čistě bezpečnostního hlediska. Jak již bylo uvedeno v předchozím pravidle, SIO se neusátle mění. A nikde není řečeno že 3 sloupce budou existovat pořád. Toto řešení je zvoleno i pro případnou migraci do novější verze SIO - minimálně jeden sloupec tam bude vždycky.
-[obrázek Rules]
+Pro procesy je teď nadefinováno používat pouze jeden sloupec (SIO umožňuje používat až 3 sloupce). Toto pravidlo je zvoleno s čistě bezpečnostního hlediska, případné kompatibility s novějšími verzemi systému SIO. Jak již bylo uvedeno, SIO se neustále mění. A nikde není řečeno že 3 sloupce budou existovat pořád. 
+
+![](obrázky/Template   Rules.png)
 
 ##Tempalte##
-Největší pomocník při tvorbě procesů. Šablona je již uzpůsobena zvolenému layoutu - je zde jeden sloupec a nadefinované náležitosti (atributy) procesu.
+
+Šablona je největší pomocník při tvorbě procesů. Je již uzpůsobena zvolenému rozložení procesního popisu - je zde jeden sloupec a nadefinované náležitosti (atributy) procesu.
 Procesní šablona má v základu tyto čtyři části (textové komponenty):
-[obrázek template?]
+
+![](obrázky/Template.png)
+
+Nyní budou rozebrány jednotlivé sekce, které se v šabl
 
 - **Process Owner(s):**jsou zde uvedena jména těch, kdo jsou za proces zodpovědní. Většinou je zde jedno jméno, povětšinou Sales Directora a poté je zde uváděn ES team, jako zodpovědná osoba za údržbu procesu
 (*nyná je updtovat process ownera za ES team na SFDC Admina)
@@ -526,7 +534,6 @@ Procesní šablona má v základu tyto čtyři části (textové komponenty):
 - **Process steps**: takto sekce přímo navazuje na prerekvizity, zde jsou již nadefinovány přímo kroky, které musí vykonat pracovník Sales týmu. Pro definici rolí, které mají kroky vykonat je opět potřeba použít GG, kde jsou barvy pro role nadefinovány.
 
 Dále je možné zde připojit i sekci z Ostatními informacemi, které mohou být pro proces nějak důležité. Či naopak sekci s What If situation vysvětlením, kde jsou zachyceny případné možné odchylky od procesu a jak je řešit.
-[Příklad what if situation]
 
 
 Tím že byla vytvořena GG, Template a nadefinovány základní pravidla layoutu proceu byla vyřešena většina dříve nadefinovaných problémů. 
