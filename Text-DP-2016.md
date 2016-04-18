@@ -527,9 +527,12 @@ Procesní šablona má v základu tyto čtyři části (textové komponenty):
 
 Nyní budou rozebrány jednotlivé sekce, které se v šabloně vyskytují. Opět jsou zde účelně ponechány anglické názvy sekcí.
 
-- **Process Owner(s):**jsou zde uvedena jména těch, kdo jsou za proces zodpovědní. Většinou je zde jedno jméno, povětšinou Sales Directora a poté je zde uváděn ES team, jako zodpovědná osoba za údržbu procesu
-(*nyná je updtovat process ownera za ES team na SFDC Admina)
-- **Overview**: Krátské shrnutí k čemu proces slouží a proč je nutné ho provádět podle níže uvedených kroků. Do této sekce se také můžu uvádět další důležité informace jako například - kdy proces použít nelze atd.
+- **Process Owner(s):**
+
+Jsou zde uvedena jména těch, kdo jsou za proces zodpovědní. Většinou je zde jedno jméno, povětšinou ředitele odpovědného za proces a poté je zde uváděn ES team, jako zodpovědná osoba za údržbu procesu a případná nastavení v systému.
+
+- **Overview**: 
+Krátské shrnutí k čemu proces slouží a proč je nutné ho provádět podle níže uvedených kroků. Do této sekce se také můžu uvádět další důležité informace jako například - kdy proces použít nelze atd.
 - **Prerequisites**: velmi důležitá sekce šablony. V této sekci jsou definovány vstupy do procesu, počáteční událost, která proces spustí. Případně je zde uveden další, automatický krok. Např. Partner vyplní formulář (počáteční údálost), v SFDC se vytvoří Case (automatický krok). Nebo jsou zde uváděny i podmínky, za jakých proces může začít, případně pokračovat pokud navazuje na nějaký jiný proces.
 - **Process steps**: takto sekce přímo navazuje na prerekvizity, zde jsou již nadefinovány přímo kroky, které musí vykonat pracovník Sales týmu. Pro definici rolí, které mají kroky vykonat je opět potřeba použít GG, kde jsou barvy pro role nadefinovány.
 
