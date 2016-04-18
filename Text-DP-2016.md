@@ -388,47 +388,39 @@ Nové složky v roce 2016:
 
 Nové procesní popisy jsou již tvořeny plně v souladu s Global Guidance.
 
-###Sedmý problém###
-Přehlednost procesu, tím že se často opakují, často se může stát, že pracovník nemůže rychle najít, jak pokračovat. Rozhodující informace se v tu chvíli ztratí v přehršli textu.
-
-**Řešení**
-
-Odstranění duplicit. Případné opakování vytknout do podprocesu a na ten pak v průběhu hlavního procesu odkazovat. Tím se zlepší i udržovatelnost procesu samotného - případné změny se provedou pouze na jednom místě, nebude třeba procházet množství procesů a provádět úpravy jednotlivě.
-Celkové zjednodušení procesu je již zahrnuto v řešení problému číslo pět. Všechny problémy a řešení jsou mezi sebou svým způsobem propojeny.
-
-**Příklad**
-[Připravený obrázek PPS]
 
 ###Osmý problém###
-Tím, že se procesy hodně opakují a nepoužívají se odkazy. Dochází k tomu, že jejich údržba a udržení aktuálnosti je velmi obtížná. Pokud změním krok na jednom místě, měla by se tato změna promítnout i do ostatních procesů. Dále je zde potřeba udržovat značné množství printsceeru.
+Tím, že se procesy hodně opakují a nepoužívají se odkazy, dochází k tomu, že jejich údržba a aktualizace je velmi obtížná. Pokud je změněn krok na jednom místě, měla by se tato změna promítnout i do ostatních procesů. Dále je zde potřeba udržovat značné množství ilustračních obrázků.
 
 **Řešení**
-
-Opět na sebe řešení jednotlivých problému navazují, kokrténě řešení problému číslo 7 - vytknutí opakujících se části procesu. 
-Printcreene je potřeba omezit a v průběhu přepisu se maximálního množství stávajích, neaktuálních zbavit. Je potřeba vytvořit tak jednoduchou deskripci, která bude srozumitelná a zvládnutelná i bez použití obrazové dokumentace.
+Odstranění duplicit. Případné opakování vytknout do podprocesu a na ten pak v průběhu hlavního procesu odkazovat. Tím se zlepší přehlednost i udržovatelnost procesu samotného - případné změny se provedou pouze na jednom místě, nebude třeba procházet množství procesů a provádět úpravy jednotlivě.
+Ilustrační obrázky je potřeba omezit a v průběhu přepisu se maximálního množství stávajích, neaktuálních zbavit. Je potřeba vytvořit tak jednoduchý popis, který bude srozumitelný a zvládnutelný i bez použití obrazové dokumentace.
 
 **Příklad**
 [Manage KKP access proces, tady můžu požít nová]
 
 ###Devátý problém###
-Jasná definice vstupu, která odstartuje celý proces. Respektive, tyto události byly v procesu zahrnuty, ovšem nebyly patrné na první pohled.
+Jasná definice akce, která odstartuje celý proces. Tyto události byly v některých popisech procesu zahrnuty, ovšem nebyly patrné na první pohled.
 
 **Řešení**
 
-Vyčlenění této události (která je stupem tohoto procesu a výstupem procesu předcházejícího),případných automatických kroků, nebo podmínek, které musí být splěny, než bude možné aby Sales pracovník pracoval s procesem, do separátní sekce na začátku procesu.
+Vyčlenění této události (která je vstupem tohoto procesu a výstupem procesu předcházejícího),případných automatických kroků, nebo podmínek, které musí být splněny, než bude možné aby pracovník pokračoval v procesu, do separátní sekce na začátku procesu.
 
 **Příklad**
 [Posílání Annex A - prerequsites]
 
-Všechny navrhnutá řešení výše a jejich dokumentace daly za vnik Gloubal Gudiance, která je jakýmsi návodem, jak tvořit a číst procesy ve společnosti Kerio.
-Dále byly nadefinovány pravidla pro lay-out procesu a také vytvořená šablona, kterou je možné zkopírovat a začít tvořit procesní deskripci. Šablona obsahuje i hepl text, co je potřeba zapsat do kterého políčka, případně jak pokračovat.
+Všechny navrhnutá řešení výše a jejich dokumentace daly za vnik Gloubal Guidance, která je jakýmsi návodem, jak tvořit a číst procesy ve společnosti Kerio.
+Dále byly nadefinovány pravidla pro rozložení procesu na stránce a také vytvořená šablona, kterou je možné zkopírovat a začít tvořit procesní deskripci. Šablona obsahuje i nápovědu, co je potřeba zapsat do kterého políčka, případně jak pokračovat.
+
+V následující kapitole budou tyto změny podrobněji rozebrány.
 
 #Global Gudiance#
 
-V některých výše uvedených řešeín jednotlivách problémů byl zmíněný dokument Global Gudiance (dále jen GG)
-GG je souhrný dokument, který má sloužit jako průvodce při psaní procesu, ale také při jeho čtení. (*do přílohy celou GG?)
+V některých výše uvedených řešeních problémů byl zmíněný dokument Global Guidance.
+Global Guidance je souhrnný dokument, který má sloužit jako průvodce při psaní procesu, ale také při jeho čtení. (*do přílohy celou GG?)
 
-GG je rozdělená do následujících sekcí:
+Tento průvodce je rozčleněn do následujících částí:
+* poznámka pod čáru: anglické názvy těchto sekcí jsou zde opět ponechány účelně.
 
 **Overview**
 
