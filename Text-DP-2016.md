@@ -525,29 +525,29 @@ Procesní šablona má v základu tyto čtyři části (textové komponenty):
 
 ![](obrázky/Template.png)
 
-Nyní budou rozebrány jednotlivé sekce, které se v šabloně vyskytují. Opět jsou zde účelně ponechány anglické názvy sekcí.
+Nyní budou rozebrány jednotlivé sekce a jejich obsah, které se v šabloně vyskytují. Opět jsou zde účelně ponechány anglické názvy sekcí.
 
 - **Process Owner(s):**
-Jsou zde uvedena jména těch, kdo jsou za proces zodpovědní. Většinou je zde jedno jméno, povětšinou ředitele odpovědného za proces a poté je zde uváděn ES team, jako zodpovědná osoba za údržbu procesu a případná nastavení v systému.
+Jsou zde uvedena jména těch, kdo jsou za proces zodpovědní. Většinou je zde jedno jméno, povětšinou ředitele odpovědného za proces a poté je zde uváděn ES tým, jako zodpovědná osoba za údržbu procesu a případná nastavení v systému.
 
 - **Overview**: 
-Krátké shrnutí k čemu proces slouží a proč je nutné ho provádět podle níže uvedených kroků. Do této sekce se také můžu uvádět další důležité informace jako například - kdy proces použít nelze atd.
+Jedná se o krátké shrnutí k čemu proces slouží a proč je nutné ho provádět podle uvedených kroků. Do této sekce se také můžu uvádět další důležité informace jako například - kdy proces použít nelze atd.
+
 - **Prerequisites**: 
-velmi důležitá sekce šablony. V této sekci jsou definovány vstupy do procesu, počáteční událost, která proces spustí. Případně je zde uveden další, automatický krok. Např. Partner vyplní formulář (počáteční údálost), v SFDC se vytvoří Case (automatický krok). Nebo jsou zde uváděny i podmínky, za jakých proces může začít, případně pokračovat pokud navazuje na nějaký jiný proces.
+Velmi důležitá sekce šablony. V této části jsou definovány vstupy do procesu a počáteční událost, která proces spustí. Případně je zde uveden další, automatický krok. Například: partner vyplní formulář (počáteční událost), v SFDC se vytvoří Case (automatický krok). Nebo jsou zde uváděny i podmínky, za jakých proces může začít, případně pokračovat pokud navazuje na nějaký jiný proces.
 
 - **Process steps**: 
-takto sekce přímo navazuje na prerekvizity, zde jsou již nadefinovány přímo kroky, které musí vykonat pracovník Sales týmu. Pro definici rolí, které mají kroky vykonat je opět potřeba použít GG, kde jsou barvy pro role nadefinovány.
+Sekce přímo navazuje na prerekvizity, zde jsou již nadefinovány přímo procesní kroky, které musí vykonat pracovník Sales týmu. Pro definici rolí, které mají kroky vykonat jsou použity barvy nadefinované v Global Guidance.
 
-Dále je možné zde připojit i sekci z Ostatními informacemi, které mohou být pro proces nějak důležité. Či naopak sekci s What If situation vysvětlením, kde jsou zachyceny případné možné odchylky od procesu a jak je řešit.
+Dále je možné zde připojit i sekci z tzv. __What If situation_ vysvětlením, kde jsou zachyceny možné odchylky od procesu a jak je řešit. 
 
-
-Tím že byla vytvořena GG, Template a nadefinovány základní pravidla layoutu proceu byla vyřešena většina dříve nadefinovaných problémů. 
-
-Celkem bylo předěláno XY procesů. Jako jeden z nejdůležitějších a také nejkomplikvanějších se vyjevil býr proces partnerské registrace. Proto na tomto procesu ukažu  postup svojí práce.
+Tím že byla vytvořeny výše zmíněné dokumenty, bylo dosaženo jak unifikace všech stávajících procesních popisů pro Sales tým, tak byly také stanoveny pravidla pro tvorbu budoucích procesních popisů. Díky nastavení pravidel bylo dosaženo i odstranění dříve popsaných problémů.
+  
+Celkem bylo předěláno cca 30 procesů. Jako jeden z nejdůležitějších a také nejkomplikovanějších se vyjevil být proces partnerské registrace.
 
 #Partner Portal Signup#
 
-Na tomto procesu bude demonstrováno, jak probíhal jeho postupný přepis a změna. Tento proces byl vytypovaný, jako jede z velmi důležitých procesů.
+Na tomto procesu bude přiblížen postup práce během přepisu procesních popisů. Tento proces byl vytypovaný, jako jede z velmi důležitých procesů.
 
 ##Charakteristika procesu##
 Proces má vést k úspěšnému získání nového partnera a jeho správném založení v SFDC, potažmo v KISSU. Po založení v těchto systémech jsou partnerovi poskytnuty přístupy do partnerského portálu či online storu(pokud je požaduje).
