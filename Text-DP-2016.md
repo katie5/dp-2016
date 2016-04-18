@@ -467,27 +467,30 @@ Tato složka byla vytvořena v průběhu přepisu procesu.
 Na další úrovni stránek jsou pak detailněji znázorněny jednotlivé složky Sales procesů, které byly charakterizovany jíž dříve.
 Na mapě je pak vidět i jaké procesy se nachází uvnitř složky. Tato mapa by měla sloužit pro lepší orientaci na SIO.
 
+![](obrázky/Komplexní mapa.png)
+
 **Nedostatek**
 Kdyby bylo možné do obrázku vložit přímo odkazy na jednotlivé procesy, mohla by mapa sloužit jako rozcestník. To je ovšem jeden z dalších nedostatků SIO.
-![](obrázky/Komplexní mapa.png)
 
 **Process connection map**
 
-Tato mapa v sobě zahrnuje hned dvě spojení - první, v této mapě méně důležité je převzato z předchozí mapy a znázornuně propojesnot podstránek. Mnohem důležitější ovšem na této mapě je znázornění propojenosti procesu pomocí linků.
-Je tady i skupinka procesů, které nejsou napojeny vůbec. Tyto procesy nejsou používány na denní bázi, spíše občasně.
+Tato mapa v sobě zahrnuje hned dvě spojení - první, v této mapě méně důležité je převzato z předchozí mapy a znázorňuje propojenost podstránek. Mnohem důležitější ovšem na této mapě je znázornění propojenosti procesu mezi sebou pomocí odkazů.
+Je tady i skupinka procesů, které nejsou napojeny na další procesy vůbec. Tyto procesy nejsou používány na denní bázi, spíše občasně.
 
-[obrázek procesní mapy]![](Obrázky na roztřízení/Propojení procesů.png)
-*poznámka pod čarou - mapy zachycují stav v roce 2015,kterým se věnuje i tato práce. Změny v roce 2016 do map nejsou zahrnuty.
+![](obrázky/Propojení procesů.png)
 
-Vzhledem k tomu, že většinu procesu píšu a reviduji já, případně upravuji, je Global Gudiance využívána hlavně mnou. Ovšem Busines owneři již také projevili snahu při používání tohoto dokumentu, při tvorbě návrhu procesu.
+*poznámka pod čarou - obě mapy zachycují stav v roce 2015, kterému se věnuje i tato práce. Změny v roce 2016 do map nejsou zahrnuty.
 
-z jejich pohledu je možná, než Global Gudiace, důležitější již zmiňovaná šablona, která tvoří základ, jakousi kostru, každého procesu a zajišťuje stejnou strukturu stránky pro všechny procesní deskripce.
+Vzhledem k tomu, že detajlní popisy procesů či revize procesů vznikají v ES týmu, je dokument Global Gudiance využíván zejména pracovníky tohoto týmu. Nicméně se postupem času projevuje i snaha vlastníku procesu  ze strany Sales týmu tento dokumnet používat.
+
+Z pohledu vlastníka procesu ze strany Sales týmu je důležitější šablona, podle která tvoří základ, kostru, každého popisu procesu a zajišťuje stejnou strukturu stránky pro všechny procesní popisy.
 
 #Template and Page Layout Rules#
 
 Jak již název kapitoly napovídá, u šablony jsou také nadefinována pravidla pro layout procesní stránky - jedině tak jde zajistit aby každý proces vypadal stejně.
 
 ##Rules##
+
 **Text**
 
 první pravidlo se týká textu, je zde uveden link na GG která blíže specifikuje text a barvy použité v textu.
