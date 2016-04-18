@@ -409,69 +409,71 @@ Vyčlenění této události (která je vstupem tohoto procesu a výstupem proce
 **Příklad**
 [Posílání Annex A - prerequsites]
 
-Všechny navrhnutá řešení výše a jejich dokumentace daly za vnik Gloubal Guidance, která je jakýmsi návodem, jak tvořit a číst procesy ve společnosti Kerio.
-Dále byly nadefinovány pravidla pro rozložení procesu na stránce a také vytvořená šablona, kterou je možné zkopírovat a začít tvořit procesní deskripci. Šablona obsahuje i nápovědu, co je potřeba zapsat do kterého políčka, případně jak pokračovat.
-
-V následující kapitole budou tyto změny podrobněji rozebrány.
+Všechny výše zmíněné problémy a jejich navržená řešení daly za vnik  dokumentu Gloubal Guidance, který slouží jako návod, jak tvořit a číst procesy ve společnosti Kerio.
 
 #Global Gudiance#
+ 
+(*do přílohy celou GG?)
+
+V tomto dokumentu byly také nadefinovány pravidla pro rozložení procesu na stránce a vytvořená šablona, kterou je možné zkopírovat a začít tvořit procesní popis. Šablona obsahuje i nápovědu, co je potřeba zapsat do kterého políčka, případně jak pokračovat.
 
 V některých výše uvedených řešeních problémů byl zmíněný dokument Global Guidance.
-Global Guidance je souhrnný dokument, který má sloužit jako průvodce při psaní procesu, ale také při jeho čtení. (*do přílohy celou GG?)
+Global Guidance je souhrnný dokument, který má sloužit jako průvodce při psaní procesu, ale také při jeho čtení. 
 
-Tento průvodce je rozčleněn do následujících částí:
-* poznámka pod čáru: anglické názvy těchto sekcí jsou zde opět ponechány účelně.
+Tento průvodce je rozčleněn do následujících částí, anglické názvy sekcí jsou zde ponechány účelně.
 
 **Overview**
 
-Tato sekce obecně obsahuj informaci o tom, co za informace lze na stránce najít, případně odkazy na další přidružené stránky s důležitými informacemi.
-V tomto případě se v této sekci nachází odkaz na šablonu- Template, pro psaní procesů, které se budeme věnovat později.
-[obrázek?]
+Tato sekce obecně obsahuje informace o tom, co lze na stránce najít, případně odkazy na další přidružené stránky s důležitými informacemi.
+V tomto případě se v této sekci nachází odkaz na šablonu- (__Template_) pro psaní procesů, které se budeme věnovat později.
+
+![](obrázky/Overview.png)
 
 **Definiton of colors used**
 
 Tato sekce obsahuje definice jednotlivých barev, které se v procesech vyskytují.
 
 Barvy v procesech jsou použity na dvou místech:
-1. **V nadpisech** - barva nadpisu slouží pro rozlišení rolí, zdrujů, které mají proces vykonat
-2. **V textu**- základní barvou textu je černá, kdy se pro zváraznění a přehlednost textu používá vytučnění slov.  
+1. **V nadpisech** - barva nadpisu slouží pro rozlišení rolí, zdrojů, které mají proces vykonat
+2. **V textu**- základní barvou textu je černá, kdy se pro zdůraznění a přehlednost textu používá vytučnění slov.  
 
-[obrázek barviček]
+![](obrázky/Definition of color used.png)
 
 ad 1. **Title colors**
 
-V této části je nadefinováno použití celkem pro 8 barev. Z toho 4 definují sales roli, která má vykonat dané procesní kroky. U každé definice je také použit odkaz na příslušný proces, kde je barva použita. Tyto barvy jsou v nadpisech nejpoužívanější.
-Černá barva je volena jako neutrální a je používána u overview. Zbylé tři barvy nejsou používány tak často a jsou určeny spíše pro speciální případy.
-Vysvětlení z partnerovy strany, která požívá šedivý nadpis je pak v procesech použita minimálně.
+V této části je nadefinováno použití celkem pro 8 barev. Z toho 4 definují roli, která má vykonat dané procesní kroky. U každé definice je také použit odkaz na příslušný proces, kde je barva použita. Barvy, které určují roli, která proces vykoná jsou nejpoužívanější.
+Černá barva je volena jako neutrální a je používána u sekce Overview. Zbylé tři barvy nejsou používány tak často a jsou určeny spíše pro speciální případy.
+Procesní kroky z partnerovy strany, která požívá šedivý nadpis je pak v procesech použita minimálně.
 
 ad. 2 **Colors in text**
 
-I zde jsou ke každé definici barev přidané příklady použití těchto barev. Základní barvou je černá, jak už bylo zmíněno. Další bavou, která je v textu použitá ke zvýraznění důležitých kroků je červená.
+I zde jsou ke každé definici barev přidané příklady použití těchto barev. Základní barvou je černá, jak už bylo zmíněno. Další barvou, která je v textu použitá ke zvýraznění důležitých kroků je červená.
 Změny v procesu, rozhodnutí o tom, kterou větví procesu se vydat dál jsou v procesu zvýrazněny fialovou.
 Další barvy jsou pak použity pro odkazy ať už na obrázky, nebo mezi stránkami.
-V textu je také možné najít separátně zvýrazněny kroky, které provádí systém automaticky, jeli to pro proces důležité
+V textu je také možné najít separátně zvýrazněny kroky, které provádí systém automaticky, jeli to pro proces důležité.
 
-Další významnou sekcí v GG jsou pak procesní mapy. Tyto procesní mapy by měly posloužit k lepší orientaci mezi procesy.
+Další významnou sekcí v Global Guidance jsou procesní mapy. Tyto procesní mapy slouží k lepší orientaci mezi procesy.
 Jako první je uvedena legenda, vysvětlující opět barvy a pak také styl provázanosti mezi procesy.
-![](Obrázky na roztřízení/legenda.png)[obrázek legendy]
+
+![](obrázky/legenda.png)
 
 **Process page map**
 
-Na této mapě je rozkreslena struktura stránek. Na hlavní stránku byla kromě tří sekcí s procesy přidána stránka s GG a také šablona.
-Dlašími důležitými složkami jsou Drafty a Archive.
-Drafty slouží pro tvrobu procesu - proces vzniká v této složce, kde jsou nastaveny speciální práva, jetnotliví členové Sales týmu zde namají přístup, pokud je nepozve page owner. To je povětšinou buď někdo z vedení Sales týmu (VP nebo Directror), či příslušný zástupce IS týmu. Poté co je proces odladěn a prodiskutovány jeho případné nedostatky je vypublikován Sales týmu do složky procesů.
+Na této mapě je rozkreslena struktura stránek. Na hlavní stránku byla kromě tří sekcí s procesy přidána stránka s Global Guidance a také šablona (__Template_) pro tvorbu nových procesů.
+Dalšími důležitými složkami, které byly přidány, jsou složkdy Drafts a Archive.
+Složka Drafrs je určena pro tvorbu procesních popisů - proces vzniká v této složce, kde jsou nastaveny speciální práva, jednotliví členové Sales týmu zde nemají přístup. Poté co je processní popis hotov a prodiskutovány jeho případné nedostatky je zveřejněn v hlavní procesní složce a tím spřístupněn všem členům Sales týmu.
 Další důležitou složkou je Archive, zde jsou také speciálně nastavena práva a to hlavně z toho důvodu, aby Sales tým případně nepoužíval zastaralé procesy.
 Tato složka byla vytvořena v průběhu přepisu procesu.
-Na další úrovni stránek jsou pak detajněji znázorněny jednotlivé složky Sales procesů, které byly charakterizovany jíž dříve.
+Na další úrovni stránek jsou pak detailněji znázorněny jednotlivé složky Sales procesů, které byly charakterizovany jíž dříve.
 Na mapě je pak vidět i jaké procesy se nachází uvnitř složky. Tato mapa by měla sloužit pro lepší orientaci na SIO.
 
 **Nedostatek**
 Kdyby bylo možné do obrázku vložit přímo odkazy na jednotlivé procesy, mohla by mapa sloužit jako rozcestník. To je ovšem jeden z dalších nedostatků SIO.
-[obrázek procesní mapy]![](Obrázky na roztřízení/Komplexní mapa.png)
+![](obrázky/Komplexní mapa.png)
 
 **Process connection map**
 
-Tahle mapa v sobě zahrnuje hned dvě spojení - první, v této mapě méně důležité je převzato z předchozí mapy a znázornuně propojesnot podstránek. Mnohem důležitější ovšem na této mapě je znázornění propojenosti procesu pomocí linků.
+Tato mapa v sobě zahrnuje hned dvě spojení - první, v této mapě méně důležité je převzato z předchozí mapy a znázornuně propojesnot podstránek. Mnohem důležitější ovšem na této mapě je znázornění propojenosti procesu pomocí linků.
 Je tady i skupinka procesů, které nejsou napojeny vůbec. Tyto procesy nejsou používány na denní bázi, spíše občasně.
 
 [obrázek procesní mapy]![](Obrázky na roztřízení/Propojení procesů.png)
