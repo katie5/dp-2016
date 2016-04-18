@@ -525,7 +525,7 @@ Procesní šablona má v základu tyto čtyři části (textové komponenty):
 
 ![](obrázky/Template.png)
 
-Nyní budou rozebrány jednotlivé sekce, které se v šabl
+Nyní budou rozebrány jednotlivé sekce, které se v šabloně vyskytují. Opět jsou zde účelně ponechány anglické názvy sekcí.
 
 - **Process Owner(s):**jsou zde uvedena jména těch, kdo jsou za proces zodpovědní. Většinou je zde jedno jméno, povětšinou Sales Directora a poté je zde uváděn ES team, jako zodpovědná osoba za údržbu procesu
 (*nyná je updtovat process ownera za ES team na SFDC Admina)
