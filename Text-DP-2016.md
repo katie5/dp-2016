@@ -545,7 +545,7 @@ Tím že byla vytvořeny výše zmíněné dokumenty, bylo dosaženo jak unifika
   
 Celkem bylo předěláno cca 30 procesů. Jako jeden z nejdůležitějších a také nejkomplikovanějších se vyjevil být proces partnerské registrace.
 
-#Partner Portal Signup#
+#Partner Registration#
 
 Na tomto procesu bude přiblížen postup práce během přepisu procesních popisů. Tento proces byl vytypovaný, jako jede z velmi důležitých procesů.
 
