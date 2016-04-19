@@ -639,8 +639,8 @@ Finální model je pak zpracován v programu MS Visio. Pro spracování modelu b
 ##Práce##
 
 Výchozí situace už tedy byla nastíněná.
-V první fázi bylo potřeba proces projít a smysluplně ho zkrátit.
-Bylo zachováno dělení na existujicí a nové partnery. V obou větvích procesu, pak byly vytknuty části, které se opakovaly. V tomto případě se jedná o pozvání partnera do Kerio Partner Portálu.
+V první fázi bylo potřeba proces projít, pochopit a smysluplně ho zkrátit.
+Bylo zachováno dělení na existující a nové partnery. V obou větvích procesu, pak byly vytknuty části, které se opakovaly. V tomto případě se jedná o pozvání partnera do Kerio Partner Portálu.
 
 [[obrázek průběžný - struktura stárnek obrázek č 2 ze sešitu]
 
@@ -662,9 +662,9 @@ Přitom dělení na Nové a stávající partnery bylo opět zachováno zachová
 Struktura stránek pak vypadala takto:
 [obrázek pro nové dělení do sekci podle rolí..]
 
-Je důležité zminit, že doposud se proces spoštěl vyplněním formuláře, který byl stejný jak pro Nové tak Existující partnery. K jejjich oddělení docházelo až v průběhu kvalifikace. (viz. model)
+Je důležité zmínit, že doposud se proces spouštěl vyplněním formuláře, který byl stejný jak pro nové tak existující partnery. K jejich oddělení docházelo až v průběhu kvalifikace.
 
-Zmíniť je to důležité v souvislosti z další změnou. Ta se týká měření výkonosti tohoto procesu.
+Zmínit je to důležité v souvislosti z další změnou. Ta se týká měření výkonnosti tohoto procesu.
 
 Možnost měřitelnosti je důležitým atributem každého procesu Účinnost každého procesu je možno ověřit pomoci reportu sestaveného v SFDC. I nad tímto procesem je sestaven report, který reportuje množství kontaktů přidaných do KPP. Ovšem to přestalo stačit. To že je partner úspěšně přidán a zaregistrován, neznamená, že společnosti začal vydělávat peníze.
 
