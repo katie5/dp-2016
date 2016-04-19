@@ -617,50 +617,50 @@ Zde je dle mého názoru výčet těch nejpatrnějších:
 
 1. proces je dlouhý a jsou v něm promíchány kroky pro více rolí.
 2. došlo zde k promíchání kroků, které je potřeba provést, vysvětlujících informací a také nejsou vyčleněny spouštěcí události
-3. nejsou jasně definované role, které proces mají vykonat
+3. nejsou jasně definované role, které mají příslušné části procesu vykonat
 4. dochází zde k duplicitám
 
 Proces bylo potřeba vyčistit, hlavně od duplicit. Tím došlo k redukci počtu stránek, na kterých byl původní proces napsán.
 
 V průběhu pročištění bylo zjištěno, že některé části procesu se liší velmi málo, například jenom v jednom kroku. Proto mohly být některé části procesu textově sloučeny.Případně, pokud se část procesu opakovala, byla vytknuta mimo.
 
-Na jednotlivé stránky, kde se procesy nořily do sebe, pak byly přidány jednoduché diagramy, jejichž účelem bylo pomoci při orientaci ve fázích procesu. Po prvních úpravách se tedy struktura stránek změnila takto:
+Na jednotlivé stránky, kde se procesy nořily do sebe, pak byly přidány jednoduché diagramy, jejichž účelem bylo pomoci při orientaci ve fázích procesu. 
+[obrázek pomocných zanoření]
 
-[obrázek průběžný - struktura stárnek obrázek č 2 ze sešitu]
-
-##Úpravy průběhu##
+##Úpravy průběhu procesu##
 
 Proces bylo potřeba upravit jak po stránce textové, tak i po stránce průběhové.
 Pro lepší průběh celého procesu, bylo potřeba ho namodelovat.
+Model byl vytvořený na základě výše zmíněných procesních popisů.
+Finální model je pak zpracován v programu MS Visio. Pro spracování modelu bylo potřeba zvolit takový program, který se ve firmě běžně používá.
 
-[obrázek modelů, původní proces![](Obrázky na roztřízení/Portal singups.png)..]
-
-
-Nejdříve bylo potřeba celý proces pochopit, jak probíhá, kdo v něm funguje atd. To zahrnovalo přečíst deskripce, udělat si poznámky a na základě poznámek vytvořit zběžný model, ze ktého bylo víc patrné, jak proces probíhá a kde je možné ho měnit.
-
-Model byl prostý vývojový diagram, k jeho vytvoření stačil papír a tužka. Model prezentovaný v této diplomové práci je pak zpracován v programu MS Visio. Pro spracování modelu bylo potřeba zvolit takový program, který se ve firmě běžně používá.
+[model původního procesu]
 
 ##Práce##
 
 Výchozí situace už tedy byla nastíněná.
-V první fázi jsem proces prošla a snažila se ho smysluplně rozdělit a zkrátit.
-Bylo zachováno dělení na Existujicí a Nové partnery. V obou větvích procesu, pak byly vytknuty části, které se opakovaly. V tomto případě se jedná o invitaci partnera do Kerio Partner Portalu (KPP).
-[obrázek ze sešitu číslo 2]
+V první fázi bylo potřeba proces projít a smysluplně ho zkrátit.
+Bylo zachováno dělení na existujicí a nové partnery. V obou větvích procesu, pak byly vytknuty části, které se opakovaly. V tomto případě se jedná o pozvání partnera do Kerio Partner Portálu.
 
-Tato verze procesu nějakou dobu fungovala, za nějaký čas opět doško ke změnám (* Tento proces se v průběhu zpracování práce změnil hned několikrát.)
+[[obrázek průběžný - struktura stárnek obrázek č 2 ze sešitu]
+
+Tato verze procesu nějakou dobu fungovala, za nějaký čas opět došlo ke změnám. 
+(* Tento proces se v průběhu zpracování práce změnil hned několikrát.)
 
 Dalšími změnami, které ovlivnily proces byly tyto:
-- zapojení SDR (nyní ISM) - ta má na starosti kvalifikaci Lead, čili potencionálnho partnera.
--návazný proces Partner Onboardingu, který je určený pouze pro Direct Partnery. Proces probíhá souběžně s dokončováním procesu partnerské registrace.
+- **zapojení SDR (nyní ISM)** - ta má na starosti kvalifikaci potencionálního partnera. Na základě této kvalifikace udává další směr procesu.
+- **návazný proces Partner Onboarding***  tento proces je určený pouze pro přímé partnery. Proces probíhá souběžně s dokončováním procesu partnerské registrace pro přímého partnera.
 
-Po těchto změnách bylo možné proces rozdělit přímo do sekcí, podle toho kdo, kterou část procesu vykonává.
+Po těchto změnách bylo možné procesní kroky rozdělit do sekcí, podle toho kdo, kterou část procesu vykonává jaká role.
 
-- SRR - Qualification
-- PAM - Invitation to KPP, sending Annex A
-- Ops - Partner set up in KISS
-- SM - Parnter Onboarding
+- SDR - sekce Kvalifikace
+- PAM - sekce pozvání partnera do KPP a odeslání partnerské smlouvy (ta je v procesních popisech označována jak Annex A)
+- Sales Ops - sekce nastavení partnera v systému KISS
+- SM - sekce návazného procesu Partner Onboarding
 
-Přitom dělení na Nové a stávající partnery bylo zachováno.
+Přitom dělení na Nové a stávající partnery bylo opět zachováno zachováno.
+Struktura stránek pak vypadala takto:
+[obrázek pro nové dělení do sekci podle rolí..]
 
 Je důležité zminit, že doposud se proces spoštěl vyplněním formuláře, který byl stejný jak pro Nové tak Existující partnery. K jejjich oddělení docházelo až v průběhu kvalifikace. (viz. model)
 
