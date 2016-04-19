@@ -724,8 +724,7 @@ HW Evaluation je proces, který měl na samém začátku omezení. Omezení se t
 Program Try and Buy byl po nějakém času od spuštění vyhodnocen jako úspěšný na základě množství vrácených boxů, které bylo minimální. To vedlo k tomu, že výše zmíněné omezení mohlo být s procesu odstraněno.
 
 ###Vývoj procesu###
-
-Nicméně na počátku bylo potřeba pracovat s oběmi možnostmi, jak mohl proces probíhat a to buď:
+Na počátku bylo potřeba pracovat s oběmi možnostmi, jak mohl proces probíhat a to buď:
 -  bez omezení, pro malé boxy
 -  s omezením, pro velké boxy, v každém Kerio regionu byl určitý počet velkých boxů, které bylo možné do programu zapojit
 
