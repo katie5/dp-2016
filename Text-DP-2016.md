@@ -585,10 +585,13 @@ Za prodejního partnera společnosti Kerio je považován subjekt, který se pod
 **Prodejce**-(_Reseller_)-jedná se menšího partnera Kerio oproti distriburorovi. Prodejce obvykle nakupuje produkty buď od distributora nebo přímo od společnosti Kerio a prodává je koncovým uživatelům.
 Pokud prodejce nakupuje produkty od distributora, jedná se o **nepřímého partnera**, pokud je nakupuje přímo od společnosti Kerio, jedná se o **přímého partnera**.
 
+Nyní je možné přistoupit k popisu změn v procesním popisu.
+
 **Rozhodnutí, které je potřeba v průběhu procesu učinit:**
-- Je partner Direct/indirect?
-- Má už přístup do KPP? 
-*vysvětlivka pod čárou-KPP je Kerio Partner Portal
+- Je partner přímý/nepřímý?
+- Je partner existující/ nový?
+- Má už přístup do Kerio Partner Portálu (dále jen KPP)? 
+*vysvětlivka pod čárou Kerio Partner Portál - je to portál určený pro spolupráci partnerů se společností. Partneři zde mohou vznášet dotazy, posílát požadavky prostřednictvím formulářů, jsou jim zde poskytovány informace o pruduktech a propagační materiály.
 
 [obrázek jednotlivých zanoření]
 
