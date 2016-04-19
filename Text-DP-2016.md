@@ -574,10 +574,9 @@ Upravený procesní popis byl vždy, po té co byl schválen, umístěn na míst
 
 ##Textové úpravy##
 
-V rámci pochopení toho,jak proces probíhá, bylo také nutné pochopit jednotlivá zanoření procesu do sebe a rozhodnutí, která je potřeba v průběhu procesu činit.
+V rámci pochopení toho,jak proces probíhá, bylo také nutné pochopit jednotlivá zanoření procesu do sebe a rozhodnutí, která je potřeba v průběhu procesu činit. Než budou popsány úpravy v procesním popisu, je potřeba pro úplnost a srozumitelnost následujících kroků uvést druhy partnerů, se kterými společnost Kerio spolupracuje
 
-**Partneři společnosti**
-Než budou popsány úpravy v procesním popisu, je potřeba pro úplnost a srozumitelnost následujících kroků uvést druhy partnerů, se kterými společnost Kerio spolupracuje.
+**Partneři společnosti***
 
 Za prodejního partnera společnosti Kerio je považován subjekt, který se podílí na prodeji výborků společnosti Kerio a podepsal se společností smlouvu o partnerství. Smlouva je stejná pro prodejce i distributory - partner tedy může být distributor či prodejce.
 
