@@ -701,9 +701,9 @@ Pozvání do KPP bylo dříve možné jen přes aplikaci speciálně pro toto ur
 
 Pro založení partnera v systému KISS a přidělení přihlašovacích údajů do Online Storu, bylo do nedávna potřeba jít do systému KISS a manuálně ho založit.
 Opět díky vyvinutí tlačítka v SFDC, je nyní možné založit partnera v KISSu na jeden klik. Do KISSu jsou poslány základní údaje o partnerovi z Accountu ze SFDC - tím se minimalizují chyby, ke kterým mohlo dojít při manuálním založení.
-Toto založení není zcela automatické, do KISSU je stále potřeba se přihlásit a poslat partnerovi přihlašovací údaje do Online Strou a nastavit speciální flagy.
+Toto založení není zcela automatické, do KISSU je stále potřeba se přihlásit a poslat partnerovi přihlašovací údaje do Online Storu a nastavit speciální flagy.
 
-Proces tedy nebyl jenom zkrácen, ale byl i technicky vylepšen. Protože bylo zjištěno, že příliš mnoho manuální práce v průběhu procesu, způsobuje v procesu chyby.
+Proces tedy nebyl jenom zkrácen, ale byl i technicky vylepšen. Protože bylo zjištěno, že příliš mnoho manuální práce v průběhu procesu, způsobuje v datech chyby.
 
 ##Nový proces##
 
