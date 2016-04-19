@@ -705,23 +705,21 @@ Toto založení není zcela automatické, do KISSU je stále potřeba se přihl�
 
 Proces tedy nebyl jenom zkrácen, ale byl i technicky vylepšen. Protože bylo zjištěno, že příliš mnoho manuální práce v průběhu procesu, způsobuje v datech chyby.
 
-##Nový proces##
+#Nový proces#
 
-V průběhu přepisování  stávajících procesů vznikaly i požadavky na nové procesy a dekripce k nim.
-Zpracování těchto deskripcí bylo mnohem jednodušší
-Bylo moné si proces vyzkoušet, určit správný postup, otestovat ho se zástupci Sales týmu a pak vypublikovat
+V průběhu přepisování  stávajících procesů vznikaly i požadavky na nové procesy a popisy k nim.
+Zpracování těchto popisů bylo mnohem jednodušší, než podle zastaralé deskripce zjišťovat, jak by proces měl podle deskripce fungovat a jak funguje doopravdy.
+Bylo možné proces vyzkoušet, určit správný postup, otestovat ho se zástupci Sales týmu a pak vypublikovat.
 
-Práce na tvorbě nového procesu a jeho deskripce je jednoduššní, než podle zastaralé deskripce zjišťovat, jak by proces měl podle deskripce fungovat a jak funguje doopravdy.
+Požadavky na nové procesy povětšinou přichází ze strany ředitelů Sales týmu, kteří jsou dle nových pravidel vlastníky procesu. 
 
-Požadavky na nové procesy povětšinou přichází ze strany Directorů Sales týmu. 
-
-##HW Evaluation##
+#HW Evaluation#
 
 Tento proces, respektive Try and Buy program, je určen pro partnery a má sloužit ke zvýšení prodejů hardwarového řešení pro firewall - Controll boxů.
 Pokud se partner do tohoto programu zapojí, může pak 30 zdarma používat produkt naplno bez jakéholiv omezení. Po uplynutí "evaluační" doby se pak musí rozhodnout, zda si produkt koupí nebo ho vrátí.
 
  
-HW Evaluation je proces, který měl na samém začátku omezení. Omezení se týkalo hlavně hardwaru, jehož množství pro proces bylo omezené. To z toho důvodu, že se nevědělo, jestli bude mít program u partnerů úspěch či ne.
+HW Evaluation je proces, který měl na samém začátku omezení. Omezení se týkalo hlavně typu hardwaru, jehož množství pro proces bylo omezené. To z toho důvodu, že se nevědělo, jestli bude mít program u partnerů úspěch či ne.
  
 Program Try and Buy byl po nějakém času od spuštění vyhodnocen jako úspěšný na základě množství vrácených boxů, které bylo minimální. To vedlo k tomu, že výše zmíněné omezení mohlo být s procesu odstraněno.
 
