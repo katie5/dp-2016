@@ -692,17 +692,16 @@ SDR - kvalifikuje Lead, pokud je validní vytvoří příležitost, po dokončen
 
 Nyní je možné lepe reportovat úspěšnost nabírání nových partnerů. Hodnocení je založené na množství příležitostí, které jsou úspěšné. Dá se na základě toho vyhodnocovat dopady různých kampaní. Díky Case, které jsou tvořeny se speciálním označením, je pak možné vyhodnocovat, kolik nových partnerů nakonec opravdu objedná zboží.
 
-Proces se tedy z původních 3(až 4) pracovníků dostal na dva(respektive 3). SDR zvládne udělat většinu úkonů sama - poslat partnerskou smlouvu, pozvat partnera do KPP i založit partnera v KISSU. 
+Proces se tedy z původních 3(až 4) pracovníků dostal na dva(respektive 3). SDR zvládne udělat většinu úkonů sama - poslat partnerskou smlouvu, pozvat partnera do KPP i založit partnera v systému KISS. 
 
 ###Systémová vylepšení###
-Poslední dně možnosti jsou možné hlavně díky systémovým vylepšením. 
-Pozvávní do KPP bylo dříve možné jen přes aplikaci speciálně pro toto určenou - Admin Lite. Nyní je možné partnera pozvat pomocí tlačítka přímo ze SFDC, které bylo vyvinuto - Manage KPP Access. Toto tlačítko partnera založí v KPP, přiradí ho do správných skupin na základě údajů na jeho Accountu v SFDC.
+Poslední úpravy v procesu byly  možné hlavně díky systémovým vylepšením. 
 
-Pro založení partnera v kissu a přidělení mu přihlašovacích údajů do online storu, bylo do nedávna potřeba jít do KISSU a manuálně ho založit.
+Pozvání do KPP bylo dříve možné jen přes aplikaci speciálně pro toto určenou - Admin Lite. Nyní je možné partnera pozvat pomocí tlačítka přímo ze SFDC, které bylo vyvinuto - Manage KPP Access. Toto tlačítko partnera založí v KPP a automaticky nakonfiguruje podle aktuálních informací v SFDC.
 
-Opět díky vyvinutí tlačítka v SFDC, je nyní možné založit partnera v KISSU na jeden klik. Do KISSu jsou posláný základní údaje o partnerovi z Accountu ze SFDC - tím se minimalizují chyby, ke ktrým mohlo dojít při manuálním založení.
-Toto založení není zcela automatické, do KISSU je stále potřeba se přihlásit a poslat partnerovi přihlašovací údaje do online strou a nastavit speciálni flagy.
-Propojení SFDC a KISS je nyní zajištěno Caší. Synchronizace mezi oběma systému probíhá každé dvě hodiny.
+Pro založení partnera v systému KISS a přidělení přihlašovacích údajů do Online Storu, bylo do nedávna potřeba jít do systému KISS a manuálně ho založit.
+Opět díky vyvinutí tlačítka v SFDC, je nyní možné založit partnera v KISSu na jeden klik. Do KISSu jsou poslány základní údaje o partnerovi z Accountu ze SFDC - tím se minimalizují chyby, ke kterým mohlo dojít při manuálním založení.
+Toto založení není zcela automatické, do KISSU je stále potřeba se přihlásit a poslat partnerovi přihlašovací údaje do Online Strou a nastavit speciální flagy.
 
 Proces tedy nebyl jenom zkrácen, ale byl i technicky vylepšen. Protože bylo zjištěno, že příliš mnoho manuální práce v průběhu procesu, způsobuje v procesu chyby.
 
