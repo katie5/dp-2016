@@ -556,7 +556,7 @@ Proces má vést k úspěšnému získání nového partnera a jeho správném z
 Proces je docela komplikovaný sám o sobě - proběhne zde několik rozhodnutí, která určují další směřování procesu. Další komplikací je, že procesu se účastní hned několik členů týmu.
 
 ##Postup úprav##
-1. pochopit proces, jak probíhá, kde se mnění
+1. pochopit proces, jak probíhá, kde se mění
 2. zjistit kdo proces vykonává 
 3. zjistit kdo je vlastníkem procesu
 4. ověřit aktuálnost procesu
@@ -566,49 +566,52 @@ Proces je docela komplikovaný sám o sobě - proběhne zde několik rozhodnutí
 8. publikace procesu Sales týmu.
 
 Tento postup práce byl dodržen s minimálními obměnami u všech přepisovaných procesů. Klíčový byl bod jedna.
-Bylo potřeba seznámit se s fungováním systému, s fungováním celé společnosti dříve, než bylo možné zahájit práce. Tuto část jde označit jako jednu z velmi obtížných, zvláště pro externistu.
-První úpravy procesních popisů proto nebyly jednoduché. Ovšem čím větší znalost systému SFDC a jeho propojenosti s dalšími systému, tím byl přepis dalších procesů jednodušší
+Bylo potřeba seznámit se s fungováním systému, s fungováním celé společnosti dříve, než bylo možné zahájit práce na přepisu. Tuto část jde označit jako jednu z velmi obtížných, zvláště pro externistu.
+První úpravy procesních popisů proto nebyly jednoduché. Ovšem čím větší znalost systému SFDC a jeho propojenosti s dalšími systémy, tím byl přepis dalších procesů jednodušší.
 
-Procesní popisy byly upravovány na speciální stránce, na kterou nemel přístup Sales tým. A to z toho důvodu, že přepis někdy trval déle, bylo potřeba zajistit, aby nedocházelo ke zmatení týmu v případě, že by procesní popis potřebovali použít.
+Procesní popisy byly upravovány na speciální stránce, na kterou neměl přístup Sales tým. A to z toho důvodu, že přepis někdy trval déle a bylo potřeba zajistit, aby nedocházelo ke zmatení týmu v případě, že by procesní popis potřebovali použít.
 Upravený procesní popis byl vždy, po té co byl schválen, umístěn na místo původního procesu.
 
 ##Textové úpravy##
 
-V rámci pochopení toho,jak proces probíhá, bylo také nutné pochopit jednotlivá zanoření procesu do sebe a rozhodnutí, která je potřeba v průběhu procesu činit. Než budou popsány úpravy v procesním popisu, je potřeba pro úplnost a srozumitelnost následujících kroků uvést druhy partnerů, se kterými společnost Kerio spolupracuje
+V rámci pochopení toho,jak proces probíhá, bylo také nutné pochopit jednotlivá zanoření procesu do sebe a rozhodnutí, která je potřeba v průběhu procesu činit. Než budou popsány úpravy v procesním popisu, je potřeba pro úplnost a srozumitelnost následujících kroků uvést druhy partnerů, se kterými společnost Kerio spolupracuje.
 
 **Partneři společnosti***
 
-Za prodejního partnera společnosti Kerio je považován subjekt, který se podílí na prodeji výborků společnosti Kerio a podepsal se společností smlouvu o partnerství. Smlouva je stejná pro prodejce i distributory - partner tedy může být distributor či prodejce.
+Za prodejního partnera společnosti Kerio je považován subjekt, který se podílí na prodeji výrobků společnosti Kerio a podepsal se společností smlouvu o partnerství. Smlouva je stejná pro prodejce i distributory - partner tedy může být distributor či prodejce.(zdroj)
 
-**Distributor**- Je největším a důvěryhodným partnerem společnosti. Obvykle má větší slevu a prodává produkty dalším prodejcům na trzích, kde Kerio neprodává přímo. Společnost má jenom několik distributorů ve vybraných zemích. Distritubor by neměl produkty společnosti Kerio prodávat koncovým uživatelům.
+**Distributor**- Je největším a důvěryhodným partnerem společnosti. Obvykle má větší slevu a prodává produkty dalším prodejcům na trzích, kde Kerio neprodává přímo. Společnost má jenom několik distributorů ve vybraných zemích. Distributor by neměl produkty společnosti Kerio prodávat koncovým uživatelům.
 
-**Prodejce**-(_Reseller_)-jedná se menšího partnera Kerio oproti distriburorovi. Prodejce obvykle nakupuje produkty buď od distributora nebo přímo od společnosti Kerio a prodává je koncovým uživatelům.
+**Prodejce**-(_Reseller_)-jedná se menšího partnera Kerio oproti distributorovi. Prodejce obvykle nakupuje produkty buď od distributora nebo přímo od společnosti Kerio a prodává je koncovým uživatelům.
 Pokud prodejce nakupuje produkty od distributora, jedná se o **nepřímého partnera**, pokud je nakupuje přímo od společnosti Kerio, jedná se o **přímého partnera**.
 
 Nyní je možné přistoupit k popisu změn v procesním popisu.
 
 **Rozhodnutí, které je potřeba v průběhu procesu učinit:**
-- Je partner přímý/nepřímý?
-- Je partner existující/ nový?
+- Je partner přímý či nepřímý?
+- Je partner existující či nový?
 - Má už přístup do Kerio Partner Portálu (dále jen KPP)? 
+
 *vysvětlivka pod čárou Kerio Partner Portál - je to portál určený pro spolupráci partnerů se společností. Partneři zde mohou vznášet dotazy, posílát požadavky prostřednictvím formulářů, jsou jim zde poskytovány informace o pruduktech a propagační materiály.
 
 Výchozí proces byl rozdělen takto:
-1. rozhodnutí - Existing Parnter / New partner
-- Existing partner je pak rozdělen do podsekcí:
-1. Direct / indirect - No Previous Partner Portal Acces
-1. Direct - Approved for Partner Portal
-1. Indirect - Approved for Partner Portal
-- New Partner je pak dále rozdělen do podsekcí:
-1.Direct
-1.Indirect
 
-[obrázek jednotlivých zanoření]
+První rozhodnutí muselo padnout o tom, jestli je partner přímý či nepřímý.
+Pokud bylo rozhodnuto, že se jedná o existujícího nebo nového. Pokud se jednalo o existujícího partnera, vyvstaly zde tři možnosti ze kterých bylo možno volit a to:
+1. Partner může být přímý i nepřímý, v minulosti už byl pozván do KPP, ale nikdy se do portálu nepřihlásil
+2. Partner je přímým partnerem. Je zde možnost, že je potřeba přidat do portálu jen nový kontakt. Dle potřeby i přístup do Online storu. Je potřeba ověřit, že je podepsaná smlouva o partnerství.
+3. Partner je nepřímý. V tomto případě se partner může rovnou znovu pozvat do partnerského portálu
+Pokud se jednalo o nového partnera, byly zde dvě možnosti, ze kterých volit:
+1. Partner se chtěl stát přímým partnerem. Pak bylo potřeba s ním podepsat partnerskou smlouvu atd.
+2. Partner byl nepřímým partnerem. V tom případě bylo možné ho pozvat do KPP okamžitě.
 
-Z obrázku i popisu je patrné, že i samotná struktura procesu je poněkud komplikovaná.
+[obrázek původní struktury stránek]
+
+Z obrázku i popisu je patrné, že jak struktura procesního popisu  tak i proces samotný je poněkud komplikovaný. Pokud chtěl pracovník Sales týmu, najít rychlo informaci, jak v procesu pokračovat, nebylo to vůbec jednoduché.
 
 Na části procesu která se věnuje novým partnerům, konkrétně přímým partnerům, je vidět hned několik problémů, které už byly pojmenovány. 
-[Obrázek porovnání dvou vedle sebe obrázku Partne P singup..tam kde se opakuji, zvýraznit kde se liší]
+
+[Obrázek nový přímý partner- stará verze]
 
 Zde je dle mého názoru výčet těch nejpatrnějších:
 
@@ -617,17 +620,17 @@ Zde je dle mého názoru výčet těch nejpatrnějších:
 3. nejsou jasně definované role, které proces mají vykonat
 4. dochází zde k duplicitám
 
-Na příkladu je patrné, že se některé části procesu zbytečně opakují. Pak je pro čtenáře / vykonavatele procesu mnohem těžší najít, v čem se proces liší od jiného.
-
-Proces bylo potřeba vyčistit, hlavně od těchto duplicit. Tím došlo k redukci počtu stránek, na kterých byl původní proces napsán.
+Proces bylo potřeba vyčistit, hlavně od duplicit. Tím došlo k redukci počtu stránek, na kterých byl původní proces napsán.
 
 V průběhu pročištění bylo zjištěno, že některé části procesu se liší velmi málo, například jenom v jednom kroku. Proto mohly být některé části procesu textově sloučeny.Případně, pokud se část procesu opakovala, byla vytknuta mimo.
 
-Na jednotlivé stránky, kde se procesy nořily do sebe, pak byly přidány jednoduché diagramy, jejichž účelem bylo pomoci při orientaci ve fázích procesu.
-[obrázek průběžný]
+Na jednotlivé stránky, kde se procesy nořily do sebe, pak byly přidány jednoduché diagramy, jejichž účelem bylo pomoci při orientaci ve fázích procesu. Po prvních úpravách se tedy struktura stránek změnila takto:
+
+[obrázek průběžný - struktura stárnek obrázek č 2 ze sešitu]
 
 ##Úpravy průběhu##
-Proces bylo potřeba upravi jak po stránce textové, tak i po stránce průběhové.
+
+Proces bylo potřeba upravit jak po stránce textové, tak i po stránce průběhové.
 Pro lepší průběh celého procesu, bylo potřeba ho namodelovat.
 
 [obrázek modelů, původní proces![](Obrázky na roztřízení/Portal singups.png)..]
