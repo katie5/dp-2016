@@ -636,6 +636,8 @@ Finální model je pak zpracován v programu MS Visio. Pro spracování modelu b
 
 [model původního procesu]
 
+Tím že byl proces namodelován, bylo možno určit části, které je možné zautomatizovat. Těmto vylepšením je věnována část na konci této kapitoly.
+
 ##Práce##
 
 Výchozí situace už tedy byla nastíněná.
@@ -666,31 +668,31 @@ Je důležité zmínit, že doposud se proces spouštěl vyplněním formuláře
 
 Zmínit je to důležité v souvislosti z další změnou. Ta se týká měření výkonnosti tohoto procesu.
 
-Možnost měřitelnosti je důležitým atributem každého procesu Účinnost každého procesu je možno ověřit pomoci reportu sestaveného v SFDC. I nad tímto procesem je sestaven report, který reportuje množství kontaktů přidaných do KPP. Ovšem to přestalo stačit. To že je partner úspěšně přidán a zaregistrován, neznamená, že společnosti začal vydělávat peníze.
+Možnost měřitelnosti je důležitým atributem každého procesu. Účinnost každého procesu je možno ověřit pomoci reportu sestaveného v SFDC. I nad tímto procesem je sestaven report, který reportuje množství kontaktů přidaných do KPP. Ovšem to přestalo stačit. To že je partner úspěšně přidán a zaregistrován, neznamená, že společnosti začal vydělávat peníze.
 
-Poslední významná změna v procesu tedy souvísí s vylepšením měřitelnosti tohoto procesu.   
-Vedením Sales týmu byl vznesen požadavek na lepší měřitelnost výstupu, argument je na snadě: marketingové kampaně stojí velmi mnoho peněž, je potřeba začít lépe zjišťovat jejich dopad.
-Marketingové kampaně jsou primárně spravovány přes Marketo, ovšem to je synchronizované ze SFDC, pokud se tedy pro nové partnery bude použivat správny objekt v SFDC, bude možné určit, z jaké kampaně partner přišel.
+Poslední významná změna v procesu tedy souvisí s vylepšením měřitelnosti tohoto procesu.   
+Vedením Sales týmu byl vznesen požadavek na lepší měřitelnost výstupu, argument je nasnadě: marketingové kampaně stojí velmi mnoho peněž, je potřeba začít lépe zjišťovat jejich dopad.
+Marketingové kampaně jsou primárně spravovány přes Marketo, ovšem to je synchronizované ze SFDC, pokud se tedy pro nové partnery bude používat správný objekt v SFDC, bude možné určit, z jaké kampaně partner přišel.
 
 Bylo tedy potřeba změnit objekty, které se v SFDC tvoří.
-V původním procesu to byl Case pro Nového i Existujícího partnera.
-V inovovaném procesu byl vytvořen separátní formulář pro nové partnery a separátní formulář pro partnery ecistující.
+V původním procesu to byl Case pro nového i existujícího partnera.
 
-Tím došlo i k odlenění Existujících partnerů od Novým potencionálních partnerů přímo v systému. Po vyplnění formuláře se vytvoří v SFDC pro každého partnera jiný objekt - pro nové se tvoři Lead, pro existující se tvoří Case.
+V inovovaném procesu byl vytvořen separátní formulář pro nové partnery a separátní formulář pro partnery existující.
+Tím došlo k oddělení existujících partnerů od novým potencionálních partnerů přímo v systému. Po vyplnění formuláře se vytvoří v SFDC pro každého partnera jiný objekt - pro nové se tvoří Lead (který se dále překlopuje v příležitost, pokud je Lead validní), pro existující se tvoří Case.
 
 [obrázek hig level průběhu Existing New]
 
-Teď, hlavně díky technickým vylepšením v KISSu a SFDC, je SDR schopná provést celý proces kvalifikace a pozvání do KPP sama.
-Pokud se jedná o Nového Direct partnerá, SDR vytvoří opportunitu pro SM, který s partnerem dále pracuje (onboarding). Onboarding končí momentem první objednávky partnera.
+Teď, hlavně díky technickým vylepšením v systému KISS a SFDC, je SDR schopná provést celý proces kvalifikace a pozvání do KPP sama.
+Pokud se jedná o nového přímého partnera, SDR vytvoří oportunitu pro SM, který s partnerem dále pracuje. Proces Onboarding končí momentem první objednávky partnera.
 
 Fáze procesu se tedy změnili do tohoto stavu:
-SDR - kvalificace lídu, zkonverování do opportunity, po dokončení pozvánky do KPP a založení partnera v KISSU je opportunita zavřená se statusem Closed - Won. Pokud se jednalo o Direct partnera, SDR vytvoří Case pro SM - a ten pokračuje v onboardingu.
+SDR - kvalifikuje Lead, pokud je validní vytvoří příležitost, po dokončení pozvánky partnera do KPP a založení partnera v KISSU je příležitost uzavřená se statusem Closed - Won. Pokud se jednalo o přímého partnera, SDR vytvoří Case pro SM - a ten pokračuje v procesu onboarding.
 
 [Hig level průběh nového partnera]
 
-Nyní je možné lepe reportovat úspěšnot nabírání nových partnerů. Hodnocení je založené na množství opportunit, které jsou úspěšné. Dá se na základě toho vyhodnocovat dopady různých kampaní. Díky Casům, které mají speciálni RT, je pak možné vyhodnocovat, kolik nových partnerů nakonec opravdu objedná zboží.
+Nyní je možné lepe reportovat úspěšnost nabírání nových partnerů. Hodnocení je založené na množství příležitostí, které jsou úspěšné. Dá se na základě toho vyhodnocovat dopady různých kampaní. Díky Case, které jsou tvořeny se speciálním označením, je pak možné vyhodnocovat, kolik nových partnerů nakonec opravdu objedná zboží.
 
-Proces se tedy z původních 3(až 4) pracovníků dostal na dva(respektive 3). SDR zvládne udělat většinu úkonů sama - poslat Annex A, pozvat partnera do KPP i založit partnera v KISSU. 
+Proces se tedy z původních 3(až 4) pracovníků dostal na dva(respektive 3). SDR zvládne udělat většinu úkonů sama - poslat partnerskou smlouvu, pozvat partnera do KPP i založit partnera v KISSU. 
 
 ###Systémová vylepšení###
 Poslední dně možnosti jsou možné hlavně díky systémovým vylepšením. 
