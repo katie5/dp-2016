@@ -349,7 +349,7 @@ Dalším pomocníkem je zvýraznění důležitých pasáží procesu, aby bylo 
 
 **Příklad**
 Jako příklad je zde uvedena procesní popis, který sloužil pro partnerskou registraci. Tento proces byl v průběhu revize procesních popisů aktualizován a měněn hned několikrát, proto je mu věnována samostatná část této práce.
-![](obrázky/Direct  + indirec Samepage.png)
+
 
 ###Šestý problém###
 Špatné třídění procesů. Jak je vidět na obrázku níže, procesy vznikaly velmi genericky, byla zde snaha je roztřídit do skupin, nicméně po čase skupiny přestaly odpovídat a postupným vnořováním jednoho procesu do druhého, respektive stránky do druhé, vznikaly zmatky.
@@ -593,8 +593,6 @@ Nyní je možné přistoupit k popisu změn v procesním popisu.
 - Má už přístup do Kerio Partner Portálu (dále jen KPP)? 
 *vysvětlivka pod čárou Kerio Partner Portál - je to portál určený pro spolupráci partnerů se společností. Partneři zde mohou vznášet dotazy, posílát požadavky prostřednictvím formulářů, jsou jim zde poskytovány informace o pruduktech a propagační materiály.
 
-[obrázek jednotlivých zanoření]
-
 Výchozí proces byl rozdělen takto:
 1. rozhodnutí - Existing Parnter / New partner
 - Existing partner je pak rozdělen do podsekcí:
@@ -605,9 +603,11 @@ Výchozí proces byl rozdělen takto:
 1.Direct
 1.Indirect
 
+[obrázek jednotlivých zanoření]
+
 Z obrázku i popisu je patrné, že i samotná struktura procesu je poněkud komplikovaná.
 
-Na části procesu která se věnuje Novým partnerům, konkrétně Direct partnerům, je vidět hned několik problémů, které už byly pojmenovány. 
+Na části procesu která se věnuje novým partnerům, konkrétně přímým partnerům, je vidět hned několik problémů, které už byly pojmenovány. 
 [Obrázek porovnání dvou vedle sebe obrázku Partne P singup..tam kde se opakuji, zvýraznit kde se liší]
 
 Zde je dle mého názoru výčet těch nejpatrnějších:
