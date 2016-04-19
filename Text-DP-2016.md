@@ -547,29 +547,44 @@ Celkem bylo předěláno cca 30 procesů. Jako jeden z nejdůležitějších a t
 
 #Partner Registration#
 
-Na tomto procesu bude přiblížen postup práce během přepisu procesních popisů. Tento proces byl vytypovaný, jako jede z velmi důležitých procesů.
+Na tomto procesu bude přiblíženo, jaký byl postup práce během přepisu procesních popisů. Tento proces byl vytypovaný, jako jede z velmi důležitých procesů.
+Hned první změnou je, že původně se proces jmenoval Partner Portal Signup. Během diskuze o změnách v procesech bylo rozhodnuto o změně názvu na Patner Registration.
 
 ##Charakteristika procesu##
-Proces má vést k úspěšnému získání nového partnera a jeho správném založení v SFDC, potažmo v KISSU. Po založení v těchto systémech jsou partnerovi poskytnuty přístupy do partnerského portálu či online storu(pokud je požaduje).
+Proces má vést k úspěšnému získání nového partnera a jeho správném založení v SFDC, potažmo v systému KISS. Po založení v těchto systémech jsou partnerovi poskytnuty přístupy do partnerského portálu či Online obchodu společnosti Kerio(pokud je požaduje).
 
 Proces je docela komplikovaný sám o sobě - proběhne zde několik rozhodnutí, která určují další směřování procesu. Další komplikací je, že procesu se účastní hned několik členů týmu.
 
 ##Postup úprav##
 1. pochopit proces, jak probíhá, kde se mnění
-2. zjistit kdo proces vykonává
-3. ověřit aktuálnost procesu
-4. vyčistit a zkrátit procesní popis
-5. vytknout části, které se v procesu opakují
-6. ověřit správnost přepsaného procesu
-7. publikace procesu Sales týmu.
+2. zjistit kdo proces vykonává 
+3. zjistit kdo je vlastníkem procesu
+4. ověřit aktuálnost procesu
+5. vyčistit a zkrátit procesní popis
+6. vytknout části popisu, které se v procesu opakují
+7. ověřit správnost přepsaného procesu
+8. publikace procesu Sales týmu.
 
-Tento postup práce byl dodržen s minimálními obměnami u všech přepsaných procesů. Klíčový byl bod jedna. Jako člověkovi s venku, který se musel postupně se systémém SFDC seznámit to nebyo jednoduché. První procesy šly velmi ztuha. Čím déle sem ovšem se systémem pracovala, a začala chápat různá propojení, tím jednodušší přepisy začaly být.
+Tento postup práce byl dodržen s minimálními obměnami u všech přepisovaných procesů. Klíčový byl bod jedna.
+Bylo potřeba seznámit se s fungováním systému, s fungováním celé společnosti dříve, než bylo možné zahájit práce. Tuto část jde označit jako jednu z velmi obtížných, zvláště pro externistu.
+První úpravy procesních popisů proto nebyly jednoduché. Ovšem čím větší znalost systému SFDC a jeho propojenosti s dalšími systému, tím byl přepis dalších procesů jednodušší
 
-Procesy pak byly přepisovány mimo hlavní stránku a to z toho důvodu, aby v případě použití procesu, nedošlo ke zmatení.
+Procesní popisy byly upravovány na speciální stránce, na kterou nemel přístup Sales tým. A to z toho důvodu, že přepis někdy trval déle, bylo potřeba zajistit, aby nedocházelo ke zmatení týmu v případě, že by procesní popis potřebovali použít.
+Upravený procesní popis byl vždy, po té co byl schválen, umístěn na místo původního procesu.
 
 ##Textové úpravy##
 
 V rámci pochopení toho,jak proces probíhá, bylo také nutné pochopit jednotlivá zanoření procesu do sebe a rozhodnutí, která je potřeba v průběhu procesu činit.
+
+**Partneři společnosti**
+Než budou popsány úpravy v procesním popisu, je potřeba pro úplnost a srozumitelnost následujících kroků uvést druhy partnerů, se kterými společnost Kerio spolupracuje.
+
+Za prodejního partnera společnosti Kerio je považován subjekt, který se podílí na prodeji výborků společnosti Kerio a podepsal se společností smlouvu o partnerství. Smlouva je stejná pro prodejce i distributory - partner tedy může být distributor či prodejce.
+
+**Distributor**- Je největším a důvěryhodným partnerem společnosti. Obvykle má větší slevu a prodává produkty dalším prodejcům na trzích, kde Kerio neprodává přímo. Společnost má jenom několik distributorů ve vybraných zemích. Distritubor by neměl produkty společnosti Kerio prodávat koncovým uživatelům.
+
+**Prodejce**-(_Reseller_)-jedná se menšího partnera Kerio oproti distriburorovi. Prodejce obvykle nakupuje produkty buď od distributora nebo přímo od společnosti Kerio a prodává je koncovým uživatelům.
+Pokud prodejce nakupuje produkty od distributora, jedná se o **nepřímého partnera**, pokud je nakupuje přímo od společnosti Kerio, jedná se o **přímého partnera**.
 
 **Rozhodnutí, které je potřeba v průběhu procesu učinit:**
 - Je partner Direct/indirect?
