@@ -1114,7 +1114,6 @@ Další otázky už byly zaměřené na identifikaci člena týmu. Dotazník byl
 Na závěr bylo všem účastníkům poděkováno za účast a prokázáno, že zmíněné triko opravdu existuje, jako vtip byla přidána fotka trička. Byla to jakási odměna za účast.
 
 
-
 ##Záverečné shrnutí##
 
 
