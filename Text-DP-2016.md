@@ -788,15 +788,15 @@ Proces nyní probíhá bez omezení. Na níže uvedeném obrázku můžeme vidě
 
 Díky této automatizaci bylo možné procesní popis seskládat trošku jinak než obvykle.
 Kroky procesu byly rozděleny do sekcí podle rolí, která má kroky vykonat. Dalším dělením pak bylo dělení na kroky s omezením a bez omezení - toto dělení bylo již z procesu odstraněno.
-Tento proces je veden postupným tvořen jak se postupně tvoří úkoly pro příslušné role. V momentě kdy je automaticky vytvořen úkol, spustí se kroky pro příslušnou roli.
+Tento proces je veden postupným tvořením úkolů pro příslušné role. V momentě kdy je automaticky vytvořen úkol, spustí se kroky pro příslušnou roli.
 
 V hlavičce procesu je tedy vždy uveden předmět úkolu a následné kroky. 
 [obrázek deskripce]
-[ukázka tásku]
  
 Tásky v SFDC v tomto případě obsahují link na příslušné kroky procesu, které se mají vykonat.
 [ukázka tásku]
-##Globální vylepšení##
+
+#Globální vylepšení#
 Po tom, co byly procesy sjednoceny a hlavně aktualizovány, bylo možné víc pracovat na propojení deskripcí přímo ze SFDC.
 
 Do SFDC byly přidány linky přímo do SIO, na konkrétní proces, který Sales pracovník vykonával na daném objektu.
