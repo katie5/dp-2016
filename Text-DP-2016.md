@@ -797,12 +797,13 @@ Tásky v SFDC v tomto případě obsahují link na příslušné kroky procesu, 
 [ukázka tásku]
 
 #Globální vylepšení#
-Po tom, co byly procesy sjednoceny a hlavně aktualizovány, bylo možné víc pracovat na propojení deskripcí přímo ze SFDC.
 
-Do SFDC byly přidány linky přímo do SIO, na konkrétní proces, který Sales pracovník vykonával na daném objektu.
-Linky byly přidány na tyto objekty:
-- Casy
-- Vybrané druhy Tásků
+Po tom, co byly procesy sjednoceny a hlavně aktualizovány, bylo možné víc pracovat na propojení procesních popisů přímo ze SFDC.
+
+Na vybrané objekty v SFDC byly přidány odkazy na příslušný procesní popis.
+Vvybranímy objekty jsou:
+- Případy (_Case_) - vzhledem k tomu, že případy s tvoří povětšinou na základě určitého požadavku bylo možné tyto objekty propojit s příslušným procesním popisem pro tento požadavek.
+- Úkoly (_Task_) - ne ke všem úkolům bylo možné připradit příslušný procesní popis. Toto zlepšení bylo využito poze v případě úkolů, které se tvoří běhěm procesu HW Evaluation, kde to nastavení dovoluje.
 
 Jak později vyplyne z dotazníkového šetření, které bylo vedeno v Sales týmu, z výsledků jde usoudit, že si těchto linků moc nevšimli.
 
