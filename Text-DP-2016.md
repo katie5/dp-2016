@@ -501,7 +501,7 @@ první pravidlo se týká úpravy textu, je zde uveden odkaz na Global Guidance,
 Nejdříve malé vysvětlení, proč bylo toto pravidlo nutné zavést:
 Tabulka je jedna z dalších komponent SIO, která byla využívána hlavně k nadefinování stavů, jednotlivých objektů. Důležité pak zejména bylo tyto stavy shluknout na jedno místo. Stavy jsou povětšinou vyplněny v políčku. Zjednodušeně by se tedy dalo říct, že v tabulkách jsou zachyceny vysvětlivky k jednotlivým políčkům. Mezi důležíté políčka například patří stavy jednotlivých příležitostí - u příležitostí je navíc často změnou stavu spuštěna navazující automatická akce. Proto dokumentace těchto stavů není důležitá jen pro Sales tým (vědí jak si ulehčit práci), ale také jako dokumentace pro ES tým, když provádí nějaké změny v nastavení systému SFDC. Nehledě na to, že příležisti existuje v systému používáném Keriem hned několik druhů (určuje je tzv. Record Type) a pro každý druh příležitosti jsou pak nadefinované trošku jiné stavy. Pro lepší ilustraci, je uveden příklad stavů příležitostí, které spadají do kategorie HW Evaluation.
 
-![](obrázky/HW Eval opp stages.png)
+[obrýzek opp stage - jiný než Hw eval]
 
 Pro tabulky tedy bylo stanoveno jednoduché pravidlo, používat je v případě, kdy je potřeba vysvětlit nějako větší skupinu políček, případně jedno políčko, které má více než jeden stav.
 
@@ -737,7 +737,7 @@ I díky tomuto kroku, vyčlenení tohoto typu opporunity, bylo možné značnou 
 
 Bylo zde nastaveho hned několik workflows, které se spustí na základě provedené změny na opportunitě. Konkrétně při zněně Opportunity stage.
 
-[obrázek opp stage pro hw evaluation] 
+![](obrázky/HW Eval opp stages.png)
 
 U tvoření tohoto procesu byla maximálni snaha o to, aby sales do procesu nemuseli zasahovat manuálně - snažili jsme* se předejít případným chybám.
 (*Za procesní deskripci pro Sales tým jsem byla zodpovědná já, systémové nastavení prováděl kolega)
