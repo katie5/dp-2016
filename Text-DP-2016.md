@@ -803,15 +803,17 @@ Po tom, co byly procesy sjednoceny a hlavně aktualizovány, bylo možné víc p
 Na vybrané objekty v SFDC byly přidány odkazy na příslušný procesní popis.
 Vvybranímy objekty jsou:
 - Případy (_Case_) - vzhledem k tomu, že případy s tvoří povětšinou na základě určitého požadavku bylo možné tyto objekty propojit s příslušným procesním popisem pro tento požadavek.
-- Úkoly (_Task_) - ne ke všem úkolům bylo možné připradit příslušný procesní popis. Toto zlepšení bylo využito poze v případě úkolů, které se tvoří běhěm procesu HW Evaluation, kde to nastavení dovoluje.
+- Úkoly (_Task_) - ne ke všem úkolům bylo možné připradit příslušný procesní popis. Toto zlepšení bylo využito poze v případě úkolů, které se tvoří během procesu HW Evaluation, kde to nastavení dovoluje.
 
-Jak později vyplyne z dotazníkového šetření, které bylo vedeno v Sales týmu, z výsledků jde usoudit, že si těchto linků moc nevšimli.
+Jak později vyplyne z dotazníkového šetření, které bylo provedeno v Sales týmu, z výsledků je možné usoudit, že i přes veškerou snahu, některá vylepšení zůstala nepovšimnuta.
 
 #Dotazníkové šetření#
-Po dokončení prací na přepisu a úpravách procesů bylo potřeba zjisti, jak jsou s ní spokojení hlavní uživatelé, tedy členové Sales týmu.
-Byl tedy vytvořen dotazník a ten byl rozeslán všem příslušníkům Sales týmu, včetně VP a Directorů, celkově 31 lidem. Dotazník byl odeslán na přelomu ledna a února 2016, po dohodě z VP v období, kdy mají Sales trošku volnější období. Účelem dotazníků bylo zjistit, zda Sales tým používá procesy, pokud je nepoužívá tak proč.
+Po dokončení prací na přepisu procesních popisů a úpravách procesů bylo potřeba zjisti, jak jsou s ní spokojení hlavní uživatelé, tedy členové Sales týmu.
+Byl tedy vytvořen dotazník a ten byl rozeslán všem členům Sales týmu, celkově 31 lidem. Dotazník byl odeslán na přelomu ledna a února 2016, po dohodě s viceprezidentem v období, kdy mají Sales trošku volnější období. 
+Účelem dotazníků bylo zjistit, zda Sales tým používá procesy, pokud je nepoužívá tak proč.
 Na účast v dotazníkovém šetření byla určena časová lhůta, cca jeden týden. Tato lhůta se několikrát posouvala z důvodu, že bylo potřeba dosáhnout minimálně 50% účasti členů Sales týmu. Výsledky by jinak nebyly vypovídající.
 Tento cíl, dosáhnout minimálně 50% účastni byl splněn.
+
 [Tabulka podle účastníků, (tu co sem už tvořila)]
 
 V tabulce jsou uvedeny počty pracovníků v jednotlivých kancelářích a dále pak počet účastníků z těchto kanceláří
@@ -822,7 +824,6 @@ Nyní budou postupně rozebrány otázky, proč byly položeny a jaké odpovědi
 
 Otázek bylo celkem 19, zodpovězení otázek v průměru zabralo 12 minut. U všech otázek byla vyžadována odpověď, takže nebylo možné otázky přeskočit, či vynechat.
 
-Účelem dotazníků bylo zjistit, zda Sales tým používá procesy, pokud je nepoužívá tak proč.
 
 ##Rozbor otázek##
 
@@ -833,7 +834,7 @@ Otázek bylo celkem 19, zodpovězení otázek v průměru zabralo 12 minut. U v�
 - find solution on Samepage
 - use your creativity
 
-Tato otázka mířila na samou podstatu existence procesních deskripcí. Na základě odpovědí na tuto otázku zle posoudit, zda zde jsou tendence procesní deskripce používat, nebo spíše ne. 
+Tato otázka mířila na samou podstatu existence procesních deskripcí. Na základě odpovědí na tuto otázku zle posoudit, zda zde jsou tendence procesní popisy používat, nebo spíše ne. 
 
 **Výsledky:**
 
@@ -862,7 +863,7 @@ U 2. otázky totiž 83% respondentů odpovědělo, že se někdy pokusili najít
 - Yes
 - No
 
-Tato otázka už více míří k jádru pudla. Všechny procesy, jsou umístěny na jedné stránce na SIO, Process page. Všichni ze Sales týmu by tuto stránku měli sledovat a to z toho důvodu, že pokud se v procesu něco změní, SIO odešle notifikaci o změně všem, kteří tuto stránku sledují. 
+Tato otázka už více míří k podstatě věci. Všechny procesy, jsou umístěny na jedné stránce na SIO, Process page. Všichni ze Sales týmu by tuto stránku měli sledovat a to z toho důvodu, že pokud se v procesu něco změní, SIO odešle notifikaci o změně všem, kteří tuto stránku sledují. 
 
 **Výsledky:**
 
@@ -892,9 +893,9 @@ Důvody proč sledují tuto stránku:
 
 Z výsledků je patrné, že někteří sice hlavní procesní stránku sledují, ale nezaznamenali změnu v tom, že procesy byly aktualizovány a zkráceny.
 
-Důvody proč nesledovat stránku mi připadají jako velmi neopodstatněné.
+Důvody proč nesledovat stránku jsou dle mého názoru neopodstatněné.
 
-Po prvních čtyřech položených otázkách bylo možné zběžně  vyhodnotit, zda odpovědi hádají, či odpovídají popravdě. Mohlo by být namítnuto, že počet těchto otázek, které směřují k jednomu bodu, by mohl být zredukován. Všechny otázky měly mezi sebou nějakou vazbu.
+Po prvních čtyřech položených otázkách bylo možné zběžně  vyhodnotit, zda odpovědi respondenti hádají, či odpovídají popravdě. Mohlo by být namítnuto, že počet těchto otázek, které směřují k jednomu bodu, by mohl být zredukován. Všechny otázky měly mezi sebou nějakou vazbu.
 Další otázky už více směřují ke konkrétním věcem, které by měli členové Sales týmu znát. Významné změny, či vylepšení systému SFDC jsou jim oznámeny pomocí notifikace, která obsahuje i případný odkaz na příslušný proces.
 
 **5. otázka: Why do the process block titles have different colors?**
@@ -905,11 +906,11 @@ Další otázky už více směřují ke konkrétním věcem, které by měli čl
 - to separate automatic and manual steps
 - to separate steps done in different systems (SFDC, KISS etc.)
 
-Tato otázka již šla více po podstatě věci. V předchozí kapitole této práce byla představená Global Gudiance (GG), která obecně upravuje pravidla psaní pro procesy. GG byla představena i Sales týmu, tato otázka míří na to, zda se s ní nějakým způsobem seznámili, či ne.
+Tato otázka již šla více po podstatě věci. V předchozí kapitole této práce byl představen dokument Global Guidance, který obecně upravuje pravidla psaní pro procesy. Global Guidance byla představena i Sales týmu, tato otázka míří na to, zda se s ní nějakým způsobem seznámili, či ne.
 
 **Výsledky:**
 
-U této otázky je možná jenom jedna správná odpověď a to ta první, aby se oddělily role, které mají vykonat příslušné kroky procesu. Správnou odpověď zvolilo 61% respondentů. 22% respondentů si myslelo, že účelem je oddělit systému, ve kterých se proces odehrává. Tato odpoveď byla zařazena schválně, jako mírně zavádějicí, aby bylo případně možné rozpoznat, zda Sales ví, nebo typují. Dalších 13% respondentů si myslelo, že barevné nadpisy jsou můj rozmar.
+U této otázky je možná jenom jedna správná odpověď a to ta první, aby se oddělily role, které mají vykonat příslušné kroky procesu. Správnou odpověď zvolilo 61% respondentů. 22% respondentů si myslelo, že účelem je oddělit systémy, ve kterých se proces odehrává. Tato odpoveď byla zařazena záměrně, jako mírně zavádějící, aby bylo případně možné rozpoznat, zda respondent odpověď ví, nebo typuje. Dalších 13% respondentů si myslelo, že barevné nadpisy jsou můj rozmar.
 Může být konstatováno, že Sales na tuto otázku odpověděli správně, což je uspokojivé.
 
 **6. otázka: Do you know about Global Guidance page (how to read / write processes)?**
@@ -918,7 +919,7 @@ Může být konstatováno, že Sales na tuto otázku odpověděli správně, co�
 - yes, and I have read it
 - yes, but I didn't have chance to read it yet
 - no
-Pokud předchozí otázka jenom směřovala na GG, tato už se otevřeně ptá na její existenci.
+Pokud předchozí otázka jenom směřovala na Global Guidance, tato už se otevřeně ptá na její existenci.
 
 **Výsledky:**
 
@@ -933,15 +934,16 @@ U této otázky jsou výsledky, v souvislosti s předchozí otázkou, již mén�
 - every time I use the process
 - not at all
 
-Tato otázka se opět přímo ptá, za procesy čtou či nečtou. Oklikou se dostáváme opět k otázce číslo jedna, která se ptala na dá se říci stejnou věc, akorát z jiné strany. Tato otázka má opět i kontrolní účel, zda jsou odpovědi "pravdivé"
+Tato otázka se opět přímo ptá, za procesy čtou či nečtou. Oklikou se dostáváme opět k otázce číslo jedna, která se ptala na, dá se říci, stejnou věc, akorát z jiné strany. Tato otázka má opět i kontrolní účel, zda jsou odpovědi "pravdivé"
 či spíše "hádané".
 
 **Výsledky:**
 
-43% respondentů odpovědělo, že procesy čtou v momentě, kdy se zaseknou. To je poněkud v rosporu s otázkou číslo jedna, kdy většina respondentů odpověděla, že se zeptá kolegy a nehledá přímo odpověď na SIO.
+43% respondentů odpovědělo, že procesy čtou v momentě, kdy se zaseknou. To je poněkud v rozporu s otázkou číslo jedna, kdy většina respondentů odpověděla, že se zeptá kolegy a nehledá přímo odpověď na SIO.
 Druhou nejfrekventovanější odpovědí pak bylo, že procesy nečtou vůbec - 26%.
 Což pro mně není uspokojivý výsledek, spolu s poznatky z odpovědí respondentů na otázku číslo 4, lze identifikovat další  náměty ke zlepšování.
 Další 22% odpovědělo, že procesy čtou když dostanou notifikaci. Což pokud nesledují příslušnou stránku, nikdy nedostanou, tudíž nečtou.
+[grafika]
 
 **8. otázka: Where do you get the information about new / updated processes from?**
 
@@ -968,11 +970,11 @@ Další cestou je nejčastěji upozornění od kolegy či nadřízeného (35% a 
 - Webinar (video conference with Q&A at the end)
 - Other suggestions
 
-V souvislosti s předchozí otázkou, byly vzneseny návrhy, jak případně zlepšit komunikaci o změnách v procesech, které většinou provádí IS tým směrem k Sales týmu. Vyhodnocení této otázky bude klíčové pro IS tým a zlepšení komunikace.
+V souvislosti s předchozí otázkou, byly vzneseny návrhy, jak případně zlepšit komunikaci o změnách v procesech, které většinou provádí ES tým směrem k Sales týmu. Vyhodnocení této otázky bude klíčové pro ES tým a zlepšení komunikace.
 
 **Výsledky:**
 
-z odpovědí vyplává, že většina,52%, respondentů je spokojená s pouhými notifikacemi ze SIO. dalších 44% by uvítali offline webináře či přímo online webinář. 
+z odpovědí vyplývá, že většina,52%, respondentů je spokojená s pouhými notifikacemi ze SIO. dalších 44% by uvítali offline webináře či přímo online webinář. 
 
 Tyto návrhy jsou brány v potaz a bude se s nimi dále pracovat. První budou na řadě nejspíš offline webináře, na základě jejich přijetí se bude uvažovat o online webinářích. 
 
@@ -1003,6 +1005,7 @@ Další odpovědi byly zanedbatelné.
 
 Z výsledků vyplývá, že je potřeba změny komunikovat z více zdrojů a pokud možno za podpory nadřízených v Sales týmu.
 
+[grafika]
 
 **11. otázka: Who is Katka (Katerina)?**
 
@@ -1064,6 +1067,7 @@ Páte tvrzení mělo opět neutrální hodnocení na známce 3,17. Zde je zajím
 Sedmé tvrzení bylo v průměru hodnoceno známkou 2, 74. Toto hodnocení nazančuje, že potřeba číst nové procesy tu je. Jen je potřeba najít tu správnou cestu.
 Poslední tvrzení bylo zaměřene na časovou náročnost, v průměru bylo hodnoceno známkou 2,78. S čehoz lze usuzovat, že Sales tým má čas na to, číst aktualizované vezre procesu. Toto hodnoceni tvzení lze považovat za uspokojivé.
 
+[grafika]
 
 **14. otázka: If you face issue while using SFDC, you:**
 
@@ -1109,7 +1113,7 @@ Další otázky už byly zaměřené na identifikaci člena týmu. Dotazník byl
 
 Na závěr bylo všem účastníkům poděkováno za účast a prokázáno, že zmíněné triko opravdu existuje, jako vtip byla přidána fotka trička. Byla to jakási odměna za účast.
 
-[obrázek trička? jako for?]
+
 
 ##Záverečné shrnutí##
 
