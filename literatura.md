@@ -40,6 +40,9 @@ https://samepage.io/app/#!/72f3728084841d1a9db65c44335a41d27bfa96c2/page-84466-s
 NFR
 **http://www.kramekuslona.cz/downloads/NFR_Software.pdf**
 
+Definice procesu.
+Harmon, Paul. https://books.google.cz/books?id=trTrAgAAQBAJ&pg=PA174&dq=define+process+owner&hl=cs&sa=X&ved=0ahUKEwiP8_fvuKLMAhWHWCwKHZA4CYQQ6AEIKzAC#v=onepage&q=define%20process%20owner&f=false
+
 **První problém**
 https://www.techopedia.com/definition/4525/process-owner
 
