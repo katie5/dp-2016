@@ -54,3 +54,9 @@ http://www.brcommunity.com/b668.php
 
 http://www.itsmprofessor.net/2015/05/what-is-difference-between-process.html,
 
+
+[Spolu se základní charakteristikou systému je dále potřeba nadefinovat základní pojmy, které se budou v procesech vyskytovat a je potřeba chápat jejich význam. Pak může být přistoupeno k charakteristice popisu procesů pro Sales tým.] 
+
+Dále je potřeba uvést, že společnost Kerio působí celosvětově, proto jsou procesní postupy uváděny v angličtině
+
+V této kapitole bude nadefinován pojem proces, 
